@@ -1,0 +1,167 @@
+{
+    "id": "idukki_munnar_chokramudi_peak",
+    "name": "Chokramudi Peak",
+    "category": "Trekking / Mountain",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Chokramudi Peak, Bison Valley Road, Munnar, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Gap Road",
+            "Bison Valley"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fchokramudi%2F1.jpg",
+            "caption": "Trekking path to Chokramudi Peak"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fchokramudi%2F2.jpg",
+            "caption": "View of Idukki dam from Chokramudi"
+        }
+    ],
+    "history": {
+        "short_description": "Known as the smaller sister of Anamudi.",
+        "detailed": "A popular trekking spot with colonial trekking routes. It stands isolated and offers a distinct view of the landscape compared to other peaks."
+    },
+    "significance": {
+        "heritage": "Natural heritage.",
+        "tourism": "Offers breathtaking views of Idukki's mountains, Shola forests, and tea plantations.",
+        "culture": "Adventure spot."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Trekking Hours",
+                "start_time": "06:00",
+                "end_time": "17:00"
+            }
+        ],
+        "activities": [
+            "Trekking",
+            "Mountain viewpoints",
+            "Nature walks",
+            "Photography"
+        ],
+        "entry_rules": {
+            "entry_fee": "Trekking charges apply (Forest Dept)",
+            "warnings": [
+                "Steep climb",
+                "Wear proper shoes"
+            ]
+        },
+        "recommended_visit_duration_minutes": 180,
+        "best_time_to_visit": [
+            "Winter",
+            "Early summer"
+        ],
+        "average_crowd_level": "Low"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Thrilling trek",
+            "360 degree view",
+            "Less crowded"
+        ],
+        "common_complaints": [
+            "Steep sections",
+            "Windy at top"
+        ],
+        "tips_from_visitors": [
+            "Ideal for intermediate-level trekkers.",
+            "Wear proper shoes.",
+            "Carry water."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 110,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 110,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 22,
+            "description": "On Bison Valley road.",
+            "parking_info": "Roadside parking."
+        },
+        "local_transport_tips": [
+            "Hire a taxi to base.",
+            "Bus service limited."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Local Homely Food Stalls",
+            "type": "Stalls",
+            "distance_km": 2,
+            "price_range": "₹",
+            "special_notes": "Basic food."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Oak Fields Resort",
+            "type": "Resort",
+            "distance_km": 5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Comfort"
+            ]
+        },
+        {
+            "name": "Windermere Estate",
+            "type": "Resort",
+            "distance_km": 15,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Luxury"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Lockhart Gap View",
+            "approx_distance_km": 5
+        },
+        {
+            "name": "Power House Waterfalls",
+            "approx_distance_km": 8
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "trekking",
+            "mountain",
+            "adventure",
+            "nature"
+        ],
+        "recommended_itineraries": [
+            "Morning Trek to Chokramudi",
+            "Chokramudi → Lockhart Gap"
+        ],
+        "alerts_suggestions": [
+            "Start early morning.",
+            "Check forest permission."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

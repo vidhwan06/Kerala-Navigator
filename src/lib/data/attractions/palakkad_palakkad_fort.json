@@ -1,0 +1,185 @@
+{
+    "id": "palakkad_palakkad_fort",
+    "name": "Palakkad Fort (Tipu's Fort)",
+    "category": "Historical Monument / Fort",
+    "city": "Palakkad Town",
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Palakkad Fort, Near Town Centre, Palakkad, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Rappadi Auditorium",
+            "Town Market",
+            "Hanuman (Anjaneya) Temple"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Ffort%2F1.jpg",
+            "caption": "Palakkad Fort main entrance and moat"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Ffort%2F2.jpg",
+            "caption": "Moat and green lawns inside Palakkad Fort"
+        }
+    ],
+    "history": {
+        "short_description": "A well-preserved 18th-century fort built by Hyder Ali and associated with Tipu Sultan's era.",
+        "detailed": "Palakkad Fort was constructed in 1766 by Hyder Ali as a strategic military fortification during the Mysore Sultanate period. It witnessed multiple conflicts between Mysore rulers and the British East India Company. Built of laterite with a wide water-filled moat, the fort is an excellent example of regional military architecture."
+    },
+    "significance": {
+        "heritage": "One of Kerala's best-preserved historic forts.",
+        "tourism": "Popular for leisurely walks, photography, historical interest.",
+        "culture": "Hosts local cultural events."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Daily Visit",
+                "start_time": "08:00",
+                "end_time": "17:30"
+            }
+        ],
+        "activities": [
+            "Walking the fort ramparts",
+            "Photography",
+            "Visit Hanuman Temple",
+            "Leisure picnics"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free",
+            "warnings": [
+                "Stay away from moat edges",
+                "Respect temple customs",
+                "No littering"
+            ]
+        },
+        "recommended_visit_duration_minutes": 45,
+        "best_time_to_visit": [
+            "Early morning",
+            "Late afternoon"
+        ],
+        "average_crowd_level": "Low to Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Well-preserved fort",
+            "Peaceful spot",
+            "Free entry"
+        ],
+        "common_complaints": [
+            "Limited interpretive signage",
+            "Few food stalls"
+        ],
+        "tips_from_visitors": [
+            "Visit early morning.",
+            "Combine with market visit.",
+            "Carry water."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 55,
+            "travel_options": [
+                "Taxi",
+                "Private Vehicle"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Palakkad Town Railway Station",
+            "approx_distance_km": 1,
+            "travel_options": [
+                "Auto",
+                "Walk",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Palakkad KSRTC Bus Stand",
+            "approx_distance_km": 1,
+            "description": "Easily accessible from town centre.",
+            "parking_info": "Public parking available nearby."
+        },
+        "local_transport_tips": [
+            "Walk from town centre.",
+            "Autos convenient."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Kapilavasthu Vegetarian Restaurant",
+            "type": "Vegetarian",
+            "distance_km": 0.5,
+            "price_range": "₹",
+            "special_notes": "Popular local vegetarian."
+        },
+        {
+            "name": "Noorjahan Restaurant",
+            "type": "Multi Cuisine",
+            "distance_km": 0.6,
+            "price_range": "₹₹",
+            "special_notes": "Good for non-veg."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "KPM Regency",
+            "type": "Business Hotel",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "AC Rooms"
+            ]
+        },
+        {
+            "name": "Hotel Indraprastha",
+            "type": "Mid-range Hotel",
+            "distance_km": 1.2,
+            "price_range": "₹₹",
+            "amenities": [
+                "Restaurant",
+                "Family Rooms"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Rappadi Auditorium",
+            "approx_distance_km": 0.2
+        },
+        {
+            "name": "Palakkad Town Market",
+            "approx_distance_km": 0.5
+        },
+        {
+            "name": "Hanuman Temple (inside fort)",
+            "approx_distance_km": 0
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "heritage",
+            "fort",
+            "history",
+            "photography"
+        ],
+        "recommended_itineraries": [
+            "Morning walk → Market → Breakfast",
+            "Fort photo tour → Temple visit"
+        ],
+        "alerts_suggestions": [
+            "Respect ASI rules.",
+            "Slippery pathways in rain."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

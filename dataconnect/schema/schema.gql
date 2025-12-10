@@ -1,0 +1,72 @@
+type Tourist @table {
+  displayName: String!
+  createdAt: Timestamp!
+  email: String
+  photoUrl: String
+  nationality: String
+}
+
+type Attraction @table {
+  name: String!
+  description: String!
+  location: String!
+  category: String!
+  createdAt: Timestamp!
+  imageUrls: [String]
+  contactInfo: String
+  website: String
+  entryFee: Float
+}
+
+type Accommodation @table {
+  name: String!
+  address: String!
+  contactInfo: String!
+  type: String!
+  createdAt: Timestamp!
+  imageUrls: [String]
+  website: String
+  amenities: [String]
+  priceRange: String
+}
+
+type Restaurant @table {
+  name: String!
+  address: String!
+  cuisineType: String!
+  createdAt: Timestamp!
+  imageUrls: [String]
+  contactInfo: String
+  website: String
+  priceRange: String
+  openingHours: String
+}
+
+type Itinerary @table {
+  tourist: Tourist!
+  name: String!
+  startDate: Date!
+  endDate: Date!
+  createdAt: Timestamp!
+  updatedAt: Timestamp!
+  description: String
+}
+
+type ItineraryItem @table {
+  itinerary: Itinerary!
+  itemType: String!
+  itemId: UUID!
+  orderIndex: Int!
+  createdAt: Timestamp!
+  notes: String
+}
+
+type Review @table {
+  tourist: Tourist!
+  rating: Int!
+  reviewText: String!
+  targetType: String!
+  targetId: UUID!
+  createdAt: Timestamp!
+  updatedAt: Timestamp!
+}

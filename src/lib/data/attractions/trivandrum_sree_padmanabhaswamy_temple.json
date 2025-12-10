@@ -1,0 +1,373 @@
+{
+  "id": "trivandrum_sree_padmanabhaswamy_temple",
+  "name": "Sree Padmanabhaswamy Temple",
+  "category": "Temple",
+  "city": "Thiruvananthapuram",
+  "district": "Trivandrum",
+  "state": "Kerala",
+  "country": "India",
+  "location": {
+    "address": "East Fort, Thiruvananthapuram, Kerala, India",
+    "latitude": 8.4828,
+    "longitude": 76.9436,
+    "landmarks_nearby": [
+      "East Fort",
+      "Thiruvananthapuram Central Railway Station",
+      "Trivandrum International Airport"
+    ]
+  },
+  "images": [
+    "attraction-padmanabhaswamy-temple",
+    "attraction-padmanabhaswamy-temple-2",
+    "attraction-padmanabhaswamy-temple-3",
+    "attraction-padmanabhaswamy-temple-4",
+    "attraction-padmanabhaswamy-temple-5"
+  ],
+  "history": {
+    "short_description": "An ancient Vishnu temple where the deity is worshipped in the reclining posture on serpent Anantha (Adi Sesha), historically associated with the Travancore royal family.",
+    "detailed": "Sree Padmanabhaswamy Temple is one of the most revered temples in South India, dedicated to Lord Vishnu in the reclining posture on the serpent Anantha (Adi Sesha). The origins of the temple are considered to be lost in antiquity, with references found in ancient texts and traditions. In 1750, Maharaja Marthanda Varma of Travancore dedicated his kingdom to Lord Padmanabha, ruling thereafter as the 'Padmanabha Dasa' (servant of the Lord). The temple is built in a blend of Kerala and Dravidian architectural styles, with an impressive gopuram, intricate stone and wood carvings, and a sacred tank. It gained worldwide attention in recent years when its underground vaults were opened, revealing an enormous collection of treasures and artifacts."
+  },
+  "significance": {
+    "religious": "One of the 108 Divya Desams (holy abodes of Lord Vishnu) and the presiding deity of the erstwhile Travancore royal family. It is an important pilgrimage centre for Vaishnavites and Hindus across the world.",
+    "cultural": "A major symbol of Kerala’s heritage, architecture, and classical temple traditions. The temple complex and East Fort area are important cultural zones of Thiruvananthapuram.",
+    "tourism": "A must-visit attraction in Thiruvananthapuram, known for its architecture, spiritual ambience, and historical stories connected to the Travancore kingdom and the temple treasures."
+  },
+  "visitor_info": {
+    "timings": [
+      {
+        "session": "Early Morning (Nirmalya Darshan)",
+        "start_time": "03:30",
+        "end_time": "04:45",
+        "note": "Very early darshan; recommended for devotees wanting less crowd."
+      },
+      {
+        "session": "Morning Session 1",
+        "start_time": "06:30",
+        "end_time": "07:00",
+        "note": ""
+      },
+      {
+        "session": "Morning Session 2",
+        "start_time": "08:30",
+        "end_time": "10:00",
+        "note": ""
+      },
+      {
+        "session": "Late Morning Session",
+        "start_time": "10:30",
+        "end_time": "11:15",
+        "note": "Closing time may vary slightly on special days."
+      },
+      {
+        "session": "Evening Session 1",
+        "start_time": "17:00",
+        "end_time": "18:15",
+        "note": ""
+      },
+      {
+        "session": "Evening Session 2",
+        "start_time": "18:45",
+        "end_time": "19:20",
+        "note": "Darshan timings can change during festivals; visitors should re-check."
+      }
+    ],
+    "entry_rules": {
+      "only_hindus_allowed_inside": true,
+      "id_proof_required": false,
+      "photography_allowed_inside": false,
+      "mobile_phones_allowed_inside": false,
+      "additional_notes": "All electronic devices and cameras are typically not allowed inside the temple. Lockers may be available near the entrance."
+    },
+    "dress_code": {
+      "men": {
+        "required": "Mundu/dhoti tied around the waist. Upper body bare or with traditional angavastram.",
+        "not_allowed": "Pants, jeans, shirts, T-shirts, shorts.",
+        "tips": "Dhoti can usually be rented or bought near the temple entrance."
+      },
+      "women": {
+        "required": "Saree, mundum-neriyathum, or long skirt with blouse.",
+        "not_allowed": "Jeans, leggings with short tops, western dresses, shorts.",
+        "tips": "Shawls or overwraps may be used to adjust to the dress code if needed."
+      }
+    },
+    "entry_fee": {
+      "general_darshan": "Free",
+      "special_darshan": "Paid special/quick darshan tickets may be available at temple counters (price varies)."
+    },
+    "recommended_visit_duration_minutes": 60,
+    "best_time_to_visit": [
+      "Early morning for peaceful darshan and less crowd.",
+      "Weekdays are generally less crowded than weekends and festival days."
+    ],
+    "average_crowd_level": "High during weekends, festivals, and evenings; moderate on weekday mornings."
+  },
+  "reviews_summary": {
+    "overall_rating_out_of_5": 4.7,
+    "highlights": [
+      "Divine and peaceful ambience.",
+      "Magnificent traditional architecture.",
+      "Well-maintained temple premises."
+    ],
+    "common_complaints": [
+      "Long queues during peak hours.",
+      "Strict dress code can be inconvenient for unprepared visitors.",
+      "Limited parking space during rush hours."
+    ],
+    "tips_from_visitors": [
+      "Reach early in the morning for quicker darshan.",
+      "Carry or buy appropriate traditional clothing nearby.",
+      "Keep valuables safely and avoid carrying bulky bags."
+    ]
+  },
+  "transport": {
+    "nearest_airport": {
+      "name": "Trivandrum International Airport",
+      "approx_distance_km": 5,
+      "travel_options": [
+        "Taxi",
+        "Auto-rickshaw",
+        "App-based cab"
+      ]
+    },
+    "nearest_railway_station": {
+      "name": "Thiruvananthapuram Central (Trivandrum Central)",
+      "approx_distance_km": 1.5,
+      "travel_options": [
+        "Auto-rickshaw",
+        "Taxi",
+        "City bus"
+      ]
+    },
+    "by_road": {
+      "nearest_bus_stand": "East Fort Bus Stand",
+      "description": "Well connected by KSRTC and private buses from various parts of the city and nearby towns.",
+      "parking_info": "Limited parking available around East Fort area; can get very crowded during peak temple hours and festivals."
+    },
+    "local_transport_tips": [
+      "Use auto-rickshaws or app-based cabs for flexible and quick access.",
+      "Plan extra time for traffic, especially in the evenings and festival days."
+    ]
+  },
+  "nearby_accommodations": [
+    {
+      "name": "Hotel Rajadhani",
+      "type": "Mid-Range",
+      "distance_km": 0.2,
+      "price_range": "₹₹",
+      "amenities": [
+        "AC Rooms",
+        "Wi-Fi",
+        "Restaurant"
+      ],
+      "recommended_for": [
+        "Families",
+        "Pilgrims",
+        "Business travellers"
+      ],
+      "location_note": "East Fort (very close to temple)"
+    },
+    {
+      "name": "Hycinth Hotels (By Sparsa)",
+      "type": "Premium / 4-Star",
+      "distance_km": 0.8,
+      "price_range": "₹₹₹",
+      "amenities": [
+        "Luxury Rooms",
+        "Pool",
+        "Restaurant"
+      ],
+      "recommended_for": [
+        "Tourists",
+        "Families",
+        "Business travellers"
+      ],
+      "location_note": "Thampanoor region"
+    },
+    {
+      "name": "Saj Luciya Hotel",
+      "type": "3-Star",
+      "distance_km": 0.4,
+      "price_range": "₹₹",
+      "amenities": [
+        "AC Rooms",
+        "Restaurant",
+        "Conference Hall"
+      ],
+      "recommended_for": [
+        "Families",
+        "Group travellers"
+      ],
+      "location_note": "East Fort"
+    },
+    {
+      "name": "Treebo Trend Hotel Prince",
+      "type": "Budget",
+      "distance_km": 1.0,
+      "price_range": "₹",
+      "amenities": [
+        "Wi-Fi",
+        "Clean Rooms",
+        "Breakfast"
+      ],
+      "recommended_for": [
+        "Budget travellers",
+        "Students"
+      ],
+      "location_note": "Near Thampanoor"
+    },
+    {
+      "name": "The Central Residency",
+      "type": "Upscale",
+      "distance_km": 1.2,
+      "price_range": "₹₹₹",
+      "amenities": [
+        "Luxury Suites",
+        "Multi-Cuisine Restaurant",
+        "Gym"
+      ],
+      "recommended_for": [
+        "Premium travellers",
+        "Business travellers"
+      ],
+      "location_note": "Thampanoor"
+    }
+  ],
+  "nearby_food_places": [
+    {
+      "name": "Aryaas Vegetarian Restaurant",
+      "type": "Pure Vegetarian",
+      "cuisine": [
+        "South Indian",
+        "North Indian"
+      ],
+      "distance_km": 0.5,
+      "price_range": "₹",
+      "specialties": [
+        "Dosa",
+        "Idli",
+        "Meals",
+        "North Indian Thali"
+      ],
+      "recommended_for": [
+        "Families",
+        "Vegetarian visitors"
+      ],
+      "location_note": "East Fort, near temple"
+    },
+    {
+      "name": "Hotel Annapoorna",
+      "type": "Pure Vegetarian",
+      "cuisine": [
+        "South Indian"
+      ],
+      "distance_km": 0.3,
+      "price_range": "₹",
+      "specialties": [
+        "Poori Masala",
+        "Pongal",
+        "Ghee Roast"
+      ],
+      "recommended_for": [
+        "Pilgrims",
+        "Budget travellers"
+      ],
+      "location_note": "East Fort"
+    },
+    {
+      "name": "Nest Restaurant",
+      "type": "Veg & Non-Veg",
+      "cuisine": [
+        "Indian",
+        "Chinese"
+      ],
+      "distance_km": 0.4,
+      "price_range": "₹₹",
+      "specialties": [
+        "Biriyani",
+        "Chilli Chicken",
+        "Thali Meals"
+      ],
+      "recommended_for": [
+        "Families",
+        "Groups"
+      ],
+      "location_note": "East Fort"
+    },
+    {
+      "name": "Garden Grille & Bar",
+      "type": "Premium Multi-Cuisine",
+      "cuisine": [
+        "Indian",
+        "Continental",
+        "International"
+      ],
+      "distance_km": 1.2,
+      "price_range": "₹₹₹",
+      "specialties": [
+        "Buffet",
+        "Pasta",
+        "Grills"
+      ],
+      "recommended_for": [
+        "Tourists",
+        "Family dining"
+      ],
+      "location_note": "Hilton Garden Inn, near Pattom Road"
+    },
+    {
+      "name": "Panchali Restaurant",
+      "type": "Veg & Non-Veg",
+      "cuisine": [
+        "Kerala",
+        "Chinese",
+        "Indian"
+      ],
+      "distance_km": 0.6,
+      "price_range": "₹₹",
+      "specialties": [
+        "Kerala Meals",
+        "Combo Meals"
+      ],
+      "recommended_for": [
+        "Groups",
+        "Lunch seekers"
+      ],
+      "location_note": "Rajadhani Buildings, East Fort"
+    }
+  ],
+  "nearby_attractions": [
+    {
+      "name": "Napier Museum",
+      "approx_distance_km": 3.0
+    },
+    {
+      "name": "Thiruvananthapuram Zoo",
+      "approx_distance_km": 3.0
+    },
+    {
+      "name": "Shanghumugham Beach",
+      "approx_distance_km": 8.0
+    }
+  ],
+  "app_specific": {
+    "tags": [
+      "spiritual",
+      "heritage",
+      "architecture",
+      "city-centre"
+    ],
+    "recommended_itineraries": [
+      "Morning: Sree Padmanabhaswamy Temple → Breakfast at nearby vegetarian restaurant → Napier Museum & Zoo.",
+      "Evening: Temple darshan → Local shopping around East Fort → Sunset at Shanghumugham Beach."
+    ],
+    "alerts_suggestions": [
+      "Show festival alerts (e.g., special pujas, processions) which may affect timings and traffic.",
+      "Highlight dress code reminder before visitor navigates to the temple.",
+      "Provide live or user-updated crowd status if you add that feature later."
+    ]
+  },
+  "meta": {
+    "last_updated": "2025-11-21",
+    "data_note": "Timings and rules may change on special days and festivals; visitors should verify before visiting."
+  }
+}

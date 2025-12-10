@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer base {
+  :root {
+    /* Kerala Palette */
+    /* Background: Warm Cream/Off-white */
+    --background: 40 30% 96%;
+    /* Foreground: Deep Jungle Green/Black */
+    --foreground: 160 50% 10%;
+
+    /* Card: Slightly lighter cream */
+    --card: 40 30% 98%;
+    --card-foreground: 160 50% 10%;
+
+    --popover: 40 30% 98%;
+    --popover-foreground: 160 50% 10%;
+
+    /* Primary: Deep Kerala Green (Teal-ish) */
+    --primary: 170 100% 25%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Secondary: Ocean Blue / Lighter Teal */
+    --secondary: 180 40% 90%;
+    --secondary-foreground: 170 100% 25%;
+
+    --muted: 170 20% 94%;
+    --muted-foreground: 170 20% 40%;
+
+    /* Accent: Sunset Orange */
+    --accent: 25 90% 55%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 170 20% 85%;
+    --input: 170 20% 85%;
+    --ring: 170 100% 25%;
+
+    --radius: 0.75rem;
+    /* Slightly rounder corners */
+  }
+
+  .dark {
+    --background: 150 15% 5%;
+    --foreground: 60 56% 91%;
+    --card: 150 15% 10%;
+    --card-foreground: 60 56% 91%;
+    --popover: 150 15% 5%;
+    --popover-foreground: 60 56% 91%;
+    --primary: 140 52% 55%;
+    --primary-foreground: 140 50% 10%;
+    --secondary: 140 20% 15%;
+    --secondary-foreground: 60 56% 91%;
+    --muted: 140 10% 20%;
+    --muted-foreground: 60 10% 60%;
+    --accent: 45 100% 50%;
+    --accent-foreground: 45 100% 10%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 140 10% 25%;
+    --input: 140 10% 25%;
+    --ring: 140 52% 55%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-feature-settings: "rlig" 1, "calt" 1;
+  }
+
+  /* Custom Selection Color */
+  ::selection {
+    @apply bg-primary/20 text-primary-foreground;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-muted-foreground/20 rounded-full hover:bg-muted-foreground/40 transition-colors;
+}
+
+/* Utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}

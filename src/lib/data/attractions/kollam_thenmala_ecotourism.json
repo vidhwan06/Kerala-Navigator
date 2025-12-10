@@ -1,0 +1,183 @@
+{
+    "id": "kollam_thenmala_ecotourism",
+    "name": "Thenmala Eco-Tourism",
+    "category": "Eco-tourism / Forest / Adventure",
+    "city": "Thenmala",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Thenmala Eco-Tourism, Thenmala, Kollam District, Kerala, India",
+        "latitude": 8.977300,
+        "longitude": 77.061700,
+        "landmarks_nearby": [
+            "Thenmala Dam",
+            "Butterfly Safari Park",
+            "Suspension Bridge"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fthenmala_ecotourism%2F1.jpg",
+            "caption": "Thenmala eco-tourism zone and forest walkway"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fthenmala_ecotourism%2F2.jpg",
+            "caption": "View of Thenmala dam and surrounding forest"
+        }
+    ],
+    "history": {
+        "short_description": "India’s first planned eco-tourism destination offering forest experiences, adventure activities, and nature conservation zones.",
+        "detailed": "Thenmala Eco-Tourism was developed as India’s first government-approved eco-tourism project. Located on the foothills of the Western Ghats, the region is rich in biodiversity. The eco-tourism zone features adventure parks, trekking trails, a musical fountain, butterfly safari, sculpture garden, boating, and nature interpretation centers."
+    },
+    "significance": {
+        "heritage": "Pioneer in India’s eco-tourism movement.",
+        "tourism": "Offers forest-based activities and adventure sports.",
+        "culture": "Promotes environmental education."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Hours",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "note": "Musical fountain in evening"
+            }
+        ],
+        "activities": [
+            "Trekking",
+            "Boating",
+            "Suspension bridge walk",
+            "Musical fountain show",
+            "Butterfly safari",
+            "Adventure park"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry (Activities extra)",
+            "warnings": [
+                "Slippery paths",
+                "Adventure activities weather dependent"
+            ]
+        },
+        "recommended_visit_duration_minutes": 180,
+        "best_time_to_visit": [
+            "October to February",
+            "Early mornings"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Calm forest setting",
+            "Good for families",
+            "Suspension bridge"
+        ],
+        "common_complaints": [
+            "Activities closed in monsoon",
+            "Fountain timings irregular",
+            "Limited food"
+        ],
+        "tips_from_visitors": [
+            "Wear walking shoes.",
+            "Plan 3-4 hours.",
+            "Great for nature lovers."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 72,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottarakkara Railway Station",
+            "approx_distance_km": 29,
+            "travel_options": [
+                "Taxi",
+                "Auto"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Thenmala",
+            "approx_distance_km": 1.5,
+            "description": "Accessible via Kollam–Shencottah highway.",
+            "parking_info": "Designated parking available."
+        },
+        "local_transport_tips": [
+            "Most areas walkable.",
+            "Car/taxi recommended."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Thenmala Eco-Shop Canteen",
+            "type": "Snacks & Tea",
+            "distance_km": 0.2,
+            "price_range": "₹",
+            "special_notes": "Simple canteen."
+        },
+        {
+            "name": "KTDC Deer Park Restaurant",
+            "type": "Multi-cuisine",
+            "distance_km": 2,
+            "price_range": "₹₹₹",
+            "special_notes": "Good for families."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Thenmala Ecotourism Cottages",
+            "type": "Eco-stay",
+            "distance_km": 1.5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Forest view",
+                "Huts"
+            ]
+        },
+        {
+            "name": "KTDC Deer Park Hotel",
+            "type": "Mid-range",
+            "distance_km": 2,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "Parking"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Palaruvi Waterfalls",
+            "approx_distance_km": 25
+        },
+        {
+            "name": "Shendurney Wildlife Sanctuary",
+            "approx_distance_km": 6
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "eco_tourism",
+            "forest",
+            "trekking",
+            "adventure"
+        ],
+        "recommended_itineraries": [
+            "Bridge → Butterfly Park → Boating",
+            "Trekking → Adventure Park → Fountain"
+        ],
+        "alerts_suggestions": [
+            "Wear proper shoes.",
+            "Carry water."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

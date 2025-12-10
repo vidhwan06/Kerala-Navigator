@@ -1,0 +1,210 @@
+{
+    "id": "kannur_thalassery_fort",
+    "name": "Thalassery Fort",
+    "category": "Fort / Heritage Monument / Historical Site",
+    "city": "Thalassery",
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Thalassery Fort, Thalassery, Kannur District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Thalassery Sea Bridge",
+            "Thalassery Beach",
+            "Dharmadom Island"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fthalassery_fort%2F1.jpg",
+            "caption": "Thalassery Fort entrance and outer walls"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fthalassery_fort%2F2.jpg",
+            "caption": "Fort interior and sea-facing ramparts"
+        }
+    ],
+    "history": {
+        "short_description": "Built by the British in 1708, Thalassery Fort played a major role in trade, military operations, and early colonial administration in North Kerala.",
+        "detailed": "Thalassery Fort was constructed by the British East India Company in 1708 to consolidate their rule over the Malabar region and to protect their trade routes. Strategically located on a rocky promontory facing the Arabian Sea, the fort was crucial during conflicts with local rulers like the Kurichiya tribes and Tipu Sultan. The fort features massive laterite walls, hidden tunnels, secret chambers, and wide courtyards. It also served as a judicial and administrative center. The famous Thalassery Sea Bridge nearby once connected the fort to a trade harbor. Today, the Archaeological Survey of India preserves it as a protected monument."
+    },
+    "significance": {
+        "heritage": "Important British-era fort showcasing colonial architecture.",
+        "architecture": "Features massive laterite blocks, underground chambers, and sea-facing bastions.",
+        "tourism": "A peaceful heritage site with scenic sea views and historical importance.",
+        "culture": "Thalassery's colonial history, circus culture, and spice trade legacy are linked to this fort."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Visiting Hours",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "note": "Entry usually closes before sunset."
+            }
+        ],
+        "activities": [
+            "Exploring fort interiors",
+            "Photography",
+            "Sea-view walk",
+            "Learning colonial history",
+            "Visiting the nearby Sea Bridge"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free entry",
+            "warnings": [
+                "Be cautious near sea-facing edges.",
+                "Slippery surface during monsoon.",
+                "Do not climb restricted walls."
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "November to February",
+            "Evening for pleasant weather"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Historic British fort",
+            "Beautiful sea views",
+            "Calm environment"
+        ],
+        "common_complaints": [
+            "Limited information boards",
+            "Hot during midday",
+            "Small in size compared to other forts"
+        ],
+        "tips_from_visitors": [
+            "Visit during evening to avoid heat.",
+            "Explore Sea Bridge and beach nearby.",
+            "Great place for photography."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Kannur International Airport",
+            "approx_distance_km": 25,
+            "travel_options": [
+                "Taxi",
+                "Cab services"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Thalassery Railway Station",
+            "approx_distance_km": 1.5,
+            "travel_options": [
+                "Auto",
+                "Taxi",
+                "Walk (10–15 minutes)"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Thalassery Bus Stand",
+            "approx_distance_km": 1,
+            "description": "Located in the heart of Thalassery town.",
+            "parking_info": "Limited parking near fort entrance."
+        },
+        "local_transport_tips": [
+            "Fort is easily reachable by auto.",
+            "Walking from railway station is possible.",
+            "Combine with Dharmadom Island & Drive-in Beach."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Paris Restaurant (Thalassery)",
+            "type": "Kerala Cuisine",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "special_notes": "Iconic spot for Thalassery biriyani."
+        },
+        {
+            "name": "Sheen Bakery & Cafe",
+            "type": "Bakery / Snacks",
+            "distance_km": 1.2,
+            "price_range": "₹₹",
+            "special_notes": "Good snacks, bakery items, beverages."
+        },
+        {
+            "name": "Local Tea Shops near Fort",
+            "type": "Tea & Snacks",
+            "distance_km": 0.2,
+            "price_range": "₹",
+            "special_notes": "Quick refreshments available."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Seaside Residency",
+            "type": "Mid-range",
+            "distance_km": 1.2,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Local Homestays (Thalassery)",
+            "type": "Budget Homestay",
+            "distance_km": 2,
+            "price_range": "₹₹",
+            "amenities": [
+                "WiFi",
+                "Home-cooked meals"
+            ]
+        },
+        {
+            "name": "Muzhappilangad Beach Resort",
+            "type": "Beach Resort",
+            "distance_km": 4,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Sea-view cottages",
+                "Dining"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Dharmadom Island",
+            "approx_distance_km": 6
+        },
+        {
+            "name": "Muzhappilangad Drive-in Beach",
+            "approx_distance_km": 7
+        },
+        {
+            "name": "Kannur Lighthouse",
+            "approx_distance_km": 13
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "fort",
+            "heritage",
+            "british",
+            "history",
+            "sea-view"
+        ],
+        "recommended_itineraries": [
+            "Thalassery Fort → Paris Restaurant → Dharmadom Island walk",
+            "Fort → Sea Bridge → Muzhappilangad Drive-in Beach"
+        ],
+        "alerts_suggestions": [
+            "Slippery surface in monsoon — show safety alert.",
+            "Recommend evening visits due to heat.",
+            "Highlight nearby parking spots in-app."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Managed by Archaeological Survey of India; timings may vary."
+    }
+}

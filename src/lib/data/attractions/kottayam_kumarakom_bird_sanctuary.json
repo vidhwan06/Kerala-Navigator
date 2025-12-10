@@ -1,0 +1,184 @@
+{
+    "id": "kottayam_kumarakom_bird_sanctuary",
+    "name": "Kumarakom Bird Sanctuary",
+    "category": "Bird Sanctuary / Wildlife / Eco-Tourism",
+    "city": "Kavanattinkara",
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Kumarakom Bird Sanctuary, Kavanattinkara, Kottayam District, Kerala",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Pathiramanal Island",
+            "Kumarakom Backwaters",
+            "Kottayam Town"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fkumarakom_bird_sanctuary%2F1.jpg",
+            "caption": "Migratory birds at Kumarakom Bird Sanctuary"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fkumarakom_bird_sanctuary%2F2.jpg",
+            "caption": "Walking trail through the sanctuary"
+        }
+    ],
+    "history": {
+        "short_description": "A protected wetland ecosystem on the banks of Vembanad Lake, famous for migratory birds and scenic nature trails.",
+        "detailed": "The region was once a private estate developed by British missionary Henry Baker. In the 1980s, the Kerala Government declared it a protected reserve. Today, it is a prime destination for birdwatchers and supports bird migration studies."
+    },
+    "significance": {
+        "ecology": "Breeding ground for wetland birds and winter migration hub for Siberian Cranes.",
+        "conservation": "Supports eco-tourism through silent boat rides and guided nature walks."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "06:30",
+                "end_time": "17:00",
+                "note": "Best sightings in early morning"
+            }
+        ],
+        "activities": [
+            "Birdwatching",
+            "Silent boating",
+            "Photography",
+            "Eco-learning walks",
+            "Visit watchtower viewpoints"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry for adults & children; camera charges apply",
+            "warnings": [
+                "Avoid loud talking",
+                "Mosquitoes in evenings",
+                "Do not feed birds"
+            ]
+        },
+        "recommended_visit_duration_minutes": 150,
+        "best_time_to_visit": [
+            "November–February (migratory season)",
+            "June–August (breeding season)",
+            "6:30 AM–9:30 AM (best time of day)"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.3,
+        "highlights": [
+            "Great for early morning birdwatching",
+            "Peaceful nature trails",
+            "Boat rides offer close views"
+        ],
+        "common_complaints": [
+            "Midday heat reduces bird activity",
+            "Dense vegetation blocks some views",
+            "Mosquitoes"
+        ],
+        "tips_from_visitors": [
+            "Start early morning.",
+            "Carry binoculars.",
+            "Wear light-colored clothing."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport (COK)",
+            "approx_distance_km": 75,
+            "travel_options": [
+                "Taxi",
+                "Cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottayam Railway Station",
+            "approx_distance_km": 15,
+            "travel_options": [
+                "Taxi",
+                "Auto",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kottayam",
+            "approx_distance_km": 15,
+            "description": "Kottayam → Ettumanoor → Kumarakom.",
+            "parking_info": "Parking available near entrance."
+        },
+        "local_transport_tips": [
+            "Boat safari available.",
+            "Walking trails inside sanctuary."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Baker’s Gourmet House (Taj Kumarakom)",
+            "type": "Fine Dining",
+            "distance_km": 2,
+            "price_range": "₹₹₹₹",
+            "special_notes": "Premium seafood & fusion cuisine."
+        },
+        {
+            "name": "Local Toddy Shops",
+            "type": "Traditional Kerala Food",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "special_notes": "Duck curry, karimeen fry."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "KTDC Waterscapes",
+            "type": "Government Resort",
+            "distance_km": 0,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Cottages on Stilts",
+                "Direct Birdwatching Access"
+            ]
+        },
+        {
+            "name": "Kumarakom Lake Resort",
+            "type": "Luxury",
+            "distance_km": 3,
+            "price_range": "₹₹₹₹₹",
+            "amenities": [
+                "Backwater Villas",
+                "Ayurveda Spa"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Pathiramanal Island",
+            "approx_distance_km": 4
+        },
+        {
+            "name": "Kumarakom Backwaters",
+            "approx_distance_km": 1
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "Birdwatching",
+            "WetlandHabitat",
+            "EcoTourism",
+            "NaturePhotography"
+        ],
+        "recommended_itineraries": [
+            "Early morning walk → Boat safari → Breakfast at resort",
+            "Visit sanctuary → Lunch at toddy shop → Backwater cruise"
+        ],
+        "alerts_suggestions": [
+            "Silence required inside.",
+            "Carry mosquito repellent."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Bird sightings depend on season."
+    }
+}

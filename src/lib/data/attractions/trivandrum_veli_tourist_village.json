@@ -1,0 +1,160 @@
+{
+    "id":  "trivandrum_veli_tourist_village",
+    "name":  "Veli Tourist Village",
+    "category":  "Backwater Park",
+    "city":  "Thiruvananthapuram",
+    "district":  "Trivandrum",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Veli, Thiruvananthapuram, Kerala, India",
+                     "latitude":  8.514,
+                     "longitude":  76.899,
+                     "landmarks_nearby":  [
+                                              "Veli Lake",
+                                              "Veli Beach",
+                                              "Shanghumugham Beach"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-veli-village",
+                   "attraction-veli-village-2",
+                   "attraction-veli-village-3",
+                   "attraction-veli-village-4",
+                   "attraction-veli-village-5"
+               ],
+    "history":  {
+                    "short_description":  "A scenic backwater lake park developed as a major family-friendly picnic spot.",
+                    "detailed":  "Veli Tourist Village was developed by Kerala Tourism to provide a recreational space where the Veli Lake meets the Arabian Sea. Over time it became a major picnic spot with sculptures, gardens, and boating facilities."
+                },
+    "significance":  {
+                         "tourism":  "One of the most popular family picnic spots in Thiruvananthapuram.",
+                         "nature":  "Beautiful lake–sea confluence with calm backwaters.",
+                         "recreation":  "Boating, gardens, children’s park, lakeside promenade."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General",
+                                             "start_time":  "08:00",
+                                             "end_time":  "19:00",
+                                             "note":  "Boating timings may vary."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Pedal boating",
+                                            "Row boating",
+                                            "Children\u0027s park",
+                                            "Sculpture garden",
+                                            "Photography"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹20 approx",
+                                             "boating_fee":  "Extra charges apply"
+                                         },
+                         "recommended_visit_duration_minutes":  120,
+                         "best_time_to_visit":  [
+                                                    "Evening hours",
+                                                    "Winter season"
+                                                ],
+                         "average_crowd_level":  "High on weekends"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.3,
+                            "highlights":  [
+                                               "Great for families",
+                                               "Calm scenic lake"
+                                           ],
+                            "common_complaints":  [
+                                                      "Crowded on weekends"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Visit during sunset",
+                                                       "Try pedal boating"
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Trivandrum International Airport",
+                                              "approx_distance_km":  4,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Auto",
+                                                                     "App-based cab"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Thiruvananthapuram Central",
+                                                      "approx_distance_km":  9,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Auto",
+                                                                             "Bus"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Veli Bus Stop",
+                                      "description":  "Well connected by KSRTC and private buses from various parts of the city and nearby towns.",
+                                      "parking_info":  "Good parking facilities available"
+                                  }
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Veli Floating Restaurant",
+                                   "type":  "Kerala Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala"
+                                               ],
+                                   "specialties":  [
+                                                       "Seafood",
+                                                       "Local snacks"
+                                                   ],
+                                   "distance_km":  0.1,
+                                   "price_range":  "₹₹",
+                                   "recommended_for":  [
+                                                           "Families",
+                                                           "Tourists"
+                                                       ]
+                               },
+                               {
+                                   "name":  "Cafe Kudumbashree",
+                                   "type":  "Snacks \u0026 Juices",
+                                   "cuisine":  [
+                                                   "Snacks",
+                                                   "Juices"
+                                               ],
+                                   "specialties":  [
+                                                       "Local snacks",
+                                                       "Fresh juices"
+                                                   ],
+                                   "distance_km":  0.2,
+                                   "price_range":  "₹",
+                                   "recommended_for":  [
+                                                           "Budget travellers"
+                                                       ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "UDS Kovalam",
+                                      "type":  "Premium",
+                                      "distance_km":  8,
+                                      "recommended_for":  [
+                                                              "Tourists seeking luxury stays"
+                                                          ]
+                                  }
+                              ],
+    "app_specific":  {
+                         "tags":  [
+                                      "backwaters",
+                                      "boating",
+                                      "family"
+                                  ],
+                         "alerts_suggestions":  [
+                                                    "Boating closes before park closing time"
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21"
+             }
+}

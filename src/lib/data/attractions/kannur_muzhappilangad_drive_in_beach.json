@@ -1,0 +1,208 @@
+{
+    "id": "kannur_muzhappilangad_drive_in_beach",
+    "name": "Muzhappilangad Drive-in Beach",
+    "category": "Beach / Drive-in / Scenic Spot",
+    "city": "Muzhappilangad",
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Muzhappilangad Drive-in Beach, Muzhappilangad, Kannur District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Dharmadom Island",
+            "Thalassery Town",
+            "Kannur Town"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fmuzhappilangad_beach%2F1.jpg",
+            "caption": "Vehicles driving along Muzhappilangad Drive-in Beach"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fmuzhappilangad_beach%2F2.jpg",
+            "caption": "Sunset view from Muzhappilangad Beach"
+        }
+    ],
+    "history": {
+        "short_description": "India's longest drive-in beach and one of the best coastal stretches in Kerala, known for its hard-packed sand ideal for driving.",
+        "detailed": "Muzhappilangad Drive-in Beach gained popularity due to its unique hard sand surface that stretches across 4 km, allowing visitors to drive cars and bikes directly on the shoreline. Over the years, it has evolved into one of Kerala's major tourist attractions, offering stunning sunset views, nearby coastal villages, and safe swimming zones. It is also close to Dharmadom Island, making the area culturally and naturally rich."
+    },
+    "significance": {
+        "tourism": "India's longest drive-in beach and a major attraction in Kannur.",
+        "scenic": "Offers spectacular sunsets, long coastal views, and a natural backdrop of coconut groves.",
+        "activities": "Driving, photography, swimming, paragliding (seasonal), and beach sports."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Visiting Hours",
+                "start_time": "06:00",
+                "end_time": "19:00",
+                "note": "Driving usually restricted after sunset for safety."
+            }
+        ],
+        "activities": [
+            "Drive a car or bike along the beach",
+            "Sunset viewing",
+            "Photography",
+            "Swimming (safe areas only)",
+            "Paragliding (seasonal)"
+        ],
+        "entry_rules": {
+            "entry_fee": "No entry fee; vehicle parking may have a small charge",
+            "warnings": [
+                "Drive only in designated areas",
+                "Avoid driving during high tide",
+                "Speeding is prohibited",
+                "Follow local authority guidelines"
+            ]
+        },
+        "recommended_visit_duration_minutes": 90,
+        "best_time_to_visit": [
+            "October to February",
+            "Evening hours for sunset"
+        ],
+        "average_crowd_level": "High on weekends and holidays"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Unique experience driving on the beach",
+            "Beautiful long coastline",
+            "Great sunset views"
+        ],
+        "common_complaints": [
+            "Crowded on weekends",
+            "Sand may splash onto vehicles when wet",
+            "Limited shade"
+        ],
+        "tips_from_visitors": [
+            "Best to visit around 5 PM for sunset.",
+            "Drive slowly and avoid the edges during high tide.",
+            "Rinse your vehicle afterwards as saltwater may stick to wheels."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Kannur International Airport",
+            "approx_distance_km": 25,
+            "travel_options": [
+                "Taxi",
+                "Cab services"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Thalassery Railway Station",
+            "approx_distance_km": 7,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Muzhappilangad Bus Stop",
+            "description": "Accessible via NH 66; good roads connect the beach.",
+            "parking_info": "Beachside parking and vehicle entry available near main entrance."
+        },
+        "local_transport_tips": [
+            "Autos easily available from Thalassery and Kannur.",
+            "Driving your own vehicle is the best way to enjoy the beach.",
+            "Two-wheeler riders should avoid soft sand patches."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Beachside Snack Stalls",
+            "type": "Snacks & Tea",
+            "distance_km": 0.1,
+            "price_range": "₹",
+            "special_notes": "Fresh snacks, juices, and local bites."
+        },
+        {
+            "name": "Paris Restaurant (Thalassery)",
+            "type": "Kerala Food",
+            "distance_km": 6,
+            "price_range": "₹₹",
+            "special_notes": "Famous for Thalassery biriyani."
+        },
+        {
+            "name": "Sheen Bakery & Cafe",
+            "type": "Bakery / Cafe",
+            "distance_km": 6,
+            "price_range": "₹₹",
+            "special_notes": "Good snacks and beverages near Thalassery."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Seaside Residency",
+            "type": "Mid-range",
+            "distance_km": 5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Muzhappilangad Beach Resort",
+            "type": "Beach Stay",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Beach view",
+                "Cottages",
+                "Food service"
+            ]
+        },
+        {
+            "name": "Budget Homestays - Muzhappilangad",
+            "type": "Budget",
+            "distance_km": 1.5,
+            "price_range": "₹₹",
+            "amenities": [
+                "WiFi",
+                "Home-cooked food"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Dharmadom Island",
+            "approx_distance_km": 3
+        },
+        {
+            "name": "Thalassery Fort",
+            "approx_distance_km": 8
+        },
+        {
+            "name": "Kannur Lighthouse",
+            "approx_distance_km": 14
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "drive-in-beach",
+            "sunset",
+            "photography",
+            "adventure"
+        ],
+        "recommended_itineraries": [
+            "Drive-in experience → Dharmadom Island → Thalassery Fort",
+            "Sunset drive → Beach snacks → Evening at Kannur town"
+        ],
+        "alerts_suggestions": [
+            "Driving may be restricted during monsoon",
+            "Avoid soft sand zones—risk of vehicle getting stuck",
+            "Display tide alerts in your app"
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Driving rules and timings may vary by season and local authorities."
+    }
+}

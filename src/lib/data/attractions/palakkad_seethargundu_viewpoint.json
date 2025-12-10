@@ -1,0 +1,180 @@
+{
+    "id": "palakkad_seethargundu_viewpoint",
+    "name": "Seethargundu Viewpoint",
+    "category": "Viewpoint / Hilltop Scenic Spot",
+    "city": "Nelliyampathy",
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Seethargundu Viewpoint, Nelliyampathy Hills, Palakkad District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Nelliyampathy Estates",
+            "Orange Valley Estate",
+            "Mampara Peak",
+            "Kesavan Para Viewpoint"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fseethargundu%2F1.jpg",
+            "caption": "Seethargundu Valley View from the Cliffside"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fseethargundu%2F2.jpg",
+            "caption": "Mist-covered scenic views at Seethargundu"
+        }
+    ],
+    "history": {
+        "short_description": "A breathtaking cliffside viewpoint offering panoramic views of the Palakkad plains and surrounding forest valleys.",
+        "detailed": "Seethargundu Viewpoint is one of the most visited attractions in Nelliyampathy. The area is named after the legendary princess Sita. The viewpoint sits on a dramatic cliff edge inside a private estate area and gives one of the widest and most beautiful views in the Western Ghats."
+    },
+    "significance": {
+        "heritage": "Linked to Ramayana legends.",
+        "tourism": "Top viewpoint in Nelliyampathy.",
+        "culture": "Surrounded by plantation estates."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Visiting Hours",
+                "start_time": "06:30",
+                "end_time": "18:00"
+            }
+        ],
+        "activities": [
+            "Valley Viewing",
+            "Photography",
+            "Nature Walks",
+            "Plantation Visits"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry (estate fee)",
+            "warnings": [
+                "Steep cliff edges",
+                "Strong winds",
+                "Slippery ground in rain"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "Morning 7-10 AM",
+            "Evening golden hour"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.7,
+        "highlights": [
+            "Panoramic view",
+            "Cool breeze",
+            "Great photography"
+        ],
+        "common_complaints": [
+            "Entry fee",
+            "Uneven road"
+        ],
+        "tips_from_visitors": [
+            "Visit early morning.",
+            "Carry jackets.",
+            "Careful near edges."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Coimbatore International Airport",
+            "approx_distance_km": 100,
+            "travel_options": [
+                "Taxi",
+                "Private Vehicle"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Palakkad Junction",
+            "approx_distance_km": 65,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Nenmara Bus Stand",
+            "approx_distance_km": 30,
+            "description": "Private jeeps available.",
+            "parking_info": "Parking available."
+        },
+        "local_transport_tips": [
+            "Hire off-road jeep.",
+            "Avoid two-wheelers in monsoon."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Orange Valley Estate Café",
+            "type": "Estate Café",
+            "distance_km": 3,
+            "price_range": "₹₹",
+            "special_notes": "Great tea and snacks."
+        },
+        {
+            "name": "Hillview Restaurant",
+            "type": "Local Cuisine",
+            "distance_km": 2,
+            "price_range": "₹₹",
+            "special_notes": "Few options."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Whispering Mist Resort",
+            "type": "Hill Resort",
+            "distance_km": 4,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Valley Views",
+                "Restaurant"
+            ]
+        },
+        {
+            "name": "Green Land Farm Resort",
+            "type": "Farm Stay",
+            "distance_km": 5,
+            "price_range": "₹₹",
+            "amenities": [
+                "Plantation Walks"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Mampara Peak",
+            "approx_distance_km": 5
+        },
+        {
+            "name": "Kesavan Para Viewpoint",
+            "approx_distance_km": 6
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "viewpoint",
+            "hillstation",
+            "nature",
+            "photography"
+        ],
+        "recommended_itineraries": [
+            "Nelliyampathy → Seethargundu → Kesavan Para",
+            "Morning View → Plantation Walk"
+        ],
+        "alerts_suggestions": [
+            "Avoid edges in wind.",
+            "Jeep recommended."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

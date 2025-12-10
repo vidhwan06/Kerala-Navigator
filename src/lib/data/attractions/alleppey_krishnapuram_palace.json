@@ -1,0 +1,202 @@
+{
+    "id":  "alleppey_krishnapuram_palace",
+    "name":  "Krishnapuram Palace",
+    "category":  "Palace / Museum / Heritage Monument",
+    "city":  "Kayamkulam",
+    "district":  "Alappuzha",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Krishnapuram Palace, Oachira–Kayamkulam Road, Kayamkulam, Alappuzha, Kerala, India",
+                     "latitude":  9.155,
+                     "longitude":  76.516,
+                     "landmarks_nearby":  [
+                                              "Kayamkulam Lake",
+                                              "Oachira Parabrahma Temple",
+                                              "Kayamkulam Town"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-krishnapuram-palace",
+                   "attraction-krishnapuram-palace-2",
+                   "attraction-krishnapuram-palace-3",
+                   "attraction-krishnapuram-palace-4",
+                   "attraction-krishnapuram-palace-5"
+               ],
+    "history":  {
+                    "short_description":  "A 17th-18th century palace built by the Travancore Kingdom, famous for its traditional architecture and the massive \u0027Gajendra Moksham\u0027 mural.",
+                    "detailed":  "Krishnapuram Palace was built during the reign of Anizham Thirunal Marthanda Varma, the king of the erstwhile Travancore Kingdom, during the 18th century. The palace features traditional Kerala architectural elements including gabled roofs, narrow corridors, and dormer windows. It served as the official residence of the rulers of Kayamkulam when the region was annexed to Travancore. Today, it is maintained as an archaeological museum showcasing royal artifacts, ancient coins, sculptures, weapons, and the renowned \u0027Gajendra Moksham\u0027 mural—one of the largest temple murals in Kerala."
+                },
+    "significance":  {
+                         "heritage":  "Represents Kerala’s traditional palace architecture from the Travancore era.",
+                         "cultural":  "Houses one of Kerala’s largest murals: the famous \u0027Gajendra Moksham\u0027.",
+                         "tourism":  "One of Alappuzha district’s top historical attractions; well-preserved gardens and museum."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Visiting Hours",
+                                             "start_time":  "09:00",
+                                             "end_time":  "17:00",
+                                             "note":  "Closed on Mondays and public holidays."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Palace tour",
+                                            "Museum visit",
+                                            "Viewing the Gajendra Moksham mural",
+                                            "Photography inside permitted areas",
+                                            "Garden walk"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹20–₹30 per person (approx.)",
+                                             "camera_fee":  "Separate charges may apply for DSLR cameras",
+                                             "warnings":  [
+                                                              "Certain heritage sections may restrict photography",
+                                                              "Do not touch preservation artifacts"
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  60,
+                         "best_time_to_visit":  [
+                                                    "November to February",
+                                                    "Morning or early afternoon"
+                                                ],
+                         "average_crowd_level":  "Low to Moderate"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.5,
+                            "highlights":  [
+                                               "Beautiful traditional architecture",
+                                               "Large mural painting",
+                                               "Calm and well-maintained museum"
+                                           ],
+                            "common_complaints":  [
+                                                      "Limited exhibits compared to bigger museums",
+                                                      "No cafeteria inside the palace complex"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Wear comfortable footwear – palace has multiple sections.",
+                                                       "Visit early to avoid school-group crowds.",
+                                                       "Spend time in the landscaped garden for photos."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Trivandrum International Airport",
+                                              "approx_distance_km":  110,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Bus to Kayamkulam"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kayamkulam Junction",
+                                                      "approx_distance_km":  5,
+                                                      "travel_options":  [
+                                                                             "Auto",
+                                                                             "Taxi"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Kayamkulam KSRTC Bus Stand",
+                                      "approx_distance_km":  3,
+                                      "description":  "Well-connected by buses from Alappuzha, Kollam, and Trivandrum.",
+                                      "parking_info":  "Parking available outside palace gate."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Autos available from Kayamkulam town.",
+                                                   "Combine palace visit with a trip to Oachira Temple."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Hotel Aryaas Kayamkulam",
+                                   "type":  "Vegetarian",
+                                   "distance_km":  3.5,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Good veg meals and dosa varieties."
+                               },
+                               {
+                                   "name":  "Thaff Restaurant Kayamkulam",
+                                   "type":  "Multi Cuisine",
+                                   "distance_km":  4.0,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Popular Kerala meals and grilled dishes."
+                               },
+                               {
+                                   "name":  "Broast Hut",
+                                   "type":  "Fast Food / Arabian",
+                                   "distance_km":  4.2,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Shawarma, broast chicken and snacks."
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Royal Regency Hotel Kayamkulam",
+                                      "type":  "Mid-range",
+                                      "distance_km":  4,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Restaurant",
+                                                        "Parking",
+                                                        "AC Rooms"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Hotel Orchid Residency",
+                                      "type":  "Budget",
+                                      "distance_km":  3.5,
+                                      "price_range":  "₹₹",
+                                      "amenities":  [
+                                                        "WiFi",
+                                                        "Basic rooms"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Krishnapuram Homestay",
+                                      "type":  "Budget Homestay",
+                                      "distance_km":  1.0,
+                                      "price_range":  "₹",
+                                      "amenities":  [
+                                                        "Local meals",
+                                                        "Peaceful area"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Kayamkulam Lake",
+                                   "approx_distance_km":  4
+                               },
+                               {
+                                   "name":  "Oachira Parabrahma Temple",
+                                   "approx_distance_km":  7
+                               },
+                               {
+                                   "name":  "Alappuzha Backwaters",
+                                   "approx_distance_km":  32
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "palace",
+                                      "heritage",
+                                      "museum",
+                                      "architecture"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Krishnapuram Palace → Kayamkulam Lake → Oachira Temple",
+                                                         "Morning palace visit → Lunch in Kayamkulam → Beach or backwater ride"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Closed on Mondays — display alert in your app.",
+                                                    "Photography restrictions vary by room.",
+                                                    "Good spot for history lovers and families."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Opening hours and entry fees may vary."
+             }
+}

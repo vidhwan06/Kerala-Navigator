@@ -1,0 +1,226 @@
+{
+    "id":  "alleppey_kuttanad_backwaters_paddy_fields",
+    "name":  "Kuttanad Backwaters \u0026 Paddy Fields",
+    "category":  "Backwaters / Agriculture Landscape / Scenic Spot",
+    "city":  "Kuttanad Region",
+    "district":  "Alappuzha",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Kuttanad, Alappuzha District, Kerala, India",
+                     "latitude":  9.6833,
+                     "longitude":  76.4333,
+                     "landmarks_nearby":  [
+                                              "Punnamada Lake",
+                                              "Nedumudi",
+                                              "Kainakary",
+                                              "Changanassery–Alappuzha Road (AC Road)"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-kuttanad-paddy-fields",
+                   "attraction-kuttanad-canals",
+                   "attraction-kuttanad-paddy-fields-2",
+                   "attraction-kuttanad-paddy-fields-3",
+                   "attraction-kuttanad-paddy-fields-4",
+                   "attraction-kuttanad-paddy-fields-5"
+               ],
+    "history":  {
+                    "short_description":  "Known as the ‘Rice Bowl of Kerala’, Kuttanad is famous for its below-sea-level paddy cultivation and scenic backwater canals.",
+                    "detailed":  "Kuttanad is one of the few places in the world where farming is carried out below sea level. For centuries, farmers built protective earthen bunds and reclaimed vast tracts of land from Vembanad Lake to cultivate rice. These ‘padasekharams’ (paddy fields) represent Kerala’s most unique agricultural engineering tradition. Kuttanad’s villages—Kainakary, Nedumudi, Ramankary, Pulinkunnu—are interconnected by narrow canals, making boats the primary mode of transport. The region played a major role in Kerala’s agrarian economy, as well as its backwater tourism development."
+                },
+    "significance":  {
+                         "nature":  "Vast green paddy fields, coconut groves, narrow canals and calm backwaters.",
+                         "agriculture":  "India’s major below sea-level farming system; called the ‘Rice Bowl of Kerala’.",
+                         "tourism":  "Houseboat cruises, canoe tours, village walks and traditional farming experiences.",
+                         "culture":  "Scenic rural villages showcasing traditional lifestyles, boat races, and toddy shops."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Best Time To Visit",
+                                             "start_time":  "06:00",
+                                             "end_time":  "18:00",
+                                             "note":  "Early morning or evening recommended for best views."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Houseboat cruises",
+                                            "Shikara/small boat rides through narrow canals",
+                                            "Farm \u0026 village tours",
+                                            "Photography",
+                                            "Visiting toddy shops",
+                                            "Bird watching"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "No entry fee; only boat charges apply.",
+                                             "warnings":  [
+                                                              "Narrow canals may not be navigable during heavy monsoon.",
+                                                              "Respect local farms and private areas.",
+                                                              "Wear lifejackets on smaller boats."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  180,
+                         "best_time_to_visit":  [
+                                                    "October to March (pleasant weather)",
+                                                    "July to September (lush fields after monsoon)"
+                                                ],
+                         "average_crowd_level":  "Moderate"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.7,
+                            "highlights":  [
+                                               "Unique below-sea-level landscapes",
+                                               "Green paddy fields stretching for kilometres",
+                                               "Beautiful canal rides",
+                                               "Authentic Kerala village experience"
+                                           ],
+                            "common_complaints":  [
+                                                      "Midday heat can be strong",
+                                                      "Some roads inside villages are narrow",
+                                                      "Mosquitos in evenings near water"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Choose a morning or sunset boat ride.",
+                                                       "Try a canoe ride for narrow canals.",
+                                                       "Visit during harvest season for golden paddy fields.",
+                                                       "Carry water and sunscreen."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Cochin International Airport",
+                                              "approx_distance_km":  95,
+                                              "travel_options":  [
+                                                                     "Taxi to Alappuzha",
+                                                                     "Bus to Changanassery or Alappuzha, then local transport"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Alappuzha Railway Station",
+                                                      "approx_distance_km":  18,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Kainakary/Nedumudi",
+                                                                             "Houseboat pickup"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_towns":  [
+                                                            "Alappuzha (18 km)",
+                                                            "Changanassery (24 km)"
+                                                        ],
+                                      "description":  "Connected by the scenic AC Road (Alappuzha–Changanassery Road) with frequent buses.",
+                                      "parking_info":  "Parking available at larger jetties like Nedumudi and Kainakary."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Best explored by shikara/canoe for narrow canals.",
+                                                   "Hire auto/taxi from Alappuzha for village entry.",
+                                                   "Houseboats travel through major Kuttanad canals."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Toddy Shops (Kuttanad)",
+                                   "type":  "Local Kerala Food \u0026 Seafood",
+                                   "cuisine":  [
+                                                   "Karimeen fry",
+                                                   "Duck roast",
+                                                   "Tapioca"
+                                               ],
+                                   "distance_km":  2,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Try Karimeen fry, duck roast and tapioca."
+                               },
+                               {
+                                   "name":  "Nedumudi Canal-side Restaurants",
+                                   "type":  "Kerala Meals",
+                                   "cuisine":  [
+                                                   "Traditional Kerala thali meals"
+                                               ],
+                                   "distance_km":  3,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Traditional Kerala thali meals."
+                               },
+                               {
+                                   "name":  "Pulinkunnu Local Cafés",
+                                   "type":  "Snacks \u0026 Tea",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Banana fritters"
+                                               ],
+                                   "distance_km":  4,
+                                   "price_range":  "₹",
+                                   "special_notes":  "Good for quick tea and banana fritters."
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Kuttanad Heritage Homestay",
+                                      "type":  "Budget Homestay",
+                                      "distance_km":  2,
+                                      "price_range":  "₹₹",
+                                      "amenities":  [
+                                                        "Home-cooked food",
+                                                        "Canal view"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Backwater Resort (Kainakary)",
+                                      "type":  "Mid-range Resort",
+                                      "distance_km":  5,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Waterfront rooms",
+                                                        "Restaurant"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Alleppey Houseboats",
+                                      "type":  "Houseboat Stay",
+                                      "distance_km":  0,
+                                      "price_range":  "₹₹₹₹",
+                                      "amenities":  [
+                                                        "AC rooms",
+                                                        "Meals",
+                                                        "Scenic cruise"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Alleppey Backwaters",
+                                   "approx_distance_km":  12
+                               },
+                               {
+                                   "name":  "Champakulam Church",
+                                   "approx_distance_km":  10
+                               },
+                               {
+                                   "name":  "Pathiramanal Island",
+                                   "approx_distance_km":  18
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "backwaters",
+                                      "paddy-fields",
+                                      "village-life",
+                                      "photography",
+                                      "nature"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Morning shikara ride → Kuttanad village walk → Lunch at toddy shop",
+                                                         "Houseboat cruise through Kuttanad → Sunset canal ride"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Display flood/monsoon alerts during heavy rain season.",
+                                                    "Show canal navigation warnings for small boats.",
+                                                    "Highlight best photography spots on map."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Boat availability and canal access may vary by season."
+             }
+}

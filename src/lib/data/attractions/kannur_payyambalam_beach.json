@@ -1,0 +1,208 @@
+{
+    "id":  "kannur_payyambalam_beach",
+    "name":  "Payyambalam Beach",
+    "category":  "Beach / Scenic Spot",
+    "city":  "Kannur",
+    "district":  "Kannur",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Payyambalam Beach, Kannur, Kerala, India",
+                     "latitude":  null,
+                     "longitude":  null,
+                     "landmarks_nearby":  [
+                                              "Kannur Beach Park",
+                                              "Kannur Lighthouse",
+                                              "St. Angelo\u0027s Fort"
+                                          ]
+                 },
+    "images":  [
+                   {
+                       "url":  "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fpayyambalam_beach%2F1.jpg",
+                       "caption":  "Wide sandy stretch of Payyambalam Beach"
+                   },
+                   {
+                       "url":  "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fpayyambalam_beach%2F2.jpg",
+                       "caption":  "Sunset view from Payyambalam Beach"
+                   }
+               ],
+    "history":  {
+                    "short_description":  "Payyambalam Beach is Kannur\u0027s most popular urban beach, known for its clean shores, landscaped gardens, and beautiful sunset views.",
+                    "detailed":  "Payyambalam Beach has long been one of Kannur\u0027s main attractions, featuring a wide golden sandy shoreline and gentle waves. Over time, it became a central recreational hub for locals and tourists. The beach is connected to Kannur town by a scenic walkway and features several landscaped gardens, memorials of prominent Kerala leaders, and monuments. Its proximity to Kannur Lighthouse and St. Angelo\u0027s Fort makes it a part of the district\u0027s main coastal heritage stretch."
+                },
+    "significance":  {
+                         "scenic":  "Wide sandy coast with stunning sunset views.",
+                         "tourism":  "One of Kannur\u0027s cleanest and most visited beaches.",
+                         "family_spot":  "Popular among families due to the park, play areas, and calm environment."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Visiting Hours",
+                                             "start_time":  "05:00",
+                                             "end_time":  "20:00",
+                                             "note":  "Ideal during mornings and evenings."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Sunset viewing",
+                                            "Beach walks",
+                                            "Photography",
+                                            "Relaxing at beach park",
+                                            "Picnic"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "Free entry",
+                                             "warnings":  [
+                                                              "Swimming not encouraged during high tide.",
+                                                              "Strong currents in monsoon season.",
+                                                              "Avoid isolated areas after dark."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  60,
+                         "best_time_to_visit":  [
+                                                    "October to February",
+                                                    "Evening hours for sunset views"
+                                                ],
+                         "average_crowd_level":  "High on weekends, moderate on weekdays"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.5,
+                            "highlights":  [
+                                               "Clean beach",
+                                               "Beautiful sunset",
+                                               "Peaceful atmosphere",
+                                               "Good for families"
+                                           ],
+                            "common_complaints":  [
+                                                      "Limited food stalls on the beach",
+                                                      "Can get crowded in evenings",
+                                                      "Strong waves during monsoon"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Best visited around 5–6 PM.",
+                                                       "Perfect for photography and long walks.",
+                                                       "Carry water and snacks since stalls are limited."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kannur International Airport",
+                                              "approx_distance_km":  28,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Cab services"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kannur Railway Station",
+                                                      "approx_distance_km":  2.5,
+                                                      "travel_options":  [
+                                                                             "Auto",
+                                                                             "Taxi"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Kannur Bus Stand",
+                                      "approx_distance_km":  3,
+                                      "description":  "Well connected by local buses and autos.",
+                                      "parking_info":  "Parking available near beach entrance."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Autos are easily available from Kannur town.",
+                                                   "Beach is walkable from the lighthouse area."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Cita Pani Restaurant",
+                                   "type":  "Seafood / Kerala Cuisine",
+                                   "distance_km":  1.5,
+                                   "price_range":  "₹₹₹",
+                                   "special_notes":  "Known for fresh fish meals."
+                               },
+                               {
+                                   "name":  "Cabana Multi Cuisine",
+                                   "type":  "Multi Cuisine",
+                                   "distance_km":  2,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Popular for biriyani, grills and snacks."
+                               },
+                               {
+                                   "name":  "Beachside Snack Stalls",
+                                   "type":  "Snacks \u0026 Juice",
+                                   "distance_km":  0.1,
+                                   "price_range":  "₹",
+                                   "special_notes":  "Tea, ice creams, juices."
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Mascot Beach Resort",
+                                      "type":  "Beachside Resort",
+                                      "distance_km":  1.2,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Sea-view rooms",
+                                                        "Restaurant",
+                                                        "Pool"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Hotel Blue Nile",
+                                      "type":  "Mid-range",
+                                      "distance_km":  3,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "AC rooms",
+                                                        "Restaurant",
+                                                        "Parking"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Local Budget Homestays",
+                                      "type":  "Budget",
+                                      "distance_km":  1,
+                                      "price_range":  "₹₹",
+                                      "amenities":  [
+                                                        "WiFi",
+                                                        "Local meals"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Kannur Lighthouse",
+                                   "approx_distance_km":  1.5
+                               },
+                               {
+                                   "name":  "St. Angelo\u0027s Fort",
+                                   "approx_distance_km":  2.2
+                               },
+                               {
+                                   "name":  "Arakkal Museum",
+                                   "approx_distance_km":  2.0
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "beach",
+                                      "sunset",
+                                      "family-spot",
+                                      "photography"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Payyambalam Beach → Kannur Lighthouse → Dinner in Kannur town",
+                                                         "Evening beach walk → St. Angelo\u0027s Fort → Arakkal Museum"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Avoid swimming during monsoon.",
+                                                    "Sun gets harsh midday—advise evening visits.",
+                                                    "Show tide alerts if you have tidal API later."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Beach conditions vary seasonally."
+             }
+}

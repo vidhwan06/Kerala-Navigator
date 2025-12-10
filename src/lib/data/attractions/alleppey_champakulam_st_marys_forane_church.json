@@ -1,0 +1,215 @@
+{
+    "id":  "alleppey_champakulam_st_marys_forane_church",
+    "name":  "St. Mary’s Forane Church, Champakulam",
+    "category":  "Church / Heritage / Pilgrimage",
+    "city":  "Champakulam",
+    "district":  "Alappuzha",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Champakulam, Kuttanad Region, Alappuzha District, Kerala, India",
+                     "latitude":  9.4005,
+                     "longitude":  76.4253,
+                     "landmarks_nearby":  [
+                                              "Champakulam Backwaters",
+                                              "Champakulam Boat Race Venue",
+                                              "Kuttanad Paddy Fields"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-champakulam-church",
+                   "attraction-champakulam-church-2",
+                   "attraction-champakulam-church-3",
+                   "attraction-champakulam-church-4",
+                   "attraction-champakulam-church-5"
+               ],
+    "history":  {
+                    "short_description":  "One of the oldest Christian churches in India, dating back to the 1st century AD according to tradition.",
+                    "detailed":  "St. Mary’s Forane Church in Champakulam is believed to be one of the oldest Christian churches in India. Tradition links its origin to AD 52, when St. Thomas the Apostle arrived in Kerala and established early Christian communities. The current church structure is several centuries old and displays a mix of Syrian Christian, Portuguese, and Kerala architectural styles. The church is an important center for the Syro-Malabar Catholic community and houses ancient artifacts, manuscripts, rock inscriptions, and beautifully carved wooden ceilings. The church is also associated with the famous Champakulam Moolam Boat Race, one of Kerala’s oldest vallamkali (snake-boat) races."
+                },
+    "significance":  {
+                         "religious":  "An ancient and sacred site for the Syro-Malabar Catholic Church, linked to the tradition of St. Thomas.",
+                         "heritage":  "Features centuries-old architecture, wooden carvings, and historic artifacts.",
+                         "tourism":  "A must-visit spot in Kuttanad for heritage lovers, pilgrims, and architecture enthusiasts."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Visiting Hours",
+                                             "start_time":  "06:00",
+                                             "end_time":  "18:00",
+                                             "note":  "Church usually open all day; Sunday Mass timings vary."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Church visit \u0026 prayer",
+                                            "Exploring historical artifacts",
+                                            "Photography of architecture",
+                                            "Walking along Champakulam backwaters"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "No entry fee",
+                                             "dress_code":  "Respectful, modest clothing recommended",
+                                             "warnings":  [
+                                                              "Avoid loud noise inside church",
+                                                              "Photography may be restricted inside certain sections"
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  45,
+                         "best_time_to_visit":  [
+                                                    "December to February",
+                                                    "During Champakulam Boat Race (June/July)"
+                                                ],
+                         "average_crowd_level":  "Moderate"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Beautiful architecture and peaceful atmosphere",
+                                               "One of India’s oldest churches",
+                                               "Located in a scenic backwater village"
+                                           ],
+                            "common_complaints":  [
+                                                      "Limited parking near narrow village lanes",
+                                                      "Crowded during boat race festivals"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Visit in the morning for a peaceful experience.",
+                                                       "Explore nearby canal viewpoints.",
+                                                       "Combine visit with a Kuttanad backwater ride."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Cochin International Airport",
+                                              "approx_distance_km":  95,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Bus to Alappuzha → Local auto to Champakulam"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Alappuzha Railway Station",
+                                                      "approx_distance_km":  18,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Auto-rickshaw",
+                                                                             "Local bus to Champakulam"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Champakulam Bus Stop",
+                                      "approx_distance_km":  1,
+                                      "description":  "Well-connected by buses from Alappuzha, Changanassery and Kuttanad villages.",
+                                      "parking_info":  "Limited parking available near church roadside."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Auto-rickshaws are the easiest way to reach the church.",
+                                                   "Roads are narrow; avoid large vehicles.",
+                                                   "Boat access is possible through Kuttanad canals."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Champakulam Toddy Shop",
+                                   "type":  "Kerala Seafood \u0026 Toddy",
+                                   "cuisine":  [
+                                                   "Duck Roast",
+                                                   "Karimeen Fry",
+                                                   "Tapioca"
+                                               ],
+                                   "distance_km":  2,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Popular for duck roast, Karimeen fry and tapioca."
+                               },
+                               {
+                                   "name":  "Nedumudy Riverbank Restaurants",
+                                   "type":  "Kerala Meals",
+                                   "cuisine":  [
+                                                   "Kerala"
+                                               ],
+                                   "distance_km":  3,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Great for lunch by the backwaters."
+                               },
+                               {
+                                   "name":  "Local Tea \u0026 Snacks Kiosks",
+                                   "type":  "Snacks \u0026 Tea",
+                                   "cuisine":  [
+                                                   "Snacks"
+                                               ],
+                                   "distance_km":  0.5,
+                                   "price_range":  "₹",
+                                   "special_notes":  "Good for banana fritters and Kerala tea."
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Champakulam Backwater Homestay",
+                                      "type":  "Budget Homestay",
+                                      "distance_km":  1,
+                                      "price_range":  "₹₹",
+                                      "amenities":  [
+                                                        "Canal view",
+                                                        "Home-cooked meals"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Backwater Retreat by the Lake",
+                                      "type":  "Mid-range Resort",
+                                      "distance_km":  4,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Restaurant",
+                                                        "Backwater-facing rooms"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Houseboat Stays",
+                                      "type":  "Houseboat",
+                                      "distance_km":  0,
+                                      "price_range":  "₹₹₹₹",
+                                      "amenities":  [
+                                                        "AC rooms",
+                                                        "Meals",
+                                                        "Backwater cruise"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Champakulam Backwaters",
+                                   "approx_distance_km":  0.5
+                               },
+                               {
+                                   "name":  "Kuttanad Paddy Fields",
+                                   "approx_distance_km":  6
+                               },
+                               {
+                                   "name":  "Alleppey Backwaters",
+                                   "approx_distance_km":  12
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "church",
+                                      "heritage",
+                                      "pilgrimage",
+                                      "backwaters",
+                                      "architecture"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Church visit → Backwater village walk → Lunch at local Kerala restaurant",
+                                                         "Morning church visit → Shikara ride in Kuttanad canals"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Parking is limited—advise early arrival.",
+                                                    "Notify visitors about Mass timings on Sundays.",
+                                                    "Show boat race season alerts in the app."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Church timings and festival dates may vary."
+             }
+}

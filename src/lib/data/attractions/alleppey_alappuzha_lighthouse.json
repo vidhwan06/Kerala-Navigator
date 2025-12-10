@@ -1,0 +1,207 @@
+{
+    "id":  "alleppey_alappuzha_lighthouse",
+    "name":  "Alappuzha Lighthouse",
+    "category":  "Historical Monument / Lighthouse",
+    "city":  "Alappuzha (Alleppey)",
+    "district":  "Alappuzha",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Lighthouse Road, Alappuzha Beach, Kerala, India",
+                     "latitude":  9.5005,
+                     "longitude":  76.3295,
+                     "landmarks_nearby":  [
+                                              "Alappuzha Beach",
+                                              "Old Sea Bridge (Pier)",
+                                              "Vijaya Park"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-alappuzha-lighthouse",
+                   "attraction-alappuzha-lighthouse-2",
+                   "attraction-alappuzha-lighthouse-3",
+                   "attraction-alappuzha-lighthouse-4",
+                   "attraction-alappuzha-lighthouse-5"
+               ],
+    "history":  {
+                    "short_description":  "A historic 19th-century lighthouse offering panoramic views of the Arabian Sea and Alappuzha town.",
+                    "detailed":  "The Alappuzha Lighthouse, built in 1862 by the Portuguese and later modified by the British, is one of Kerala’s oldest operational lighthouses. It served as a crucial navigational aid when Alappuzha was among India’s busiest ports for spices, coir, and marine commodities. The structure stands at 30 meters in height and offers an observation deck with 360-degree views of the beach, coastline, and the bustling town. The lighthouse has been preserved as a heritage landmark and remains a key tourist attraction."
+                },
+    "significance":  {
+                         "heritage":  "One of the oldest lighthouses on the Kerala coast, dating back to 1862.",
+                         "tourism":  "Provides stunning top-view panoramas of Alappuzha Beach and the Arabian Sea.",
+                         "culture":  "Symbol of Alappuzha’s maritime history and colonial-era trade importance."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Morning",
+                                             "start_time":  "09:00",
+                                             "end_time":  "11:30"
+                                         },
+                                         {
+                                             "session":  "Evening",
+                                             "start_time":  "14:00",
+                                             "end_time":  "17:30"
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Climbing the lighthouse",
+                                            "Viewing gallery at the top",
+                                            "Photography",
+                                            "Exploring the lighthouse museum"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹10–₹20 per person (approx.)",
+                                             "camera_fee":  "₹20–₹50 depending on type",
+                                             "age_limit":  "Elderly and children must climb stairs with caution",
+                                             "warnings":  [
+                                                              "Steep stairs leading to the top",
+                                                              "Not wheelchair accessible",
+                                                              "Visits may be suspended during strong winds or rains"
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  45,
+                         "best_time_to_visit":  [
+                                                    "Evening session for best views",
+                                                    "November to February"
+                                                ],
+                         "average_crowd_level":  "Moderate"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Spectacular ocean views",
+                                               "Historic structure",
+                                               "Close to the beach"
+                                           ],
+                            "common_complaints":  [
+                                                      "Many stairs to climb",
+                                                      "Gets hot inside during afternoons"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Visit in the evening for the best view and cool breeze.",
+                                                       "Carry water as the climb can be tiring.",
+                                                       "Combine visit with Alappuzha Beach for a perfect short itinerary."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Cochin International Airport",
+                                              "approx_distance_km":  85,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Bus to Alappuzha"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Alappuzha Railway Station",
+                                                      "approx_distance_km":  2.7,
+                                                      "travel_options":  [
+                                                                             "Auto",
+                                                                             "Taxi"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Alappuzha KSRTC Bus Stand",
+                                      "approx_distance_km":  3,
+                                      "description":  "Beach and lighthouse are well-connected by roads.",
+                                      "parking_info":  "Parking available near the beach and lighthouse entrance."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Autos are best for short-distance travel.",
+                                                   "Walking from the beach to the lighthouse is easy and scenic."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Mushroom Cafe",
+                                   "type":  "Beachside Cafe",
+                                   "distance_km":  0.4,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Great sea-view cafe with snacks and juices."
+                               },
+                               {
+                                   "name":  "Cassia Restaurant",
+                                   "type":  "Multi Cuisine",
+                                   "distance_km":  0.6,
+                                   "price_range":  "₹₹₹",
+                                   "special_notes":  "Known for seafood and Kerala dishes."
+                               },
+                               {
+                                   "name":  "Brothers Restaurant",
+                                   "type":  "Kerala Meals",
+                                   "distance_km":  0.8,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Good Malayalam meals near the beach."
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Ramada by Wyndham Alleppey",
+                                      "type":  "Luxury",
+                                      "distance_km":  4,
+                                      "price_range":  "₹₹₹₹",
+                                      "amenities":  [
+                                                        "Pool",
+                                                        "Backwater View",
+                                                        "Restaurant"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Beach Paradise Ayurveda Resort",
+                                      "type":  "Mid-range",
+                                      "distance_km":  1,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Beach Access",
+                                                        "Ayurvedic Treatments"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Alappuzha Beach Home",
+                                      "type":  "Budget Homestay",
+                                      "distance_km":  0.2,
+                                      "price_range":  "₹",
+                                      "amenities":  [
+                                                        "WiFi",
+                                                        "Sea-view rooms"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Alappuzha Beach",
+                                   "approx_distance_km":  0.2
+                               },
+                               {
+                                   "name":  "Sea Bridge (Old Pier)",
+                                   "approx_distance_km":  0.3
+                               },
+                               {
+                                   "name":  "Vijaya Park",
+                                   "approx_distance_km":  0.5
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "lighthouse",
+                                      "heritage",
+                                      "viewpoint",
+                                      "photography"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Alappuzha Beach → Alappuzha Lighthouse → Café stop",
+                                                         "Sunset at Beach → Evening visit to Lighthouse"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Closed during heavy rain or strong winds.",
+                                                    "Not suitable for visitors with mobility issues.",
+                                                    "Encourage early evening visits for best views."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Timings and fees subject to lighthouse authority updates."
+             }
+}

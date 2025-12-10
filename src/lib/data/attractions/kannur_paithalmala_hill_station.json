@@ -1,0 +1,211 @@
+{
+    "id": "kannur_paithalmala_hill_station",
+    "name": "Paithalmala (Pythalmala)",
+    "category": "Hill Station / Trekking / Nature",
+    "city": "Kappimala / Pythal Range",
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Paithalmala Hill Station, Kappimala, Kannur District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Kappimala Village",
+            "Paithal Valley Viewpoint",
+            "Kodagu (Karnataka border ranges)"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fpaithalmala%2F1.jpg",
+            "caption": "Grasslands and misty hills of Paithalmala"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fpaithalmala%2F2.jpg",
+            "caption": "Paithalmala trekking trails"
+        }
+    ],
+    "history": {
+        "short_description": "A beautiful hill station in Kannur with rolling meadows, fog-covered peaks, and one of the most scenic trekking routes in North Kerala.",
+        "detailed": "Paithalmala, also known as Pythalmala, is a part of the Western Ghats and lies at an altitude of around 1,370 meters. Historically, the region was used by local tribes for grazing and as a pathway to Kodagu. Over time, it evolved into a popular trekking and nature tourism destination due to its vast grasslands, seasonal flowers, and panoramic valley views. The old Paithalmala watchtower offers spectacular views of the entire Western Ghat ranges and is a key attraction."
+    },
+    "significance": {
+        "nature": "Expansive meadows, misty high-altitude climate, and lush mountain ecosystems.",
+        "trekking": "One of Kannur's most famous trekking destinations.",
+        "tourism": "Popular among photographers, nature lovers, and adventure hikers."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Trekking Hours",
+                "start_time": "06:00",
+                "end_time": "17:00",
+                "note": "Avoid entering after sunset due to forest area restrictions."
+            }
+        ],
+        "activities": [
+            "Trekking",
+            "Photography",
+            "Cloud & mist watching",
+            "Bird watching",
+            "Exploring the watchtower"
+        ],
+        "entry_rules": {
+            "entry_fee": "Forest entry fee may apply (~₹20–₹50)",
+            "warnings": [
+                "Steep and slippery trails during monsoon",
+                "Leeches common during rainy months",
+                "Avoid trekking alone",
+                "Follow forest department guidelines"
+            ]
+        },
+        "recommended_visit_duration_minutes": 180,
+        "best_time_to_visit": [
+            "October to February (best weather)",
+            "June to August for misty monsoon views"
+        ],
+        "average_crowd_level": "Moderate, high on weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.7,
+        "highlights": [
+            "Breathtaking valley views",
+            "Beautiful grasslands",
+            "Ideal for trekking and photography"
+        ],
+        "common_complaints": [
+            "Leeches in monsoon",
+            "Trek can be tiring for beginners",
+            "Limited shops near base point"
+        ],
+        "tips_from_visitors": [
+            "Start early morning for misty views.",
+            "Wear trekking shoes and carry water.",
+            "Carry salt or spray to avoid leeches during rainy season."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Kannur International Airport",
+            "approx_distance_km": 65,
+            "travel_options": [
+                "Taxi",
+                "Cab",
+                "Bus to Taliparamba → Local jeep"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kannur Railway Station",
+            "approx_distance_km": 52,
+            "travel_options": [
+                "Bus to Taliparamba",
+                "Taxi or jeep to Kappimala"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Taliparamba",
+            "approx_distance_km": 40,
+            "description": "From Taliparamba → Kappimala village → Paithalmala trekking base.",
+            "parking_info": "Parking available near trekking start point."
+        },
+        "local_transport_tips": [
+            "Jeep services available from Kappimala.",
+            "Road becomes narrow and hilly near the peak.",
+            "Carry essentials as there are no shops near the top."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Kappimala Local Hotels",
+            "type": "Kerala Meals",
+            "distance_km": 4,
+            "price_range": "₹₹",
+            "special_notes": "Good for tea, snacks, and meals before trek."
+        },
+        {
+            "name": "Taliparamba Restaurants",
+            "type": "Multi Cuisine",
+            "distance_km": 40,
+            "price_range": "₹₹",
+            "special_notes": "Best dining options near the region."
+        },
+        {
+            "name": "Small Hill-Base Tea Stalls",
+            "type": "Tea & Snacks",
+            "distance_km": 2,
+            "price_range": "₹",
+            "special_notes": "Tea, lime juice, snacks; limited availability."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Paithalmala Hill Resort",
+            "type": "Hill Resort",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Cottages",
+                "Campfire",
+                "Nature view"
+            ]
+        },
+        {
+            "name": "Taliparamba Hotels",
+            "type": "Mid-range",
+            "distance_km": 40,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Local Homestays (Kappimala)",
+            "type": "Budget Homestay",
+            "distance_km": 4,
+            "price_range": "₹₹",
+            "amenities": [
+                "Homely meals",
+                "Rural surroundings"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Madayipara",
+            "approx_distance_km": 30
+        },
+        {
+            "name": "Parassinikadavu Muthappan Temple",
+            "approx_distance_km": 45
+        },
+        {
+            "name": "Dharmadom Island / Muzhappilangad Beach region",
+            "approx_distance_km": 60
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "hill-station",
+            "trekking",
+            "nature",
+            "viewpoint",
+            "photography"
+        ],
+        "recommended_itineraries": [
+            "Morning trek → Explore grasslands → View from watchtower → Lunch in Taliparamba",
+            "Paithalmala sunrise trek → Nature walk → Evening tea at Kappimala"
+        ],
+        "alerts_suggestions": [
+            "Monsoon brings leeches — show seasonal warning.",
+            "Forest restrictions may apply on some days.",
+            "Advise trekkers to carry water and essentials."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Weather and trekking conditions vary seasonally."
+    }
+}

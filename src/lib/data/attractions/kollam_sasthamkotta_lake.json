@@ -1,0 +1,182 @@
+{
+    "id": "kollam_sasthamkotta_lake",
+    "name": "Sasthamkotta Lake",
+    "category": "Freshwater Lake / Nature / Scenic Spot",
+    "city": "Sasthamkotta",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Sasthamkotta Lake, Sasthamkotta, Kollam District, Kerala, India",
+        "latitude": 9.001200,
+        "longitude": 76.631300,
+        "landmarks_nearby": [
+            "Sree Dharma Sastha Temple",
+            "Sasthamkotta Boat Jetty",
+            "Sasthamkotta Town"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fsasthamkotta_lake%2F1.jpg",
+            "caption": "Panoramic view of Sasthamkotta Lake"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fsasthamkotta_lake%2F2.jpg",
+            "caption": "Evening view from lakeside area"
+        }
+    ],
+    "history": {
+        "short_description": "The largest freshwater lake in Kerala, known for its pristine water and scenic surroundings.",
+        "detailed": "Sasthamkotta Lake, often called the ‘Queen of Lakes’, is the largest freshwater lake in Kerala. The lake derives its name from the nearby ancient Sastha Temple. Surrounded by hills on three sides, Sasthamkotta has been a significant ecological and cultural landmark and is included in the Ramsar List of Wetlands."
+    },
+    "significance": {
+        "heritage": "Associated with Sastha Temple.",
+        "tourism": "Popular for lakeside walks and scenic views.",
+        "culture": "Home to temple festivals."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Open",
+                "start_time": "06:00",
+                "end_time": "18:30",
+                "note": "Boating times vary"
+            }
+        ],
+        "activities": [
+            "Boating",
+            "Birdwatching",
+            "Picnic",
+            "Sunset photography",
+            "Temple visit"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free (Boating charges apply)",
+            "warnings": [
+                "Swimming not permitted",
+                "Avoid deep edges"
+            ]
+        },
+        "recommended_visit_duration_minutes": 90,
+        "best_time_to_visit": [
+            "November to February",
+            "Sunset hours"
+        ],
+        "average_crowd_level": "Low to Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Calm and peaceful",
+            "Beautiful sunset",
+            "Freshwater quality"
+        ],
+        "common_complaints": [
+            "Limited food options",
+            "Boating availability varies",
+            "Narrow roads"
+        ],
+        "tips_from_visitors": [
+            "Visit early morning.",
+            "Carry snacks.",
+            "Combine with temple visit."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 65,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Sasthamkotta Railway Station",
+            "approx_distance_km": 4,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Sasthamkotta",
+            "approx_distance_km": 1.5,
+            "description": "Accessible from Kollam.",
+            "parking_info": "Parking available near jetty."
+        },
+        "local_transport_tips": [
+            "Autos recommended.",
+            "Best explored by walking."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Sasthamkotta Local Tea Stall",
+            "type": "Snacks & Tea",
+            "distance_km": 0.5,
+            "price_range": "₹",
+            "special_notes": "Quick refreshments."
+        },
+        {
+            "name": "Royal Hotel",
+            "type": "Kerala Meals",
+            "distance_km": 2,
+            "price_range": "₹₹",
+            "special_notes": "Family restaurant."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "KTDC Lake Inn Sasthamkotta",
+            "type": "Budget",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "amenities": [
+                "Parking",
+                "Lake view"
+            ]
+        },
+        {
+            "name": "Hotel Royal Regency",
+            "type": "Mid-range",
+            "distance_km": 12,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Sree Dharma Sastha Temple",
+            "approx_distance_km": 0.8
+        },
+        {
+            "name": "Munroe Island Backwaters",
+            "approx_distance_km": 18
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "lake",
+            "freshwater",
+            "nature",
+            "scenic"
+        ],
+        "recommended_itineraries": [
+            "Lakeside Walk → Boating → Temple Visit",
+            "Sunset Visit → Town Walk"
+        ],
+        "alerts_suggestions": [
+            "Boating weather dependent.",
+            "Carry essentials."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

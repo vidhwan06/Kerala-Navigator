@@ -1,0 +1,181 @@
+{
+    "id": "kollam_thevally_palace",
+    "name": "Thevally Palace",
+    "category": "Historical Palace / Heritage Site",
+    "city": "Kollam",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Thevally Palace, Thevally, Kollam, Kerala, India",
+        "latitude": 8.891900,
+        "longitude": 76.606100,
+        "landmarks_nearby": [
+            "Ashtamudi Lake",
+            "Thevally Bridge",
+            "Asramam Adventure Park"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fthevally_palace%2F1.jpg",
+            "caption": "Front view of Thevally Palace by the lake"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fthevally_palace%2F2.jpg",
+            "caption": "Exterior architecture showcasing colonial influence"
+        }
+    ],
+    "history": {
+        "short_description": "A lakeside heritage palace built during the reign of Travancore kings, reflecting Dutch, British, and Portuguese architectural styles.",
+        "detailed": "Thevally Palace was constructed between 1811 and 1819. Built on the banks of Ashtamudi Lake, the palace served as an important administrative and royal guesthouse. The architecture blends Dutch, British, and traditional Kerala elements. Today, it is preserved as a cultural monument reflecting the region’s colonial-era history."
+    },
+    "significance": {
+        "heritage": "Reflects Travancore’s architectural evolution.",
+        "tourism": "Known for scenic lakeside views and history.",
+        "culture": "Symbolizes Kollam’s historical importance."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Hours",
+                "start_time": "10:00",
+                "end_time": "17:00",
+                "note": "Access may be limited"
+            }
+        ],
+        "activities": [
+            "Heritage viewing",
+            "Photography",
+            "Lakeside walking",
+            "Exploring exterior"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free (Restricted access)",
+            "warnings": [
+                "Interiors may be closed",
+                "Conservation works ongoing"
+            ]
+        },
+        "recommended_visit_duration_minutes": 45,
+        "best_time_to_visit": [
+            "November to February",
+            "Evening hours"
+        ],
+        "average_crowd_level": "Low to Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.2,
+        "highlights": [
+            "Historic architecture",
+            "Lakeside setting",
+            "Peaceful atmosphere"
+        ],
+        "common_complaints": [
+            "Limited interior access",
+            "Maintenance needed",
+            "Lack of info boards"
+        ],
+        "tips_from_visitors": [
+            "Visit during golden hour.",
+            "Combine with boating.",
+            "Good for heritage lovers."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 68,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kollam Junction Railway Station",
+            "approx_distance_km": 3.5,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kollam",
+            "approx_distance_km": 3,
+            "description": "Accessible via Thevally Bridge.",
+            "parking_info": "Limited parking."
+        },
+        "local_transport_tips": [
+            "Autos easiest.",
+            "Walkable from lakeside."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Riverside Restaurant",
+            "type": "Multi-cuisine",
+            "distance_km": 1.2,
+            "price_range": "₹₹₹",
+            "special_notes": "Lakeside ambience."
+        },
+        {
+            "name": "Hotel Prasanthi",
+            "type": "Kerala Meals",
+            "distance_km": 1.5,
+            "price_range": "₹₹",
+            "special_notes": "Quick meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "KTDC Tamarind Kollam",
+            "type": "Budget",
+            "distance_km": 3.2,
+            "price_range": "₹₹",
+            "amenities": [
+                "Parking",
+                "Restaurant"
+            ]
+        },
+        {
+            "name": "Nani Hotel & Spa",
+            "type": "Mid-range",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Spa",
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Ashtamudi Lake",
+            "approx_distance_km": 0.5
+        },
+        {
+            "name": "Asramam Adventure Park",
+            "approx_distance_km": 2.2
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "heritage",
+            "palace",
+            "architecture",
+            "lakeside"
+        ],
+        "recommended_itineraries": [
+            "Palace → Lakeside Walk → Boat Ride",
+            "Thevally Palace → Heritage Tour"
+        ],
+        "alerts_suggestions": [
+            "Check restoration status.",
+            "Interior access restricted."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

@@ -1,0 +1,217 @@
+{
+    "id":  "wayanad_kuruvadweep_island",
+    "name":  "Kuruvadweep (Kuruva Island)",
+    "category":  "River Island / Eco-Tourism",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Kuruva Island, Kabini River, Wayanad, Kerala, India",
+                     "latitude":  11.8211,
+                     "longitude":  76.0863,
+                     "landmarks_nearby":  [
+                                              "Kabini River",
+                                              "Mananthavady",
+                                              "Boys Town"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-kuruvadweep-island",
+                   "attraction-kuruvadweep-island-2",
+                   "attraction-kuruvadweep-island-3",
+                   "attraction-kuruvadweep-island-4",
+                   "attraction-kuruvadweep-island-5"
+               ],
+    "history":  {
+                    "short_description":  "A protected river delta on the Kabini River known for bamboo rafting, dense forest, and rich biodiversity.",
+                    "detailed":  "Kuruvadweep, often called Kuruva Island, is a cluster of river islands formed by the Kabini River. Spread across approximately 950 acres, it is a protected eco-tourism zone managed by the Forest Department. The island ecosystem consists of dense evergreen forest, rich birdlife, medicinal plants, and bamboo bridges. It has been developed as an eco-friendly tourism destination with strictly controlled entry to preserve its natural habitat. Kuruvadweep is closed during monsoon and opened seasonally based on river water levels."
+                },
+    "significance":  {
+                         "nature":  "One of Kerala’s most pristine forest island ecosystems, home to rare birds and medicinal plants.",
+                         "tourism":  "Top eco-tourism destination in Wayanad with bamboo rafting, river trails, and forest walkways.",
+                         "ecology":  "Protected environmental zone with strict conservation rules."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Seasonal Timings",
+                                             "start_time":  "09:00",
+                                             "end_time":  "16:00",
+                                             "note":  "Open only from October to May; closed during monsoon or heavy-water days."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Bamboo rafting",
+                                            "Forest trekking",
+                                            "Bird watching",
+                                            "River walking",
+                                            "Photography",
+                                            "Nature exploration"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹50 (Indians), ₹80 (Foreigners)",
+                                             "raft_ticket":  "₹100–₹200 depending on season",
+                                             "permits_required":  "Forest department ticket at entry gate",
+                                             "warnings":  "No swimming allowed; strong river currents.",
+                                             "eco_rules":  [
+                                                               "Plastic-free zone",
+                                                               "Limited daily visitors allowed",
+                                                               "Entry closed if water levels rise"
+                                                           ]
+                                         },
+                         "recommended_visit_duration_minutes":  150,
+                         "best_time_to_visit":  [
+                                                    "November to February",
+                                                    "Morning hours for better wildlife spotting"
+                                                ],
+                         "average_crowd_level":  "High during peak season (Dec–Jan)"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Beautiful untouched forest environment",
+                                               "Unique bamboo rafting experience",
+                                               "Perfect for nature \u0026 photography"
+                                           ],
+                            "common_complaints":  [
+                                                      "Seasonal closures due to water levels",
+                                                      "Long queues during holidays",
+                                                      "Limited food options nearby"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Check open/close status before visiting.",
+                                                       "Wear comfortable shoes for walking.",
+                                                       "Carry water in reusable bottles (plastic banned).",
+                                                       "Arrive early to avoid waiting time."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kannur International Airport",
+                                              "approx_distance_km":  90,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Car rental"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode (Calicut)",
+                                                      "approx_distance_km":  110,
+                                                      "travel_options":  [
+                                                                             "Taxi"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "From Mananthavady (17km), take a bus to Kattikkulam; from there, jeeps/auto to island checkpoint.",
+                                      "parking_info":  "Parking available at entrance gate"
+                                  },
+                      "local_transport_tips":  [
+                                                   "Use taxi/auto or forest department jeeps from Kattikkulam.",
+                                                   "Public transport available up to the main road only."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Kuruvadweep Food Court (Forest Dept.)",
+                                   "type":  "Snacks",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks"
+                                               ],
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Banana Fries"
+                                                   ],
+                                   "distance_km":  0.1
+                               },
+                               {
+                                   "name":  "Kattikkulam Family Restaurant",
+                                   "type":  "Kerala Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala"
+                                               ],
+                                   "specialties":  [
+                                                       "Fish Curry Meals",
+                                                       "Biriyani"
+                                                   ],
+                                   "distance_km":  8
+                               },
+                               {
+                                   "name":  "Hotel Wilton Restaurant",
+                                   "type":  "Multi-Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala",
+                                                   "Chinese"
+                                               ],
+                                   "specialties":  [
+                                                       "Kerala Meals",
+                                                       "Chicken Curry"
+                                                   ],
+                                   "distance_km":  17
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Kuruva Island Resort",
+                                      "type":  "Mid-range",
+                                      "distance_km":  3,
+                                      "recommended_for":  [
+                                                              "Couples",
+                                                              "Families"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Jungle Retreat Wayanad",
+                                      "type":  "Nature Stay",
+                                      "distance_km":  10,
+                                      "recommended_for":  [
+                                                              "Nature lovers",
+                                                              "Wildlife enthusiasts"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Mananthavady Homestays",
+                                      "type":  "Budget",
+                                      "distance_km":  17,
+                                      "recommended_for":  [
+                                                              "Budget travelers"
+                                                          ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Tholpetty Wildlife Sanctuary",
+                                   "approx_distance_km":  15
+                               },
+                               {
+                                   "name":  "Boys Town",
+                                   "approx_distance_km":  12
+                               },
+                               {
+                                   "name":  "Pazhassi Raja Tomb",
+                                   "approx_distance_km":  19
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "island",
+                                      "eco-tourism",
+                                      "bamboo-rafting",
+                                      "forest"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Morning at Kuruvadweep → Lunch at Kattikkulam → Tholpetty Safari",
+                                                         "Kuruvadweep forest walk → Boys Town herbal garden → Mananthavady"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Check daily open/close status (water level dependent).",
+                                                    "Strict plastic ban inside the island.",
+                                                    "Visitor count is limited — arrive early."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Seasonal closures vary based on rainfall and water levels."
+             }
+}

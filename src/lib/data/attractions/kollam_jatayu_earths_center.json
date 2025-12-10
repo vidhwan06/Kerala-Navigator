@@ -1,0 +1,183 @@
+{
+    "id": "kollam_jatayu_earths_center",
+    "name": "Jatayu Earth’s Center",
+    "category": "Adventure Park / Mythology / Sculpture",
+    "city": "Chadayamangalam",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Jatayu Earth’s Center, Jatayupara Junction, Chadayamangalam, Kollam, Kerala, India",
+        "latitude": 8.914300,
+        "longitude": 76.864000,
+        "landmarks_nearby": [
+            "Jatayu Rock Hill",
+            "Chadayamangalam Town",
+            "Adventure Park Complex"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fjatayu_earths_center%2F1.jpg",
+            "caption": "World’s largest bird sculpture at Jatayu Earth’s Center"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fjatayu_earths_center%2F2.jpg",
+            "caption": "Cable car ride to the top of Jatayupara"
+        }
+    ],
+    "history": {
+        "short_description": "A giant sculpture and adventure park themed around the mythical bird Jatayu from the Ramayana.",
+        "detailed": "Created by filmmaker and sculptor Rajiv Anchal, this center is a tribute to the legendary bird Jatayu. The massive sculpture is considered the largest bird sculpture in the world. The site integrates mythology, art, ecology, and adventure through cable cars, adventure sports, a museum, and a 6D theatre."
+    },
+    "significance": {
+        "heritage": "Symbolic representation of Ramayana legend.",
+        "tourism": "World’s largest bird sculpture and premier adventure destination.",
+        "culture": "Blend of art, mythology, and eco-friendly design."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Hours",
+                "start_time": "10:00",
+                "end_time": "17:30",
+                "note": "Check online for updates"
+            }
+        ],
+        "activities": [
+            "Cable car ride",
+            "Museum & 6D theatre",
+            "Adventure zone activities",
+            "Nature walks",
+            "Photography"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry (Cable car extra)",
+            "warnings": [
+                "Steep pathways",
+                "Adventure activities restricted in rain",
+                "Follow safety instructions"
+            ]
+        },
+        "recommended_visit_duration_minutes": 120,
+        "best_time_to_visit": [
+            "November to February",
+            "Late afternoon"
+        ],
+        "average_crowd_level": "High on weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Stunning sculpture",
+            "Unique cable car experience",
+            "Good adventure activities"
+        ],
+        "common_complaints": [
+            "Expensive tickets",
+            "Midday heat",
+            "Waiting time for cable car"
+        ],
+        "tips_from_visitors": [
+            "Book online.",
+            "Carry water.",
+            "Visit in evening."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 54,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottarakkara Railway Station",
+            "approx_distance_km": 23,
+            "travel_options": [
+                "Taxi",
+                "Auto"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Chadayamangalam",
+            "approx_distance_km": 1.5,
+            "description": "Accessible via Kollam–Trivandrum highway.",
+            "parking_info": "Large dedicated parking area."
+        },
+        "local_transport_tips": [
+            "Taxis easiest to reach base.",
+            "Cable car recommended for ascent."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Jatayu Food Court",
+            "type": "Multi Cuisine",
+            "distance_km": 0.1,
+            "price_range": "₹₹₹",
+            "special_notes": "Official food court."
+        },
+        {
+            "name": "Hotel Supriya",
+            "type": "Kerala Restaurant",
+            "distance_km": 1.2,
+            "price_range": "₹₹",
+            "special_notes": "Good Kerala meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Park Residency",
+            "type": "Premium Hotel",
+            "distance_km": 6,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "WiFi",
+                "Restaurant"
+            ]
+        },
+        {
+            "name": "KTDC Golden Valley",
+            "type": "Budget Stay",
+            "distance_km": 8,
+            "price_range": "₹₹",
+            "amenities": [
+                "Parking",
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Konnithazham Temple",
+            "approx_distance_km": 2
+        },
+        {
+            "name": "Thenmala Eco-Tourism",
+            "approx_distance_km": 32
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "adventure",
+            "mythology",
+            "scenic",
+            "cable_car"
+        ],
+        "recommended_itineraries": [
+            "Cable Car → Sculpture → Museum → Adventure Zone",
+            "Jatayupara → Highway Lunch → Thenmala"
+        ],
+        "alerts_suggestions": [
+            "Pre-book tickets.",
+            "Wear proper footwear."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

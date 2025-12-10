@@ -1,0 +1,209 @@
+{
+    "id": "kannur_arakkal_museum",
+    "name": "Arakkal Museum",
+    "category": "Museum / Palace / Heritage Site",
+    "city": "Kannur",
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Arakkal Kettu, Ayikkara, Kannur, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Arakkal Palace",
+            "Kannur Fishing Harbour",
+            "St. Angelo's Fort"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Farakkal_museum%2F1.jpg",
+            "caption": "Front view of Arakkal Museum (Arakkal Kettu)"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Farakkal_museum%2F2.jpg",
+            "caption": "Arakkal family exhibits inside the museum"
+        }
+    ],
+    "history": {
+        "short_description": "Arakkal Museum showcases the legacy of Kerala's only Muslim royal family — the Arakkal dynasty of Kannur.",
+        "detailed": "The Arakkal Museum is part of the Arakkal Kettu Palace complex, the historic residence of the Arakkal Ali Rajas and Beevis — Kerala's only Muslim royal family. The Arakkal dynasty ruled parts of the Malabar coast and the Lakshadweep Islands for centuries, with strong influence over maritime trade. The museum displays royal artifacts including furniture, weapons, documents, coins, letters, household items, and intricate wooden architecture. The building reflects Kerala–Arab cultural influences. The Government of Kerala converted a section of the palace into a museum to preserve the royal family's history and maritime heritage."
+    },
+    "significance": {
+        "heritage": "Important site representing the only Muslim royal lineage in Kerala.",
+        "architecture": "Features Kerala-style palace architecture with carvings and historical rooms.",
+        "culture": "Preserves maritime, political, and cultural history of the Arakkal family.",
+        "tourism": "One of Kannur's most educational and heritage-rich spots."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Visiting Hours",
+                "start_time": "10:00",
+                "end_time": "17:00",
+                "note": "Closed on Mondays and public holidays."
+            }
+        ],
+        "activities": [
+            "Museum exploration",
+            "Viewing palace artifacts",
+            "Learning Kannur's maritime history",
+            "Photography (permitted in allowed areas)"
+        ],
+        "entry_rules": {
+            "entry_fee": "₹20–₹30 per person (approx.)",
+            "camera_fee": "May apply for DSLR cameras",
+            "warnings": [
+                "Do not touch displayed artifacts",
+                "Some rooms may be access-restricted"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "Morning hours",
+            "November to February"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.3,
+        "highlights": [
+            "Well-preserved palace",
+            "Great historical insight",
+            "Peaceful atmosphere"
+        ],
+        "common_complaints": [
+            "Small museum compared to other palaces",
+            "Some artifacts need better lighting",
+            "Closed on Mondays"
+        ],
+        "tips_from_visitors": [
+            "Combine visit with St. Angelo's Fort nearby.",
+            "Check opening days before visiting.",
+            "Photography is limited inside some sections."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Kannur International Airport",
+            "approx_distance_km": 27,
+            "travel_options": [
+                "Taxi",
+                "Auto-rickshaw"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kannur Railway Station",
+            "approx_distance_km": 3,
+            "travel_options": [
+                "Auto",
+                "Taxi",
+                "Local bus"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Kannur Bus Stand",
+            "approx_distance_km": 3,
+            "description": "Accessible via Ayikkara Road near Kannur fishing harbour.",
+            "parking_info": "Street-side parking available near the museum."
+        },
+        "local_transport_tips": [
+            "Auto-rickshaws are the easiest way to reach from Kannur town.",
+            "Combine with Lighthouse and Fort for a heritage circuit."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Pepperpot Restaurant",
+            "type": "Multi Cuisine",
+            "distance_km": 2,
+            "price_range": "₹₹",
+            "special_notes": "Popular for Kerala dishes and biriyani."
+        },
+        {
+            "name": "Local Harbour Cafés",
+            "type": "Snacks & Tea",
+            "distance_km": 0.3,
+            "price_range": "₹",
+            "special_notes": "Tea and Kerala snacks near fishing harbour."
+        },
+        {
+            "name": "Cita Pani Restaurant",
+            "type": "Seafood",
+            "distance_km": 2.2,
+            "price_range": "₹₹₹",
+            "special_notes": "Fresh seafood meals and fish fry."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Mascot Beach Resort",
+            "type": "Beachside Resort",
+            "distance_km": 1.2,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Sea-view rooms",
+                "Restaurant",
+                "Pool"
+            ]
+        },
+        {
+            "name": "Hotel Blue Nile",
+            "type": "Mid-range",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "Parking",
+                "AC Rooms"
+            ]
+        },
+        {
+            "name": "Budget Homestays near Ayikkara",
+            "type": "Budget",
+            "distance_km": 1.5,
+            "price_range": "₹₹",
+            "amenities": [
+                "WiFi",
+                "Local meals"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "St. Angelo's Fort",
+            "approx_distance_km": 2.2
+        },
+        {
+            "name": "Kannur Lighthouse",
+            "approx_distance_km": 1.8
+        },
+        {
+            "name": "Payyambalam Beach",
+            "approx_distance_km": 2.5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "museum",
+            "heritage",
+            "royal-family",
+            "palace",
+            "history"
+        ],
+        "recommended_itineraries": [
+            "Arakkal Museum → St. Angelo's Fort → Kannur Lighthouse",
+            "Museum visit → Harbour walk → Payyambalam Beach sunset"
+        ],
+        "alerts_suggestions": [
+            "Closed on Mondays — show alert in your app.",
+            "Photography restrictions vary by room.",
+            "Best combined with Kannur heritage circuit."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Timings/fees may change under archeology department."
+    }
+}

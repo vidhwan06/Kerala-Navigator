@@ -1,0 +1,153 @@
+{
+    "id": "kozhikode_kappad_beach",
+    "name": "Kappad Beach",
+    "local_name": "Kappakadavu",
+    "category": [
+        "Beach",
+        "Historical",
+        "Heritage"
+    ],
+    "description": {
+        "overview": "Kappad Beach is a historic coastal site in Kozhikode, Kerala, widely believed to be where Portuguese explorer Vasco da Gama first landed in India on 20 May 1498. The beach features golden sands, rocky formations, calm waters and a peaceful ambiance ideal for sunsets and heritage exploration.",
+        "significance": "Symbolic gateway of European maritime trade with India, especially for spices. The site marks the beginning of European colonization and global sea trade networks that shaped Kerala's history.",
+        "history": {
+            "vasco_da_gama_landing": "On 20 May 1498, Vasco da Gama and his crew arrived here with 170 men on 3 ships, initiating direct sea trade between Europe and India. A commemorative stone monument stands on the beach today.",
+            "trade_era": "Following the landing, spice trade relations grew between the Portuguese and the Zamorin (Samuthiri) rulers of Kozhikode, influencing political, social and maritime developments.",
+            "local_legacy": "The region continued to thrive as a coastal trade zone and later developed fishing settlements and coastal villages around the heritage site."
+        },
+        "ar_suggestion": "Interactive AR showing Vasco da Gama's landing, European ships approaching the coast, and historic spice trade routes."
+    },
+    "ratings": {
+        "average_rating": 4.0,
+        "review_summary": {
+            "positive": [
+                "Peaceful, less crowded compared to city beaches",
+                "Excellent sunset views with rocky landscapes",
+                "Strong historical significance"
+            ],
+            "negative": [
+                "Limited public facilities (toilets, benches, changing rooms)",
+                "Sea can be rough — not ideal for swimming",
+                "Very few food stalls directly on the beach"
+            ]
+        }
+    },
+    "best_time_to_visit": {
+        "recommended_hours": [
+            "09:00–20:00"
+        ],
+        "best_season": [
+            "October–March"
+        ],
+        "suggested_visit_duration": "1.5–2.5 hours",
+        "recommended_time_of_day": "4:30 PM to sunset"
+    },
+    "location": {
+        "address": "Kappad Beach, Kappad, Kozhikode, Kerala 673304",
+        "distance_from_city_center_km": 21,
+        "geo": {
+            "latitude": null,
+            "longitude": null
+        }
+    },
+    "transportation": {
+        "from_kozhikode_city": {
+            "distance_km": "20–22",
+            "travel_time": "30–40 minutes",
+            "modes": [
+                "Car",
+                "Taxi",
+                "Bus + Auto",
+                "Bike"
+            ],
+            "route_hint": "Kozhikode → NH66 (toward Koyilandy) → Kappad junction"
+        },
+        "from_airport": {
+            "airport_name": "Kozhikode International Airport (CCJ)",
+            "distance_km": "35–40",
+            "travel_time": "60–75 minutes",
+            "mode": [
+                "Taxi"
+            ]
+        },
+        "bus_info": {
+            "major_routes": [
+                "Kozhikode → Koyilandy → Kappad"
+            ],
+            "last_mile": "Auto recommended from highway or Kappad junction"
+        }
+    },
+    "things_to_do": [
+        "Visit the Vasco da Gama memorial stone",
+        "Sunset photography with rocky coastal views",
+        "Heritage walk on the shore",
+        "Seasonal bird watching and turtle sightings",
+        "Relax at the calm, less crowded beach"
+    ],
+    "nearby_hotels": [
+        {
+            "name": "Renai Kappad Beach Resort",
+            "type": "Resort",
+            "distance": "0–100m",
+            "amenities": [
+                "Sea View",
+                "Restaurant",
+                "Bar",
+                "Parking",
+                "WiFi"
+            ],
+            "tagline": "Sea-view dining with the Arabian Sea breeze"
+        },
+        {
+            "name": "Vasco Da Gama Beach Resort",
+            "type": "Resort",
+            "distance": "Walkable (~5–7 mins)",
+            "amenities": [
+                "Sea View",
+                "Restaurant",
+                "Cottages",
+                "WiFi"
+            ]
+        },
+        {
+            "name": "The Beach Cottage",
+            "type": "Homestay",
+            "distance": "Short walk",
+            "amenities": [
+                "Budget Stay",
+                "Beach Access"
+            ]
+        }
+    ],
+    "nearby_restaurants": [
+        {
+            "name": "Whispering Winds - Renai Kappad Beach Resort",
+            "type": "Multi-Cuisine + Seafood",
+            "highlight": "Sea-view dining with catch-of-the-day seafood"
+        },
+        {
+            "name": "Vasco Da Gama Resort Restaurant",
+            "type": "Kerala + Indian Cuisine",
+            "highlight": "Fresh seafood, homely Kerala dishes"
+        },
+        {
+            "name": "Local Eateries in Kappad",
+            "type": "Tea Shops & Kerala Meals",
+            "highlight": "Budget-friendly snacks and local meals"
+        }
+    ],
+    "safety_tips": [
+        "Avoid swimming during rough sea conditions",
+        "Limited public toilets — use nearby resort facilities if needed",
+        "Carry water, hat and sunscreen during day visits",
+        "Respect the heritage site and monument"
+    ],
+    "tags": [
+        "Historic",
+        "VascoDaGama",
+        "Peaceful",
+        "SunsetSpot",
+        "AR-Ready",
+        "Photography"
+    ]
+}

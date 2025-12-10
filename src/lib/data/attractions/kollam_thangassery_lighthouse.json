@@ -1,0 +1,186 @@
+{
+    "id": "kollam_thangassery_lighthouse",
+    "name": "Thangassery Lighthouse",
+    "category": "Historical Monument / Lighthouse",
+    "city": "Thangassery",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Thangassery Lighthouse, Thangassery, Kollam, Kerala, India",
+        "latitude": 8.881300,
+        "longitude": 76.567500,
+        "landmarks_nearby": [
+            "Thangassery Beach",
+            "Portuguese Fort Ruins",
+            "Thangassery Harbour"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fthangassery_lighthouse%2F1.jpg",
+            "caption": "Thangassery Lighthouse exterior view"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fthangassery_lighthouse%2F2.jpg",
+            "caption": "View of Kollam coast from lighthouse top"
+        }
+    ],
+    "history": {
+        "short_description": "A historic 1902-built lighthouse offering panoramic views of the Arabian Sea and Kollam coastline.",
+        "detailed": "Thangassery Lighthouse was constructed in 1902 during British rule to guide ships approaching Kollam port. Thangassery has a rich colonial past, once occupied by Portuguese, Dutch, and British. The lighthouse stands at 41 meters and provides a 360-degree view of the Arabian Sea and surrounding settlements."
+    },
+    "significance": {
+        "heritage": "Represents colonial maritime history.",
+        "tourism": "Popular for panoramic coastal views.",
+        "culture": "Part of European-influenced heritage zone."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Morning",
+                "start_time": "11:00",
+                "end_time": "13:00"
+            },
+            {
+                "session": "Evening",
+                "start_time": "14:00",
+                "end_time": "17:00"
+            }
+        ],
+        "activities": [
+            "Climbing lighthouse",
+            "Photography",
+            "Exploring fort ruins",
+            "Watching fishing boats"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry",
+            "warnings": [
+                "Steep stairs",
+                "May close in bad weather",
+                "Restricted visitor numbers"
+            ]
+        },
+        "recommended_visit_duration_minutes": 45,
+        "best_time_to_visit": [
+            "November to February",
+            "Late afternoon"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Beautiful view",
+            "Historic structure",
+            "Peaceful"
+        ],
+        "common_complaints": [
+            "Narrow stairs",
+            "Short hours",
+            "Maintenance closures"
+        ],
+        "tips_from_visitors": [
+            "Visit around 4 PM.",
+            "Wear comfortable shoes.",
+            "Combine with beach."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 67,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kollam Junction Railway Station",
+            "approx_distance_km": 5,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kollam",
+            "approx_distance_km": 4.5,
+            "description": "Well connected.",
+            "parking_info": "Limited parking."
+        },
+        "local_transport_tips": [
+            "Autos easiest.",
+            "Walkable heritage zone."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Thangassery Snack Shop",
+            "type": "Tea & Snacks",
+            "distance_km": 0.3,
+            "price_range": "₹",
+            "special_notes": "Quick bites."
+        },
+        {
+            "name": "Shanu's Sea View Cafe",
+            "type": "Beachside Cafe",
+            "distance_km": 0.6,
+            "price_range": "₹₹",
+            "special_notes": "Great views."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Sea Pearl Hotel",
+            "type": "Mid-range",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant"
+            ]
+        },
+        {
+            "name": "The Quilon Beach Hotel",
+            "type": "Luxury",
+            "distance_km": 4,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Sea-view rooms",
+                "Pool"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Thangassery Beach",
+            "approx_distance_km": 0.2
+        },
+        {
+            "name": "Portuguese Fort (Ruins)",
+            "approx_distance_km": 0.5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "lighthouse",
+            "heritage",
+            "viewpoint",
+            "coastal"
+        ],
+        "recommended_itineraries": [
+            "Lighthouse → Fort Ruins → Beach Walk",
+            "Evening View → Snacks"
+        ],
+        "alerts_suggestions": [
+            "Closed in bad weather.",
+            "Steep stairs."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

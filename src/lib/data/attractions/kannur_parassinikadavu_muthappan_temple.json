@@ -1,0 +1,216 @@
+{
+    "id": "kannur_parassinikadavu_muthappan_temple",
+    "name": "Parassinikadavu Muthappan Temple",
+    "category": "Temple / Pilgrimage / Cultural Heritage",
+    "city": "Parassinikadavu",
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Parassinikadavu Muthappan Temple, Parassinikadavu, Kannur District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Valapattanam River",
+            "Parassinikadavu Snake Park",
+            "Muthappan Madappura Bridge"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fmuthappan_temple%2F1.jpg",
+            "caption": "Entrance of Parassinikadavu Muthappan Temple"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fmuthappan_temple%2F2.jpg",
+            "caption": "'Muthappan Theyyam' performed inside the temple"
+        }
+    ],
+    "history": {
+        "short_description": "A unique temple in Kerala where Theyyam is performed daily as a form of worship to Lord Muthappan.",
+        "detailed": "Parassinikadavu Muthappan Temple is dedicated to Sree Muthappan, a revered folk deity of North Kerala who represents a blend of Lord Shiva and Lord Vishnu. The temple is distinctive because it follows traditions deeply rooted in Theyyam worship — a ritual art form combining dance, folklore, and devotion. According to legend, Muthappan appeared as a divine hunter who blessed people with food and protection. The temple practices include offering toddy, fish, and meat — uncommon in typical Hindu temples. Theyyam is performed every morning and evening, attracting devotees from across Kerala. The temple sits on the banks of the Valapattanam River, enhancing its spiritual ambiance."
+    },
+    "significance": {
+        "religious": "One of Kerala's only temples where Theyyam is part of daily worship.",
+        "cultural": "Preserves North Kerala's folklore, Theyyam traditions, and unique rituals.",
+        "unique_practices": "Offerings include toddy, fish, meat — symbolizing equality and inclusiveness.",
+        "tourism": "Major pilgrimage and cultural attraction in Kannur."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Morning Rituals + Theyyam",
+                "start_time": "05:00",
+                "end_time": "08:00",
+                "note": "Includes morning Muthappan Theyyam performance."
+            },
+            {
+                "session": "Evening Rituals + Theyyam",
+                "start_time": "17:00",
+                "end_time": "19:00",
+                "note": "Evening Theyyam is the main attraction."
+            }
+        ],
+        "activities": [
+            "Watching live Theyyam performance",
+            "Offering prayers",
+            "Participating in Annadanam (free meals)",
+            "Walking along the riverbank",
+            "Photography outside temple"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free entry",
+            "dress_code": "Modest and respectful clothing recommended",
+            "warnings": [
+                "Photography not allowed inside during rituals",
+                "Crowds may be heavy during festival months"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "November to February",
+            "Early morning or evening Theyyam sessions"
+        ],
+        "average_crowd_level": "High during ritual times"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.7,
+        "highlights": [
+            "Daily Theyyam performance",
+            "Powerful spiritual atmosphere",
+            "Free food (Annadanam) for all"
+        ],
+        "common_complaints": [
+            "Very crowded during festivals",
+            "Limited parking during peak hours"
+        ],
+        "tips_from_visitors": [
+            "Arrive early to get a good view of the Theyyam.",
+            "Carry water; temple surroundings can get hot.",
+            "Avoid taking photos during rituals to respect temple rules."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Kannur International Airport",
+            "approx_distance_km": 34,
+            "travel_options": [
+                "Taxi",
+                "Local cab",
+                "Bus to Kannur → Auto to Parassinikadavu"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kannur Railway Station",
+            "approx_distance_km": 20,
+            "travel_options": [
+                "Taxi",
+                "Auto",
+                "Bus to Parassinikadavu"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Parassinikadavu Bus Stop",
+            "approx_distance_km": 0.5,
+            "description": "Direct buses available from Kannur, Taliparamba, Payyanur.",
+            "parking_info": "Small parking area near temple; gets full during rituals."
+        },
+        "local_transport_tips": [
+            "Autos are best for last-mile connectivity.",
+            "Roads narrow near temple — avoid large vehicles."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Temple Annadanam Hall",
+            "type": "Free Temple Meals",
+            "distance_km": 0,
+            "price_range": "Free",
+            "special_notes": "Serves traditional Kerala meals to all devotees."
+        },
+        {
+            "name": "Parassinikadavu Local Cafés",
+            "type": "Tea & Snacks",
+            "distance_km": 0.3,
+            "price_range": "₹",
+            "special_notes": "Fresh tea, banana fritters, snacks."
+        },
+        {
+            "name": "Taliparamba Restaurants",
+            "type": "Kerala Cuisine",
+            "distance_km": 8,
+            "price_range": "₹₹",
+            "special_notes": "Good for meals, biriyani, seafood."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Parassinikadavu Temple Lodge",
+            "type": "Budget",
+            "distance_km": 0.1,
+            "price_range": "₹₹",
+            "amenities": [
+                "Basic rooms",
+                "Walking distance to temple"
+            ]
+        },
+        {
+            "name": "Hotel Polariz",
+            "type": "Mid-range",
+            "distance_km": 10,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "AC rooms",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Kannur Beach Resorts",
+            "type": "Beach Resort",
+            "distance_km": 18,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Sea-view rooms",
+                "Pool",
+                "Dining"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Parassinikadavu Snake Park",
+            "approx_distance_km": 1
+        },
+        {
+            "name": "Valapattanam River Walk",
+            "approx_distance_km": 0.2
+        },
+        {
+            "name": "Kannur Town",
+            "approx_distance_km": 20
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "temple",
+            "theyyam",
+            "culture",
+            "heritage",
+            "pilgrimage"
+        ],
+        "recommended_itineraries": [
+            "Morning Theyyam → Valapattanam river walk → Snake Park",
+            "Evening Theyyam → Dinner in Taliparamba → Return"
+        ],
+        "alerts_suggestions": [
+            "Temple gets very crowded during Theyyam shows — show peak hours alert.",
+            "Photography restrictions must be highlighted.",
+            "Parking is limited; encourage early arrival."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Ritual timings may vary during festivals."
+    }
+}

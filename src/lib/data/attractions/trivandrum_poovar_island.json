@@ -1,0 +1,129 @@
+{
+    "id":  "trivandrum_poovar_island",
+    "name":  "Poovar Island",
+    "category":  "Backwaters \u0026 Beach",
+    "city":  "Thiruvananthapuram",
+    "district":  "Trivandrum",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Poovar, Kerala",
+                     "latitude":  8.318,
+                     "longitude":  77.075,
+                     "landmarks_nearby":  [
+                                              "Poovar Estuary",
+                                              "Golden Sand Beach"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-poovar-island",
+                   "attraction-poovar-island-2",
+                   "attraction-poovar-island-3",
+                   "attraction-poovar-island-4",
+                   "attraction-poovar-island-5"
+               ],
+    "history":  {
+                    "short_description":  "A unique estuary linking a lake, river, backwaters, and the sea, known for its pristine beauty.",
+                    "detailed":  "Poovar was a trading hub for sandalwood, timber, and spices for centuries, known to ancient traders. Today, it has transformed into a serene and scenic tourism gem, famous for its tranquil backwater boat rides through dense mangrove forests and its luxurious floating resorts."
+                },
+    "significance":  {
+                         "tourism":  "Famous for its golden sand beach, backwater cruises, and floating resorts that offer a unique stay experience.",
+                         "nature":  "A major ecological zone where the Neyyar River meets the Arabian Sea, creating a vibrant ecosystem with rich mangrove forests."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Boating",
+                                             "start_time":  "09:00",
+                                             "end_time":  "18:00",
+                                             "note":  "Timings may vary by operator."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Mangrove boating",
+                                            "Floating restaurant dining",
+                                            "Backwater cruise",
+                                            "Beach walk"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "Free to visit, but boating charges apply to explore the backwaters."
+                                         },
+                         "recommended_visit_duration_minutes":  180,
+                         "best_time_to_visit":  [
+                                                    "September to March"
+                                                ],
+                         "average_crowd_level":  "Moderate, higher on weekends"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Stunning backwater views",
+                                               "Peaceful mangrove forests",
+                                               "Unique floating cottages"
+                                           ],
+                            "common_complaints":  [
+                                                      "Can be expensive",
+                                                      "Limited food options outside of resorts"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Take a sunset boat cruise for the best experience.",
+                                                       "Bargain with boat operators for better rates."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Trivandrum International Airport",
+                                              "approx_distance_km":  30
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Thiruvananthapuram Central",
+                                                      "approx_distance_km":  32
+                                                  },
+                      "by_road":  {
+                                      "description":  "Accessible by road up to the Poovar boat jetty, from where boat services are required to reach the island and resorts."
+                                  }
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Floating Restaurant Poovar",
+                                   "type":  "Seafood",
+                                   "distance_km":  0.1,
+                                   "recommended_for":  [
+                                                           "Tourists",
+                                                           "Couples"
+                                                       ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Poovar Island Resort",
+                                      "type":  "Premium",
+                                      "distance_km":  0.2,
+                                      "recommended_for":  [
+                                                              "Luxury travelers",
+                                                              "Honeymooners"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Estuary Sarovar Portico",
+                                      "type":  "Premium",
+                                      "distance_km":  1.5,
+                                      "recommended_for":  [
+                                                              "Families",
+                                                              "Tourists"
+                                                          ]
+                                  }
+                              ],
+    "app_specific":  {
+                         "tags":  [
+                                      "backwaters",
+                                      "resort",
+                                      "boating",
+                                      "beach",
+                                      "romance"
+                                  ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-22"
+             }
+}

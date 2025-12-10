@@ -1,0 +1,180 @@
+{
+    "id": "kottayam_thazhathangady_juma_masjid",
+    "name": "Thazhathangady Juma Masjid",
+    "category": "Heritage Mosque / Architecture / Pilgrimage",
+    "city": "Thazhathangady",
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Thazhathangady, Near Meenachil River, Kottayam, Kerala",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Kottayam Old City",
+            "Cheriapally St. Mary’s Church",
+            "Thaliyil Shiva Temple"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fthazhathangady_juma_masjid%2F1.jpg",
+            "caption": "Traditional wooden architecture of Thazhathangady Juma Masjid"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fthazhathangady_juma_masjid%2F2.jpg",
+            "caption": "Mosque view from Meenachil River"
+        }
+    ],
+    "history": {
+        "short_description": "One of Kerala’s oldest mosques, renowned for intricate wooden carvings and traditional architecture beside the Meenachil River.",
+        "detailed": "Believed to have been built over 800–1,000 years ago by Arab traders. The mosque is a rare surviving example of Kerala’s Islamic architecture influenced by local carpentry and royal patronage. It stands as a testament to early Muslim traders who settled in Kottayam."
+    },
+    "significance": {
+        "architecture": "Exquisite wooden carvings, gabled roofs, and traditional beams.",
+        "culture": "Symbol of centuries-old trade and cultural exchange in Kottayam."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "note": "Avoid prayer times unless for worship"
+            }
+        ],
+        "activities": [
+            "Admire wooden architecture",
+            "Observe intricate carvings",
+            "Riverside walk",
+            "Photography (exterior)"
+        ],
+        "entry_rules": {
+            "entry_fee": "No entry fee",
+            "warnings": [
+                "Photography restricted inside prayer hall",
+                "Dress modestly",
+                "Women’s entry restricted to designated days"
+            ]
+        },
+        "recommended_visit_duration_minutes": 45,
+        "best_time_to_visit": [
+            "October–March",
+            "Morning or evening"
+        ],
+        "average_crowd_level": "Low to Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Exquisite wooden carvings",
+            "Peaceful riverside atmosphere",
+            "Unique architecture"
+        ],
+        "common_complaints": [
+            "Limited photography inside",
+            "Women's access restricted",
+            "Small parking area"
+        ],
+        "tips_from_visitors": [
+            "Respect dress code.",
+            "Visit early morning for calm.",
+            "Combine with Cheriapally visit."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport (COK)",
+            "approx_distance_km": 85,
+            "travel_options": [
+                "Taxi",
+                "Cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottayam Railway Station",
+            "approx_distance_km": 3.5,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kottayam",
+            "approx_distance_km": 3,
+            "description": "Short drive from Kottayam town to Thazhathangady.",
+            "parking_info": "Limited parking near riverside lane."
+        },
+        "local_transport_tips": [
+            "Auto-rickshaws recommended due to narrow roads."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Biryani Hut (Old City)",
+            "type": "Kerala/Malabar Cuisine",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "special_notes": "Authentic Kottayam-style biryani."
+        },
+        {
+            "name": "Meenachil Riverside Tea Stall",
+            "type": "Snacks",
+            "distance_km": 0.2,
+            "price_range": "₹",
+            "special_notes": "Tea and snacks by the river."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Isola Di Cocco Riverside Stay",
+            "type": "Heritage Stay",
+            "distance_km": 0.5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Traditional Rooms",
+                "River View"
+            ]
+        },
+        {
+            "name": "Hotel Arcadia Kottayam",
+            "type": "Mid-range",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "Parking"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "St. Mary’s Church Cheriapally",
+            "approx_distance_km": 1
+        },
+        {
+            "name": "Thaliyil Shiva Temple",
+            "approx_distance_km": 1
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "HistoricMosque",
+            "KeralaArchitecture",
+            "CulturalHeritage",
+            "RiversideSite"
+        ],
+        "recommended_itineraries": [
+            "Visit Mosque → Walk to Cheriapally → Lunch at Old City",
+            "Evening riverside walk → Mosque visit (exterior)"
+        ],
+        "alerts_suggestions": [
+            "Dress modestly.",
+            "Check women's entry days if applicable."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Active place of worship."
+    }
+}

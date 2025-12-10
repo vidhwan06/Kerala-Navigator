@@ -1,0 +1,184 @@
+{
+    "id":  "trivandrum_napier_museum",
+    "name":  "Napier Museum",
+    "category":  "Museum",
+    "city":  "Thiruvananthapuram",
+    "district":  "Trivandrum",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "LMS Vellayambalam Road, Palayam, Thiruvananthapuram, Kerala 695033",
+                     "latitude":  8.506,
+                     "longitude":  76.955,
+                     "landmarks_nearby":  [
+                                              "Thiruvananthapuram Zoo",
+                                              "Kanakakkunnu Palace",
+                                              "Sree Chitra Art Gallery"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-napier-museum",
+                   "attraction-napier-museum-2",
+                   "attraction-napier-museum-3",
+                   "attraction-napier-museum-4",
+                   "attraction-napier-museum-5"
+               ],
+    "history":  {
+                    "short_description":  "A 19th-century art and natural history museum built in the Indo-Saracenic style of architecture.",
+                    "detailed":  "The Napier Museum is an art and natural history museum situated in Thiruvananthapuram. It was established in 1855. In 1874, the old museum building was demolished and the foundation for the new building was laid. The new building was named after Lord Napier, the Governor of Madras from 1866-1872. The architectural masterpiece was designed by Robert Chisholm and the building itself is a unique combination of Kerala, Mughal, Chinese, and Italian architectural styles. It houses a rare collection of archaeological and historic artefacts, bronze idols, ancient ornaments, a temple chariot and ivory carvings."
+                },
+    "significance":  {
+                         "cultural":  "A major cultural landmark showcasing Kerala\u0027s rich artistic and historical heritage.",
+                         "architectural":  "Its unique Indo-Saracenic design with a natural air-conditioning system makes it an architectural marvel."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Tuesday - Sunday",
+                                             "start_time":  "10:00",
+                                             "end_time":  "16:45",
+                                             "note":  "Closed on Mondays, and some public holidays."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Viewing historical artifacts",
+                                            "Exploring art collections",
+                                            "Photography (exterior)",
+                                            "Visiting the zoo nearby"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "Adults: ~₹20, Children: ~₹10. Additional fees for cameras.",
+                                             "photography_allowed_inside":  false
+                                         },
+                         "recommended_visit_duration_minutes":  90,
+                         "best_time_to_visit":  [
+                                                    "Weekdays to avoid crowds"
+                                                ],
+                         "average_crowd_level":  "Moderate"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.4,
+                            "highlights":  [
+                                               "Stunning architecture",
+                                               "Rich collection of artifacts",
+                                               "Located in a lush green park with a zoo"
+                                           ],
+                            "common_complaints":  [
+                                                      "Some exhibits could have better descriptions"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Combine the visit with the adjacent zoo and art gallery.",
+                                                       "Allocate at least 2 hours to see the main exhibits."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Trivandrum International Airport",
+                                              "approx_distance_km":  7,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Auto-rickshaw",
+                                                                     "Bus"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Thiruvananthapuram Central",
+                                                      "approx_distance_km":  3,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Auto-rickshaw",
+                                                                             "Bus"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "Located at the heart of the city, easily reachable by public transport.",
+                                      "parking_info":  "Paid parking is available within the museum complex."
+                                  }
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Indian Coffee House",
+                                   "type":  "Cafe",
+                                   "cuisine":  [
+                                                   "South Indian",
+                                                   "Snacks"
+                                               ],
+                                   "distance_km":  0.2,
+                                   "specialties":  [
+                                                       "Coffee",
+                                                       "Masala Dosa",
+                                                       "Cutlets"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Quick bites",
+                                                           "Budget eats"
+                                                       ]
+                               },
+                               {
+                                   "name":  "Zenzerro Cafe \u0026 Bakery",
+                                   "type":  "Cafe",
+                                   "cuisine":  [
+                                                   "Continental",
+                                                   "Bakery"
+                                               ],
+                                   "distance_km":  1,
+                                   "specialties":  [
+                                                       "Pasta",
+                                                       "Cakes",
+                                                       "Coffee"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Casual dining"
+                                                       ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "The Residency Tower",
+                                      "type":  "4-Star Hotel",
+                                      "distance_km":  2,
+                                      "recommended_for":  [
+                                                              "Tourists",
+                                                              "Business travelers"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Hycinth Hotels",
+                                      "type":  "5-Star Hotel",
+                                      "distance_km":  2.5,
+                                      "recommended_for":  [
+                                                              "Luxury travelers"
+                                                          ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Thiruvananthapuram Zoo",
+                                   "approx_distance_km":  0.1
+                               },
+                               {
+                                   "name":  "Sree Chitra Art Gallery",
+                                   "approx_distance_km":  0.1
+                               },
+                               {
+                                   "name":  "Kanakakkunnu Palace",
+                                   "approx_distance_km":  0.5
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "museum",
+                                      "history",
+                                      "art",
+                                      "architecture",
+                                      "family-friendly"
+                                  ],
+                         "alerts_suggestions":  [
+                                                    "Mention weekly holidays."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-22",
+                 "data_note":  "Entry fees and timings are subject to change."
+             }
+}

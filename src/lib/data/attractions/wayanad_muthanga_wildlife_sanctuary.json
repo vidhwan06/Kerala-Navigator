@@ -1,0 +1,226 @@
+{
+    "id":  "wayanad_muthanga_wildlife_sanctuary",
+    "name":  "Muthanga Wildlife Sanctuary",
+    "category":  "Wildlife Sanctuary / Safari",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Muthanga, Sultan Bathery Region, Wayanad, Kerala, India",
+                     "latitude":  null,
+                     "longitude":  null,
+                     "landmarks_nearby":  [
+                                              "Sultan Bathery",
+                                              "Bandipur Tiger Reserve Border",
+                                              "Nagarhole – Mudumalai Forest Belt"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-muthanga-safari",
+                   "attraction-muthanga-safari-2",
+                   "attraction-muthanga-safari-3",
+                   "attraction-muthanga-safari-4",
+                   "attraction-muthanga-safari-5"
+               ],
+    "history":  {
+                    "short_description":  "Part of the Wayanad Wildlife Sanctuary established in 1973, forming a major portion of the Nilgiri Biosphere Reserve with rich wildlife.",
+                    "detailed":  "Muthanga Wildlife Sanctuary is the southern zone of the Wayanad Wildlife Sanctuary, established in 1973 and integrated into the Nilgiri Biosphere Reserve. The forest shares boundaries with Bandipur, Mudumalai, and Nagarhole, forming one of India\u0027s largest contiguous wildlife habitats. The region is known for its elephant population, tiger sightings, deer herds, wild boars, and numerous bird species. Jeep safaris are the major attraction, offering deep-forest wildlife viewing regulated by the forest department."
+                },
+    "significance":  {
+                         "wildlife":  "Part of a major tiger and elephant corridor — rich in wildlife diversity.",
+                         "tourism":  "One of the best wildlife safari experiences in South India.",
+                         "ecology":  "Essential part of the Nilgiri Biosphere Reserve."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Morning Safari",
+                                             "start_time":  "07:00",
+                                             "end_time":  "10:00"
+                                         },
+                                         {
+                                             "session":  "Evening Safari",
+                                             "start_time":  "15:00",
+                                             "end_time":  "17:00"
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Jeep safari",
+                                            "Bird watching",
+                                            "Wildlife photography",
+                                            "Nature observation"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹50 per person (approx.)",
+                                             "safari_fee":  "₹1000–₹1500 per jeep",
+                                             "camera_charges":  "Extra charges for DSLR cameras",
+                                             "warnings":  [
+                                                              "No getting off the jeep during safari.",
+                                                              "Do not feed animals.",
+                                                              "Avoid loud noises; forest is sensitive."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  120,
+                         "best_time_to_visit":  [
+                                                    "October to May",
+                                                    "Best sightings early morning"
+                                                ],
+                         "average_crowd_level":  "High during weekends and holidays"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.5,
+                            "highlights":  [
+                                               "Great wildlife sightings",
+                                               "Beautiful dense forest",
+                                               "Thrilling jeep safari"
+                                           ],
+                            "common_complaints":  [
+                                                      "Sightings not guaranteed",
+                                                      "Safari queues on peak days"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Arrive early for morning safari.",
+                                                       "Carry binoculars for bird watching.",
+                                                       "Avoid visiting during heavy rain."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kozhikode (Calicut) International Airport",
+                                              "approx_distance_km":  110,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Car rental"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode Railway Station",
+                                                      "approx_distance_km":  100,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Sultan Bathery"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "Well-connected with frequent buses, taxis, and jeeps from Sultan Bathery, which is 12 km away.",
+                                      "parking_info":  "Parking available near safari starting point."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Autos and jeeps available from Sultan Bathery.",
+                                                   "Public buses stop near sanctuary entrance."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Sultan Bathery Cafeterias",
+                                   "type":  "Snacks \u0026 Meals",
+                                   "cuisine":  [
+                                                   "Dosa",
+                                                   "Tea",
+                                                   "Snacks"
+                                               ],
+                                   "specialties":  [
+                                                       "Dosa",
+                                                       "Tea",
+                                                       "Snacks"
+                                                   ],
+                                   "distance_km":  12
+                               },
+                               {
+                                   "name":  "Mint Flower Family Restaurant",
+                                   "type":  "Multi Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala Meals",
+                                                   "Chicken Curry"
+                                               ],
+                                   "specialties":  [
+                                                       "Kerala Meals",
+                                                       "Chicken Curry"
+                                                   ],
+                                   "distance_km":  13
+                               },
+                               {
+                                   "name":  "Hotel Wilton Restaurant",
+                                   "type":  "Premium Multi Cuisine",
+                                   "cuisine":  [
+                                                   "BBQ",
+                                                   "Biriyani",
+                                                   "Fish Curry"
+                                               ],
+                                   "specialties":  [
+                                                       "BBQ",
+                                                       "Biriyani",
+                                                       "Fish Curry"
+                                                   ],
+                                   "distance_km":  13
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Wild Roots Eco Lodge",
+                                      "type":  "Eco Resort",
+                                      "distance_km":  5,
+                                      "recommended_for":  [
+                                                              "Forest View",
+                                                              "Organic Food",
+                                                              "Cottages"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Sultan Bathery Homestays",
+                                      "type":  "Budget",
+                                      "distance_km":  12,
+                                      "recommended_for":  [
+                                                              "Parking",
+                                                              "Homely Meals"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Sterling Wayanad Resort",
+                                      "type":  "Luxury",
+                                      "distance_km":  18,
+                                      "recommended_for":  [
+                                                              "Pool",
+                                                              "Spa",
+                                                              "Restaurant"
+                                                          ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Kuruvadweep (Kuruva Island)",
+                                   "approx_distance_km":  22
+                               },
+                               {
+                                   "name":  "Sultan Bathery Jain Temple",
+                                   "approx_distance_km":  14
+                               },
+                               {
+                                   "name":  "Edakkal Caves",
+                                   "approx_distance_km":  24
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "wildlife",
+                                      "safari",
+                                      "forest",
+                                      "nature",
+                                      "adventure"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Morning Muthanga Safari → Breakfast in Sultan Bathery → Edakkal Caves",
+                                                         "Evening Safari → Sultan Bathery Town → Jain Temple Visit"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Safari may close early during rain.",
+                                                    "Wildlife sightings vary — no guarantee.",
+                                                    "Plastic is strictly prohibited inside the forest."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Forest department may revise safari timings seasonally."
+             }
+}

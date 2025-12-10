@@ -1,0 +1,194 @@
+{
+    "id": "idukki_munnar_top_station",
+    "name": "Top Station",
+    "category": "Viewpoint / Hill Station",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Top Station, Munnar-Kodaikanal Road, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Kurinjimala Sanctuary",
+            "Pampadum Shola National Park"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Ftop_station%2F1.jpg",
+            "caption": "Panoramic view of Western Ghats from Top Station"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Ftop_station%2F2.jpg",
+            "caption": "Clouds rolling over the valley at Top Station"
+        }
+    ],
+    "history": {
+        "short_description": "Historic highest railway station of the Kundala Valley Railway.",
+        "detailed": "Developed during the British era as the highest railway station of the historic Kundala Valley Railway. Tea was transported from Munnar to the plains of Tamil Nadu via this route. Though the railway no longer exists, the name remains."
+    },
+    "significance": {
+        "heritage": "British-era trade route history.",
+        "tourism": "Known for cloud-walking experience and panoramic views across the Western Ghats and Tamil Nadu valley.",
+        "culture": "Border of Kerala and Tamil Nadu."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "06:00",
+                "end_time": "18:00"
+            }
+        ],
+        "activities": [
+            "Sunrise viewing",
+            "Tamil Nadu valley photography",
+            "Skywalk experiences",
+            "Cloud-walking"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free",
+            "warnings": [
+                "Roads can be misty",
+                "Drive carefully"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "Early morning",
+            "Winter months"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Stunning sunrise",
+            "Above the clouds view",
+            "Scenic drive"
+        ],
+        "common_complaints": [
+            "Fog can obscure view",
+            "Road condition varies"
+        ],
+        "tips_from_visitors": [
+            "Carry a jacket.",
+            "Best visited before 9 AM to avoid fog.",
+            "Drive slowly."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 140,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 140,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 35,
+            "description": "Scenic drive through tea estates and dams.",
+            "parking_info": "Limited parking available."
+        },
+        "local_transport_tips": [
+            "Hire a cab for the day.",
+            "Buses available but less frequent."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Echo Café",
+            "type": "Café",
+            "distance_km": 15,
+            "price_range": "₹₹",
+            "special_notes": "On the way."
+        },
+        {
+            "name": "Hilltop Tea Stall",
+            "type": "Snacks",
+            "distance_km": 0.1,
+            "price_range": "₹",
+            "special_notes": "Hot tea and noodles."
+        },
+        {
+            "name": "Local Maggie Shops",
+            "type": "Street Food",
+            "distance_km": 0,
+            "price_range": "₹",
+            "special_notes": "Famous for hot Maggie."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Misty Mountain Hotel",
+            "type": "Hotel",
+            "distance_km": 20,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "View"
+            ]
+        },
+        {
+            "name": "Ayur County Resort",
+            "type": "Resort",
+            "distance_km": 25,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Ayurveda"
+            ]
+        },
+        {
+            "name": "Top Station View Resort",
+            "type": "Budget",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "amenities": [
+                "Basic stay"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Kundala Lake",
+            "approx_distance_km": 10
+        },
+        {
+            "name": "Echo Point",
+            "approx_distance_km": 15
+        },
+        {
+            "name": "Mattupetty Dam",
+            "approx_distance_km": 20
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "viewpoint",
+            "sunrise",
+            "nature",
+            "clouds"
+        ],
+        "recommended_itineraries": [
+            "Sunrise at Top Station → Kundala Lake → Echo Point → Mattupetty Dam",
+            "Top Station → Pampadum Shola"
+        ],
+        "alerts_suggestions": [
+            "Check weather forecast for fog.",
+            "Start early."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

@@ -1,0 +1,205 @@
+{
+    "id":  "alleppey_alappuzha_beach",
+    "name":  "Alappuzha Beach",
+    "category":  "Beach / Scenic Spot",
+    "city":  "Alappuzha (Alleppey)",
+    "district":  "Alappuzha",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Beach Road, Alappuzha, Kerala, India",
+                     "latitude":  9.5026,
+                     "longitude":  76.3263,
+                     "landmarks_nearby":  [
+                                              "Alappuzha Sea Bridge (Old Pier)",
+                                              "Alappuzha Lighthouse",
+                                              "Vijaya Park"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-alappuzha-beach",
+                   "attraction-alappuzha-beach-2",
+                   "attraction-alappuzha-beach-3",
+                   "attraction-alappuzha-beach-4",
+                   "attraction-alappuzha-beach-5"
+               ],
+    "history":  {
+                    "short_description":  "A historic coastal landmark of Alappuzha known for its long sandy shore, ancient sea bridge, and cultural festivals.",
+                    "detailed":  "Alappuzha Beach is one of Kerala’s earliest developed beaches and a major tourist attraction in Alappuzha. The remains of the 150-year-old Alappuzha Sea Bridge (pier), once used for loading goods to ships, still stands as an iconic structure. Over decades, the beach has hosted major events such as the Alappuzha Beach Festival and Sand Art Festival. The beach’s scenic sunset views, clean sands, and proximity to the lighthouse make it a central hub for visitors exploring the coastal side of the district."
+                },
+    "significance":  {
+                         "tourism":  "One of the most visited beaches in Kerala, known for sunsets, beach activities, and the old sea bridge.",
+                         "heritage":  "The remains of the British-era pier are a major historical attraction.",
+                         "scenic":  "Ideal for photography, evening walks, and family outings."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Beach Open Area",
+                                             "start_time":  "05:00",
+                                             "end_time":  "20:00",
+                                             "note":  "Beach is open all day; evenings are most popular."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Sunset viewing",
+                                            "Beach walks",
+                                            "Photography near the pier remains",
+                                            "Camel rides (seasonal)",
+                                            "Children’s park visit (Vijaya Park)"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "No entry fee",
+                                             "camera_fee":  "Free",
+                                             "warnings":  [
+                                                              "Swimming restricted during high-tide seasons.",
+                                                              "Avoid walking near broken pier structures.",
+                                                              "Lifeguards present on most days."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  60,
+                         "best_time_to_visit":  [
+                                                    "November to February",
+                                                    "Evenings for sunset"
+                                                ],
+                         "average_crowd_level":  "High during weekends and holidays"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.5,
+                            "highlights":  [
+                                               "Beautiful sunsets",
+                                               "Iconic old sea bridge",
+                                               "Calm and relaxing atmosphere"
+                                           ],
+                            "common_complaints":  [
+                                                      "Crowded on weekends",
+                                                      "Some areas may have litter during peak times",
+                                                      "Limited shaded seating"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Best visited around 5:30 PM for sunset.",
+                                                       "Bring water and sunscreen—beach can get hot during daytime.",
+                                                       "Great place for photography near the pier."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Cochin International Airport",
+                                              "approx_distance_km":  83,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Private cab",
+                                                                     "Bus to Alappuzha"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Alappuzha Railway Station",
+                                                      "approx_distance_km":  2.5,
+                                                      "travel_options":  [
+                                                                             "Auto",
+                                                                             "Taxi"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Alappuzha KSRTC Bus Stand",
+                                      "approx_distance_km":  3,
+                                      "description":  "Frequent buses connect from Kochi, Kollam, Trivandrum, and Kottayam.",
+                                      "parking_info":  "Parking available near beach road and park area."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Autos are easily available from railway station and bus stand.",
+                                                   "Beach road is walkable and safe during evenings."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Kream Korner",
+                                   "type":  "Cafe / Continental",
+                                   "distance_km":  1.0,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Popular for shakes, desserts, and burgers."
+                               },
+                               {
+                                   "name":  "Cassia Restaurant",
+                                   "type":  "Multi Cuisine",
+                                   "distance_km":  0.8,
+                                   "price_range":  "₹₹₹",
+                                   "special_notes":  "Good Kerala seafood and Chinese dishes."
+                               },
+                               {
+                                   "name":  "Mushroom Cafe",
+                                   "type":  "Coastal Cafe",
+                                   "distance_km":  0.5,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Sea-view café serving snacks and juices."
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Ramada by Wyndham Alleppey",
+                                      "type":  "Luxury",
+                                      "distance_km":  4,
+                                      "price_range":  "₹₹₹₹",
+                                      "amenities":  [
+                                                        "Pool",
+                                                        "Backwater View",
+                                                        "Restaurant"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Alleppy Prince Hotel",
+                                      "type":  "Mid-range",
+                                      "distance_km":  3,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Restaurant",
+                                                        "Parking"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Dream Nest Beach Home",
+                                      "type":  "Budget Homestay",
+                                      "distance_km":  0.3,
+                                      "price_range":  "₹₹",
+                                      "amenities":  [
+                                                        "Sea-view rooms",
+                                                        "WiFi"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Alappuzha Lighthouse",
+                                   "approx_distance_km":  0.5
+                               },
+                               {
+                                   "name":  "Sea Bridge (Old Pier Remains)",
+                                   "approx_distance_km":  0.1
+                               },
+                               {
+                                   "name":  "Vijaya Park",
+                                   "approx_distance_km":  0.2
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "beach",
+                                      "sunset",
+                                      "family-spot",
+                                      "photography"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Alappuzha Beach → Lighthouse → Dinner at Cassia",
+                                                         "Evening at Beach → Night walk on Beach Road → Cafe visit"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Check weather conditions before visiting—monsoon waves can be strong.",
+                                                    "Swimming restrictions depend on lifeguard instructions.",
+                                                    "Sunset hours are most crowded, plan accordingly."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Timings and crowd levels vary by season."
+             }
+}

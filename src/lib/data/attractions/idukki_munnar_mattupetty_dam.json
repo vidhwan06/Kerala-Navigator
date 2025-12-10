@@ -1,0 +1,196 @@
+{
+    "id": "idukki_munnar_mattupetty_dam",
+    "name": "Mattupetty Dam & Lake",
+    "category": "Dam / Lake / Boating",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Mattupetty Dam, Munnar - Top Station Highway, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Indo-Swiss Farm",
+            "Echo Point",
+            "Cowboy Park"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fmattupetty%2F1.jpg",
+            "caption": "Boating at Mattupetty Dam"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fmattupetty%2F2.jpg",
+            "caption": "Scenic view of Mattupetty Lake and hills"
+        }
+    ],
+    "history": {
+        "short_description": "Built in the late 1940s under the Pallivasal Hydro-Electric Project.",
+        "detailed": "The dam is a concrete gravity dam built to conserve water for hydroelectricity. It is surrounded by protected Shola forests rich in biodiversity. The area is also known for the Indo-Swiss Livestock Project nearby."
+    },
+    "significance": {
+        "heritage": "Early hydroelectric project.",
+        "tourism": "Popular for speed boating, scenic lake views, and occasional elephant sightings.",
+        "culture": "Hub for cattle farming history."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "09:00",
+                "end_time": "17:00"
+            }
+        ],
+        "activities": [
+            "Speed boating",
+            "Elephant spotting",
+            "Lake-side walking trails",
+            "Photography",
+            "Shopping for local crafts"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free (Boating ₹300–₹500 approx)",
+            "warnings": [
+                "Elephants may be present on roads",
+                "Follow boating safety rules"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "October to March",
+            "Mornings or late afternoons"
+        ],
+        "average_crowd_level": "High"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Thrilling speed boat ride",
+            "Beautiful scenery",
+            "Good for families"
+        ],
+        "common_complaints": [
+            "Long wait for boating",
+            "Crowded parking"
+        ],
+        "tips_from_visitors": [
+            "Best visited in mornings or after 4 PM.",
+            "Avoid mid-day sun.",
+            "Look out for wild elephants."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 120,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 120,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 13,
+            "description": "Easy drive from Munnar town.",
+            "parking_info": "Parking available but gets full."
+        },
+        "local_transport_tips": [
+            "Buses available.",
+            "Taxis preferred for multi-stop trips."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Mattupetty Canteen",
+            "type": "Canteen",
+            "distance_km": 0.1,
+            "price_range": "₹",
+            "special_notes": "Basic meals."
+        },
+        {
+            "name": "Timber Foods",
+            "type": "Restaurant",
+            "distance_km": 0.2,
+            "price_range": "₹₹",
+            "special_notes": "Snacks and meals."
+        },
+        {
+            "name": "Snack Stalls",
+            "type": "Street Food",
+            "distance_km": 0,
+            "price_range": "₹",
+            "special_notes": "Corn, fruits, tea."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Green Ridge Resort",
+            "type": "Resort",
+            "distance_km": 10,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Comfort"
+            ]
+        },
+        {
+            "name": "Tea Valley Resort",
+            "type": "Resort",
+            "distance_km": 8,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Tea garden view"
+            ]
+        },
+        {
+            "name": "Lake View Munnar",
+            "type": "Hotel",
+            "distance_km": 5,
+            "price_range": "₹₹",
+            "amenities": [
+                "Lake view"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Echo Point",
+            "approx_distance_km": 5
+        },
+        {
+            "name": "Kundala Lake",
+            "approx_distance_km": 10
+        },
+        {
+            "name": "Cowboy Park",
+            "approx_distance_km": 0.5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "dam",
+            "lake",
+            "boating",
+            "family"
+        ],
+        "recommended_itineraries": [
+            "Mattupetty Dam → Echo Point → Kundala Lake",
+            "Boating → Cowboy Park"
+        ],
+        "alerts_suggestions": [
+            "Wear life jackets during boating.",
+            "Keep distance from wild animals."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

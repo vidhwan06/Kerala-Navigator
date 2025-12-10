@@ -1,0 +1,204 @@
+{
+    "id": "kollam_ashtamudi_lake",
+    "name": "Ashtamudi Lake",
+    "category": "Backwater / Lake / Nature",
+    "city": "Kollam",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Ashtamudi Lake, Kollam, Kerala, India",
+        "latitude": 8.888400,
+        "longitude": 76.595000,
+        "landmarks_nearby": [
+            "Asramam Adventure Park",
+            "Kollam Beach",
+            "Thevally Palace"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fashtamudi_lake%2F1.jpg",
+            "caption": "Houseboats on Ashtamudi Lake"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fashtamudi_lake%2F2.jpg",
+            "caption": "Scenic view of Ashtamudi backwaters"
+        }
+    ],
+    "history": {
+        "short_description": "A major backwater lake in Kerala known as the gateway to the state’s extensive backwater network.",
+        "detailed": "Ashtamudi Lake is the second-largest and one of the most important wetlands in Kerala. The name ‘Ashtamudi’ means ‘eight coned’, referring to its eight arms or channels. Historically, Kollam was a bustling international port, and Ashtamudi Lake played a key role in waterway transport, trade, and cultural exchange. Today, it is a prominent tourism hub famous for serene boat cruises and houseboats."
+    },
+    "significance": {
+        "heritage": "Historically important inland waterway supporting ancient trade.",
+        "tourism": "Famous for houseboat cruises and mangrove forests.",
+        "culture": "Supports traditional fishing communities and coir manufacturing."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Open",
+                "start_time": "06:00",
+                "end_time": "18:30",
+                "note": "Boating times vary"
+            }
+        ],
+        "activities": [
+            "Houseboat cruise",
+            "Shikara boat ride",
+            "Bird watching",
+            "Mangrove exploration",
+            "Village backwater tour"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free (Boat charges apply)",
+            "warnings": [
+                "Life jackets mandatory",
+                "Avoid boating during heavy rain"
+            ]
+        },
+        "recommended_visit_duration_minutes": 120,
+        "best_time_to_visit": [
+            "October to February",
+            "Evening hours"
+        ],
+        "average_crowd_level": "Moderate to High"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.7,
+        "highlights": [
+            "Peaceful boat rides",
+            "Beautiful sunset views",
+            "Rich birdlife"
+        ],
+        "common_complaints": [
+            "Some areas crowded",
+            "Variable boat prices"
+        ],
+        "tips_from_visitors": [
+            "Take a shikara for intimate experience.",
+            "Evening cruises are best.",
+            "Book houseboats in advance."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 70,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kollam Junction Railway Station",
+            "approx_distance_km": 3,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kollam",
+            "approx_distance_km": 2.5,
+            "description": "Well connected by roads.",
+            "parking_info": "Parking available near boat jetties."
+        },
+        "local_transport_tips": [
+            "Autos convenient for short distances.",
+            "Boats available at Asramam jetty."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Sree Suprabhatham Restaurant",
+            "type": "Kerala Veg & Meals",
+            "distance_km": 1.5,
+            "price_range": "₹₹",
+            "special_notes": "Good Kerala meals."
+        },
+        {
+            "name": "Ramees Restaurant",
+            "type": "Arabian, BBQ",
+            "distance_km": 4,
+            "price_range": "₹₹₹",
+            "special_notes": "Popular family dining."
+        },
+        {
+            "name": "The Riverside by Camelot",
+            "type": "Lake-view Restaurant",
+            "distance_km": 2.2,
+            "price_range": "₹₹₹",
+            "special_notes": "Beautiful lake view."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "The Quilon Beach Hotel",
+            "type": "Luxury",
+            "distance_km": 4.5,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Sea-view rooms",
+                "Pool",
+                "Spa"
+            ]
+        },
+        {
+            "name": "Fragrant Nature Backwater Resort",
+            "type": "Premium Lake Resort",
+            "distance_km": 6,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Backwater-view rooms",
+                "Spa",
+                "Pool"
+            ]
+        },
+        {
+            "name": "KTDC Tamarind Kollam",
+            "type": "Budget",
+            "distance_km": 2.5,
+            "price_range": "₹₹",
+            "amenities": [
+                "WiFi",
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Asramam Adventure Park",
+            "approx_distance_km": 1.8
+        },
+        {
+            "name": "Thevally Palace",
+            "approx_distance_km": 2.5
+        },
+        {
+            "name": "Kollam Beach",
+            "approx_distance_km": 4.2
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "backwater",
+            "nature",
+            "boating",
+            "scenic"
+        ],
+        "recommended_itineraries": [
+            "Shikara Ride → Mangrove Tour → Sunset Cruise",
+            "Asramam Park → Boat Ride → Riverside Dinner"
+        ],
+        "alerts_suggestions": [
+            "Check life jacket availability.",
+            "Boat services suspended in heavy rain."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

@@ -1,0 +1,182 @@
+{
+    "id": "kollam_munroe_island",
+    "name": "Munroe Island",
+    "category": "Backwaters / Island Village / Nature",
+    "city": "Munroe Thuruthu",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Munroe Island, Kollam District, Kerala, India",
+        "latitude": 8.987500,
+        "longitude": 76.619300,
+        "landmarks_nearby": [
+            "Munroe Island Canoe Point",
+            "Kallada River",
+            "Perinkulam Backwaters"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fmunroe_island%2F1.jpg",
+            "caption": "Canoe ride through narrow canals of Munroe Island"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fmunroe_island%2F2.jpg",
+            "caption": "Backwater landscape and village scenery"
+        }
+    ],
+    "history": {
+        "short_description": "A cluster of islands famous for narrow canals, mangrove forests, traditional village life, and serene backwaters.",
+        "detailed": "Munroe Island, or Munroe Thuruthu, is a group of eight small islets located at the confluence of Ashtamudi Lake and the Kallada River. Named after Colonel John Munro, the island played a significant role in inland water transport. It is known for its peaceful village life, canoe tourism, coir making, and migratory bird habitats."
+    },
+    "significance": {
+        "heritage": "Named after British administrator John Munro.",
+        "tourism": "Best known for canoe tours through narrow canals.",
+        "culture": "Shows traditional Kerala village lifestyle."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Open",
+                "start_time": "06:00",
+                "end_time": "18:30",
+                "note": "Canoe tours best in morning"
+            }
+        ],
+        "activities": [
+            "Canoe tours",
+            "Village exploration",
+            "Birdwatching",
+            "Photography",
+            "Walking"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free (Canoe charges apply)",
+            "warnings": [
+                "Tidal flooding in some areas",
+                "Life jackets recommended"
+            ]
+        },
+        "recommended_visit_duration_minutes": 120,
+        "best_time_to_visit": [
+            "November to February",
+            "Early morning"
+        ],
+        "average_crowd_level": "Low to Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.7,
+        "highlights": [
+            "Peaceful nature",
+            "Amazing canoe rides",
+            "Traditional atmosphere"
+        ],
+        "common_complaints": [
+            "Limited food on island",
+            "Low public transport frequency",
+            "Tidal flooding"
+        ],
+        "tips_from_visitors": [
+            "Book morning canoe ride.",
+            "Carry water.",
+            "Great for photography."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 78,
+            "travel_options": [
+                "Taxi",
+                "Train"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Munroe Island Railway Station",
+            "approx_distance_km": 1,
+            "travel_options": [
+                "Walk",
+                "Auto"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munroe Island",
+            "approx_distance_km": 2,
+            "description": "Connected via village roads.",
+            "parking_info": "Parking near canoe points."
+        },
+        "local_transport_tips": [
+            "Walking/bicycle ideal.",
+            "Canoe pickup available."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Local Homestay Dining",
+            "type": "Traditional Kerala Meals",
+            "distance_km": 0.5,
+            "price_range": "₹₹",
+            "special_notes": "Pre-order required."
+        },
+        {
+            "name": "Munroe Island Tea Stall",
+            "type": "Snacks & Tea",
+            "distance_km": 0.3,
+            "price_range": "₹",
+            "special_notes": "Quick refreshments."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Munroe Island Backwater Homestay",
+            "type": "Homestay",
+            "distance_km": 0.4,
+            "price_range": "₹₹",
+            "amenities": [
+                "Home-cooked food",
+                "Backwater view"
+            ]
+        },
+        {
+            "name": "Green Chromide Homestay",
+            "type": "Eco-stay",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Lake view",
+                "Kayaking"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Sasthamkotta Lake",
+            "approx_distance_km": 18
+        },
+        {
+            "name": "Ashtamudi Lake",
+            "approx_distance_km": 20
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "backwaters",
+            "canoe",
+            "nature",
+            "village"
+        ],
+        "recommended_itineraries": [
+            "Canoe Ride → Village Walk → Tea",
+            "Sunrise Tour → Birdwatching → Lunch"
+        ],
+        "alerts_suggestions": [
+            "Check tidal conditions.",
+            "Plan meals in advance."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

@@ -1,0 +1,216 @@
+{
+    "id":  "wayanad_tholpetty_wildlife_sanctuary",
+    "name":  "Tholpetty Wildlife Sanctuary",
+    "category":  "Wildlife Sanctuary / Safari",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Tholpetty, Mananthavady, Wayanad, Kerala, India",
+                     "latitude":  null,
+                     "longitude":  null,
+                     "landmarks_nearby":  [
+                                              "Kuruvadweep (Kuruva Island)",
+                                              "Pazhassi Tomb",
+                                              "Thirunelli Temple"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-tholpetty-safari",
+                   "attraction-tholpetty-safari-2",
+                   "attraction-tholpetty-safari-3",
+                   "attraction-tholpetty-safari-4",
+                   "attraction-tholpetty-safari-5"
+               ],
+    "history":  {
+                    "short_description":  "A major wildlife zone in the North Wayanad forest region known for jeep safaris, rich wildlife, and part of the Nilgiri Biosphere Reserve.",
+                    "detailed":  "Tholpetty Wildlife Sanctuary is one of the two major sections of the Wayanad Wildlife Sanctuary, established in 1973 and part of the Nilgiri Biosphere Reserve along with Nagarhole, Bandipur, and Mudumalai. The sanctuary is home to elephants, tigers, bison, deer, langurs, wild dogs, and a wide variety of birds. The jeep safari is the main attraction, allowing visitors to explore deep forest regions in an eco-regulated manner. Tholpetty is known for frequent wildlife sightings due to its large waterholes and open forest patches."
+                },
+    "significance":  {
+                         "wildlife":  "Home to tigers, elephants, bison, and diverse bird species.",
+                         "tourism":  "One of the best places in Kerala for jeep safaris and wildlife viewing.",
+                         "ecology":  "Part of the Nilgiri Biosphere Reserve and ecologically sensitive."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Morning Safari",
+                                             "start_time":  "07:00",
+                                             "end_time":  "10:00"
+                                         },
+                                         {
+                                             "session":  "Evening Safari",
+                                             "start_time":  "15:00",
+                                             "end_time":  "17:00"
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Jeep safari",
+                                            "Wildlife viewing",
+                                            "Bird watching",
+                                            "Nature photography"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹20–₹50 per person (approx.)",
+                                             "safari_fee":  "₹1000–₹1500 per jeep (varies seasonally)",
+                                             "camera_charges":  "May apply for DSLR cameras",
+                                             "warnings":  [
+                                                              "Walking inside the forest is strictly prohibited.",
+                                                              "Follow ranger instructions at all times.",
+                                                              "No loud noises or feeding animals."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  120,
+                         "best_time_to_visit":  [
+                                                    "October to March",
+                                                    "Early morning for best wildlife sightings"
+                                                ],
+                         "average_crowd_level":  "High during peak season (Dec–Jan)"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Good elephant and deer sightings",
+                                               "Beautiful forest landscapes",
+                                               "Peaceful safari experience"
+                                           ],
+                            "common_complaints":  [
+                                                      "Sightings not guaranteed",
+                                                      "Queue for safari during holidays"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Arrive 30–45 minutes before safari start time.",
+                                                       "Best sightings happen at dawn.",
+                                                       "Carry binoculars for bird watching."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kannur International Airport",
+                                              "approx_distance_km":  85,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Car rental"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode Railway Station",
+                                                      "approx_distance_km":  110,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Mananthavady"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "From Mananthavady (20 km), take a bus to Kattikkulam. From there, jeeps/auto to sanctuary checkpoint.",
+                                      "parking_info":  "Parking available at safari entrance gate."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Use a taxi or jeep from Mananthavady.",
+                                                   "Public transport limited to main road; autos available to sanctuary gate."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Kattikkulam Tea \u0026 Snack Shops",
+                                   "type":  "Snacks",
+                                   "distance_km":  4,
+                                   "price_range":  "₹",
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Banana Fry",
+                                                       "Snacks"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Wilton Restaurant, Mananthavady",
+                                   "type":  "Multi Cuisine",
+                                   "distance_km":  20,
+                                   "price_range":  "₹₹",
+                                   "specialties":  [
+                                                       "Kerala Meals",
+                                                       "BBQ",
+                                                       "Chicken Curry"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Pazhassi Family Restaurant",
+                                   "type":  "Kerala Cuisine",
+                                   "distance_km":  18,
+                                   "price_range":  "₹₹",
+                                   "specialties":  [
+                                                       "Fish Curry Meals",
+                                                       "Chappathi \u0026 Curry"
+                                                   ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Jungle Retreat Wayanad",
+                                      "type":  "Eco Resort",
+                                      "distance_km":  8,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Forest-view cottages",
+                                                        "Wildlife sightings"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Kuruva Island Resort",
+                                      "type":  "Mid-range",
+                                      "distance_km":  12,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Cottages",
+                                                        "Restaurant",
+                                                        "Nature stay"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Mananthavady Homestays",
+                                      "type":  "Budget",
+                                      "distance_km":  20,
+                                      "price_range":  "₹",
+                                      "amenities":  [
+                                                        "Parking",
+                                                        "Local food"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Kuruvadweep (Kuruva Island)",
+                                   "approx_distance_km":  15
+                               },
+                               {
+                                   "name":  "Pazhassi Raja Tomb",
+                                   "approx_distance_km":  18
+                               },
+                               {
+                                   "name":  "Thirunelli Temple",
+                                   "approx_distance_km":  30
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "wildlife",
+                                      "safari",
+                                      "forest",
+                                      "nature"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Morning Tholpetty Safari → Breakfast at Kattikkulam → Kuruvadweep",
+                                                         "Tholpetty Evening Safari → Mananthavady Town Visit"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Safari depends on availability—reach early.",
+                                                    "Sightings vary seasonally; no guarantee.",
+                                                    "Do not carry plastic or litter inside forest."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Safari timings may vary by season and rules."
+             }
+}

@@ -1,0 +1,212 @@
+{
+    "id":  "wayanad_chembra_peak",
+    "name":  "Chembra Peak",
+    "category":  "Hill Station / Trekking Peak",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Chembra, Meppadi, Wayanad, Kerala, India",
+                     "latitude":  11.5523,
+                     "longitude":  76.0823,
+                     "landmarks_nearby":  [
+                                              "Heart-shaped Lake (Hridaya Saras)",
+                                              "Meppadi Town",
+                                              "Sooryanelli Viewpoint"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-chembra-peak",
+                   "attraction-chembra-peak-2",
+                   "attraction-chembra-peak-3",
+                   "attraction-chembra-peak-4",
+                   "attraction-chembra-peak-5"
+               ],
+    "history":  {
+                    "short_description":  "One of the highest peaks in Wayanad and part of the Western Ghats, known for the heart-shaped lake and scenic trekking trails.",
+                    "detailed":  "Chembra Peak, rising about 2100 meters above sea level, is part of the Wayanad hill ranges and the Western Ghats. The peak has been an important natural landmark for centuries and a popular trekking location. The heart-shaped lake, known as \u0027Hridaya Saras\u0027, is believed to be perennial and has cultural significance among locals. Chembra is protected by the forest department, and trekking requires permission to ensure environmental conservation."
+                },
+    "significance":  {
+                         "adventure":  "One of the best trekking locations in Kerala; popular among adventure tourists.",
+                         "nature":  "Home to rare plants and animals; part of the Western Ghats biodiversity hotspot.",
+                         "tourism":  "The heart-shaped lake is a major attraction unique to Chembra."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Trekking Hours",
+                                             "start_time":  "07:00",
+                                             "end_time":  "17:00",
+                                             "note":  "Forest entry closes by 2 PM; trekking allowed only until early evening."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Trekking (requires permission)",
+                                            "Visit the heart-shaped lake",
+                                            "Nature photography",
+                                            "Bird watching",
+                                            "Mountain viewpoints"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹20–50 per person (approx.)",
+                                             "trekking_permit_fee":  "₹750–1000 per group (Forest Dept.)",
+                                             "guide_mandatory":  true,
+                                             "warning":  "No overnight trekking allowed; lake entry strictly regulated."
+                                         },
+                         "recommended_visit_duration_minutes":  240,
+                         "best_time_to_visit":  [
+                                                    "September to February",
+                                                    "Early mornings for clear views"
+                                                ],
+                         "average_crowd_level":  "Moderate to high during weekends \u0026 holidays"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.8,
+                            "highlights":  [
+                                               "One of the most scenic treks in South India",
+                                               "Heart-shaped lake is a major highlight",
+                                               "Stunning views from the peak"
+                                           ],
+                            "common_complaints":  [
+                                                      "Trekking passes are limited per day",
+                                                      "Steep climb for beginners",
+                                                      "Entry often restricted during monsoons"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Reach early morning to get trekking passes.",
+                                                       "Carry water and light snacks.",
+                                                       "Wear good trekking shoes.",
+                                                       "Avoid trekking during heavy rain."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kozhikode International Airport",
+                                              "approx_distance_km":  92,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Car rental"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode (Calicut)",
+                                                      "approx_distance_km":  85,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Meppadi"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "From Meppadi (7km), visitors must drive to the forest check post; trekking starts after the base camp briefing.",
+                                      "parking_info":  "Parking available at base camp"
+                                  },
+                      "local_transport_tips":  [
+                                                   "Taxi or jeep recommended from Meppadi due to steep roads.",
+                                                   "Public transport is limited to nearby areas."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Udupi Veg Restaurant, Meppadi",
+                                   "type":  "Veg",
+                                   "cuisine":  [
+                                                   "South Indian"
+                                               ],
+                                   "specialties":  [
+                                                       "Meals",
+                                                       "Dosa"
+                                                   ],
+                                   "distance_km":  6
+                               },
+                               {
+                                   "name":  "Wayanad Clouds Cafe",
+                                   "type":  "Cafe",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks",
+                                                   "Sandwiches"
+                                               ],
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Snacks"
+                                                   ],
+                                   "distance_km":  5
+                               },
+                               {
+                                   "name":  "Jubilee Restaurant",
+                                   "type":  "Multi Cuisine",
+                                   "cuisine":  [
+                                                   "Biriyani",
+                                                   "Kerala Meals"
+                                               ],
+                                   "specialties":  [
+                                                       "Biriyani",
+                                                       "Kerala Meals"
+                                                   ],
+                                   "distance_km":  6
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Misty Mount Resort",
+                                      "type":  "Mid-range Resort",
+                                      "recommended_for":  [
+                                                              "Families",
+                                                              "Couples"
+                                                          ],
+                                      "distance_km":  4
+                                  },
+                                  {
+                                      "name":  "Meppadi Homestays",
+                                      "type":  "Budget Homestay",
+                                      "recommended_for":  [
+                                                              "Budget travelers"
+                                                          ],
+                                      "distance_km":  5
+                                  },
+                                  {
+                                      "name":  "Vythiri Village Resort",
+                                      "type":  "Luxury Resort",
+                                      "recommended_for":  [
+                                                              "Luxury travelers"
+                                                          ],
+                                      "distance_km":  12
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Soochipara Waterfalls",
+                                   "approx_distance_km":  15
+                               },
+                               {
+                                   "name":  "Pookode Lake",
+                                   "approx_distance_km":  20
+                               },
+                               {
+                                   "name":  "Kanthanpara Waterfalls",
+                                   "approx_distance_km":  10
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "trekking",
+                                      "hill-station",
+                                      "adventure",
+                                      "nature"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Early morning trek → Heart-shaped lake → Return to Meppadi for lunch",
+                                                         "Chembra trek → Soochipara Waterfalls → Evening in Vythiri"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Trekking passes limited; reach by 7 AM.",
+                                                    "Trekking closed during heavy monsoon for safety.",
+                                                    "Carry ID for forest entry."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Forest department rules change during monsoon."
+             }
+}

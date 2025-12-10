@@ -1,0 +1,174 @@
+{
+    "id": "idukki_munnar_attukad_waterfalls",
+    "name": "Attukad Waterfalls",
+    "category": "Waterfall / Trekking",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Attukad Waterfalls, Pallivasal, Munnar, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Pallivasal Tea Estate",
+            "Munnar Headworks Dam"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fattukad%2F1.jpg",
+            "caption": "Attukad Waterfalls cascading through hills"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fattukad%2F2.jpg",
+            "caption": "Scenic bridge near Attukad Waterfalls"
+        }
+    ],
+    "history": {
+        "short_description": "A scenic waterfall between Munnar and Pallivasal.",
+        "detailed": "Was a popular trekking zone during British days. The waterfall is nestled amidst rolling hills and thick jungles, making it a perfect spot for nature lovers."
+    },
+    "significance": {
+        "heritage": "Old trekking route.",
+        "tourism": "One of the most picturesque waterfalls in Munnar, surrounded by lush tea estates.",
+        "culture": "Nature spot."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "06:00",
+                "end_time": "18:00"
+            }
+        ],
+        "activities": [
+            "Trekking",
+            "Photography",
+            "Tea shop visits",
+            "Nature walks"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free",
+            "warnings": [
+                "Road is narrow and steep",
+                "Slippery rocks"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "June to October (monsoon)",
+            "Morning"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Stunning views",
+            "Good trekking path",
+            "Tea stalls with view"
+        ],
+        "common_complaints": [
+            "Bad road condition",
+            "Difficult access for large vehicles"
+        ],
+        "tips_from_visitors": [
+            "Road is narrow and steep—drive carefully.",
+            "Hire a jeep if unsure.",
+            "Best view in monsoon."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 105,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 105,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 9,
+            "description": "Narrow road access.",
+            "parking_info": "Limited roadside parking."
+        },
+        "local_transport_tips": [
+            "Auto or Jeep recommended.",
+            "Large buses cannot reach."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Attukad Café",
+            "type": "Café",
+            "distance_km": 0.1,
+            "price_range": "₹₹",
+            "special_notes": "View of falls."
+        },
+        {
+            "name": "Local Tea Shops",
+            "type": "Stalls",
+            "distance_km": 0,
+            "price_range": "₹",
+            "special_notes": "Tea and fritters."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Attukad Bliss Resort",
+            "type": "Resort",
+            "distance_km": 0.5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Waterfall view"
+            ]
+        },
+        {
+            "name": "Tea Valley Resort",
+            "type": "Resort",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Tea garden view"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Pothamedu Viewpoint",
+            "approx_distance_km": 5
+        },
+        {
+            "name": "Blossom Park",
+            "approx_distance_km": 8
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "waterfall",
+            "trekking",
+            "nature",
+            "photography"
+        ],
+        "recommended_itineraries": [
+            "Attukad Falls → Pothamedu Viewpoint",
+            "Morning trek to falls"
+        ],
+        "alerts_suggestions": [
+            "Drive carefully on narrow roads.",
+            "Wear grip shoes."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

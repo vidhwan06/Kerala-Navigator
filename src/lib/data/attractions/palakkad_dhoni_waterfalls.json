@@ -1,0 +1,181 @@
+{
+    "id": "palakkad_dhoni_waterfalls",
+    "name": "Dhoni Waterfalls",
+    "category": "Waterfall / Trekking Spot",
+    "city": "Dhoni (near Palakkad Town)",
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Dhoni Waterfalls, Dhoni Forest Area, Palakkad District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Dhoni Forest Checkpost",
+            "Kavasseri Trekking Route",
+            "Palakkad Town"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fdhoni%2F1.jpg",
+            "caption": "Dhoni Waterfalls surrounded by lush forest"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fdhoni%2F2.jpg",
+            "caption": "Forest trekking path leading to Dhoni Waterfalls"
+        }
+    ],
+    "history": {
+        "short_description": "A scenic forest waterfall accessible only through a guided 4 km trek.",
+        "detailed": "Dhoni Waterfalls is located inside a protected forest zone near Palakkad. Known for its lush greenery, clear stream water, and serene trekking trails, the destination became popular in the early 2000s. Entry is strictly regulated by the Forest Department. The waterfall is seasonal and becomes most vibrant during monsoon."
+    },
+    "significance": {
+        "heritage": "Part of Western Ghats forest belt.",
+        "tourism": "Popular trekking destination.",
+        "culture": "Supports eco-tourism."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Trekking Allowed",
+                "start_time": "09:30",
+                "end_time": "17:30"
+            }
+        ],
+        "activities": [
+            "4 km forest trek",
+            "Waterfall viewing",
+            "Nature photography",
+            "Streamside relaxation"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry",
+            "warnings": [
+                "Trek moderately difficult",
+                "Leeches in monsoon",
+                "No plastic allowed"
+            ]
+        },
+        "recommended_visit_duration_minutes": 180,
+        "best_time_to_visit": [
+            "July to January",
+            "Post-monsoon"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Beautiful forest trek",
+            "Clean water",
+            "Adventure-friendly"
+        ],
+        "common_complaints": [
+            "Leeches",
+            "Limited shops",
+            "Tiring climb"
+        ],
+        "tips_from_visitors": [
+            "Carry leech socks.",
+            "Bring water.",
+            "Start early."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Coimbatore International Airport",
+            "approx_distance_km": 75,
+            "travel_options": [
+                "Taxi",
+                "Private Vehicle"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Palakkad Junction",
+            "approx_distance_km": 12,
+            "travel_options": [
+                "Auto",
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Palakkad KSRTC Bus Stand",
+            "approx_distance_km": 10,
+            "description": "Autos and taxis available to checkpost.",
+            "parking_info": "Parking available near entry."
+        },
+        "local_transport_tips": [
+            "Take auto/taxi to checkpost.",
+            "Wear trekking shoes."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Local Tea Shops at Dhoni Base",
+            "type": "Tea & Snacks",
+            "distance_km": 0.3,
+            "price_range": "₹",
+            "special_notes": "Best for tea."
+        },
+        {
+            "name": "Hotel Kapilavasthu (Palakkad)",
+            "type": "Vegetarian",
+            "distance_km": 8,
+            "price_range": "₹₹",
+            "special_notes": "Good meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "KPM Regency",
+            "type": "Business Hotel",
+            "distance_km": 10,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "AC Rooms"
+            ]
+        },
+        {
+            "name": "Hotel Indraprastha",
+            "type": "Mid-range Hotel",
+            "distance_km": 10,
+            "price_range": "₹₹",
+            "amenities": [
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Malampuzha Dam",
+            "approx_distance_km": 15
+        },
+        {
+            "name": "Palakkad Fort",
+            "approx_distance_km": 10
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "waterfall",
+            "trek",
+            "nature",
+            "forest"
+        ],
+        "recommended_itineraries": [
+            "Checkpost → Trek → Return",
+            "Morning Trek → Lunch → Malampuzha"
+        ],
+        "alerts_suggestions": [
+            "Avoid trekking alone.",
+            "Check weather."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

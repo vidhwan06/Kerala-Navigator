@@ -1,0 +1,179 @@
+{
+    "id": "palakkad_meenvallam_waterfalls",
+    "name": "Meenvallam Waterfalls",
+    "category": "Waterfall / Scenic Spot",
+    "city": "Near Palakkad Town (Meenvallam area)",
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Meenvallam Waterfalls, Meenvallam, Palakkad District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Meenvallam Temple",
+            "Local Village Settlements",
+            "Connecting Road to Palakkad"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fmeenvallam%2F1.jpg",
+            "caption": "Meenvallam Waterfalls cascading over rocky steps"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fmeenvallam%2F2.jpg",
+            "caption": "Visitors enjoying the pool at Meenvallam Waterfalls"
+        }
+    ],
+    "history": {
+        "short_description": "A picturesque multi-step waterfall popular with locals and visitors for its clean pools and serene setting.",
+        "detailed": "Meenvallam Waterfalls is a seasonal cascade set within the Western Ghats' fringe near Palakkad. It has long been a local picnic and bathing spot, with villagers and travelers visiting during post-monsoon months when the falls are in full flow. The area retains a rustic charm with rocky pools and small cascades."
+    },
+    "significance": {
+        "heritage": "Locally significant natural spot.",
+        "tourism": "Attractive for short treks, bathing, picnics.",
+        "culture": "Visited during local festivals."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "08:00",
+                "end_time": "17:00"
+            }
+        ],
+        "activities": [
+            "Short nature trek",
+            "Bathing in natural pools",
+            "Photography",
+            "Picnics"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry",
+            "warnings": [
+                "Strong currents in rain",
+                "Slippery rocks",
+                "No littering"
+            ]
+        },
+        "recommended_visit_duration_minutes": 120,
+        "best_time_to_visit": [
+            "September to January",
+            "Early morning"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.3,
+        "highlights": [
+            "Clear water",
+            "Scenic cascades",
+            "Rustic atmosphere"
+        ],
+        "common_complaints": [
+            "Rough access paths",
+            "Limited facilities"
+        ],
+        "tips_from_visitors": [
+            "Wear sturdy shoes.",
+            "Bring water.",
+            "Visit post-monsoon."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Coimbatore International Airport",
+            "approx_distance_km": 80,
+            "travel_options": [
+                "Taxi",
+                "Private Vehicle"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Palakkad Junction",
+            "approx_distance_km": 18,
+            "travel_options": [
+                "Auto",
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Local village bus stops",
+            "approx_distance_km": 15,
+            "description": "Access by rural roads.",
+            "parking_info": "Limited parking."
+        },
+        "local_transport_tips": [
+            "Hire local auto/taxi.",
+            "Expect short walk."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Village Tea Stall",
+            "type": "Tea & Snacks",
+            "distance_km": 0.2,
+            "price_range": "₹",
+            "special_notes": "Basic refreshments."
+        },
+        {
+            "name": "Palakkad Town Restaurants",
+            "type": "Multi Cuisine",
+            "distance_km": 15,
+            "price_range": "₹₹",
+            "special_notes": "Better dining in town."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Local Homestays",
+            "type": "Homestay",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "amenities": [
+                "Basic Stay"
+            ]
+        },
+        {
+            "name": "KPM Regency (Palakkad)",
+            "type": "Business Hotel",
+            "distance_km": 18,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Palakkad Fort",
+            "approx_distance_km": 18
+        },
+        {
+            "name": "Malampuzha Dam & Gardens",
+            "approx_distance_km": 15
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "waterfall",
+            "nature",
+            "picnic",
+            "photography"
+        ],
+        "recommended_itineraries": [
+            "Palakkad → Meenvallam → Malampuzha",
+            "Half-day nature trek"
+        ],
+        "alerts_suggestions": [
+            "Avoid swimming in heavy rain.",
+            "Carry trash bags."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

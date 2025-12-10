@@ -1,0 +1,214 @@
+{
+    "id": "kozhikode_beach",
+    "name": "Kozhikode Beach",
+    "category": "Beach / Scenic Spot",
+    "city": "Kozhikode",
+    "district": "Kozhikode",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Kozhikode Beach, Beach Road, Kozhikode, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Calicut Lighthouse",
+            "Lions Park",
+            "Dolphin's Point",
+            "Kozhikode Beach Walkway"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_PROJECT_ID/o/places%2Fkozhikode%2Fkozhikode_beach%2F1.jpg",
+            "caption": "Sunset view at Kozhikode Beach"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_PROJECT_ID/o/places%2Fkozhikode%2Fkozhikode_beach%2F2.jpg",
+            "caption": "Walkway and old pier remains at Kozhikode Beach"
+        }
+    ],
+    "history": {
+        "short_description": "Historic coastal hub of Kozhikode, once a major port for the spice trade and now a popular sunset beach.",
+        "detailed": "Kozhikode Beach, located along the Arabian Sea, was historically part of the bustling port where Arab, Chinese, and European traders arrived for Kerala's spices. The beach still retains old pier pillars that once supported cargo transfer to ships offshore. Over time, the area developed into a central recreational spot with a promenade, children's park, food stalls, and a lighthouse nearby. Today, it is one of the most visited places in Kozhikode city for both locals and tourists, especially in the evenings."
+    },
+    "significance": {
+        "tourism": "Primary beach attraction in Kozhikode city, known for sunsets and street food.",
+        "heritage": "Symbol of Kozhikode's maritime and trade history.",
+        "culture": "A favourite gathering place for local families, students, and visitors."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Beach Access",
+                "start_time": "05:00",
+                "end_time": "21:00",
+                "note": "Most crowded during evenings and weekends."
+            }
+        ],
+        "activities": [
+            "Sunset viewing",
+            "Leisure walks along the promenade",
+            "Photography near the old pier remains",
+            "Enjoying local snacks from beach stalls",
+            "Children's play at Lions Park"
+        ],
+        "entry_rules": {
+            "entry_fee": "No entry fee",
+            "camera_fee": "Free for mobile cameras",
+            "warnings": [
+                "Swimming is not strongly encouraged due to waves and currents.",
+                "Avoid going too close to the edge of the old pier remains.",
+                "Littering is discouraged; use dustbins provided."
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "October to February for pleasant weather",
+            "Evenings between 5 PM – 7 PM for sunset"
+        ],
+        "average_crowd_level": "High during evenings, moderate on weekdays"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Beautiful sunset views",
+            "Good street food and snacks",
+            "Nice walkway along the shore"
+        ],
+        "common_complaints": [
+            "Can get crowded and noisy",
+            "Parking can be difficult on weekends",
+            "Some littering in peak times"
+        ],
+        "tips_from_visitors": [
+            "Visit around sunset for the best experience.",
+            "Try local favourites like ice creams, banana chips, and kallummakaya (mussels).",
+            "If driving, arrive a bit early to secure parking."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Calicut International Airport (Karipur)",
+            "approx_distance_km": 28,
+            "travel_options": [
+                "Taxi directly to Kozhikode Beach",
+                "Bus from airport region to Kozhikode city, then auto"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kozhikode Railway Station",
+            "approx_distance_km": 2.5,
+            "travel_options": [
+                "Auto-rickshaw",
+                "Taxi",
+                "City bus towards Beach Road"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Kozhikode Mofussil Bus Stand",
+            "approx_distance_km": 3,
+            "description": "Frequent buses to Kozhikode city from nearby districts; from bus stand, autos and city buses connect to the beach.",
+            "parking_info": "Limited roadside parking along Beach Road and near Lions Park; busy on weekends."
+        },
+        "local_transport_tips": [
+            "Autos are the quickest way to reach from railway station or city center.",
+            "Evening traffic near the beach can be heavy; plan extra time.",
+            "The beach area is pedestrian-friendly for walking along the promenade."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Beachside Snack Stalls",
+            "type": "Street Food / Snacks",
+            "distance_km": 0.1,
+            "price_range": "₹",
+            "special_notes": "Popular for kallummakaya fry, ice creams, and local snacks."
+        },
+        {
+            "name": "Hotel Zain",
+            "type": "Traditional Kerala & Malabar",
+            "distance_km": 1.5,
+            "price_range": "₹₹",
+            "special_notes": "Known for Malabar dishes and snacks."
+        },
+        {
+            "name": "Paragon Restaurant (City Center)",
+            "type": "Multi Cuisine / Malabar Special",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "special_notes": "Famous for Calicut biriyani; a must-try in Kozhikode."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "The Raviz Calicut",
+            "type": "Luxury Hotel",
+            "distance_km": 3,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant",
+                "WiFi",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Hyson Heritage",
+            "type": "Mid-range Hotel",
+            "distance_km": 3.5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Comfortable rooms",
+                "Restaurant",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Budget Lodges near Railway Station",
+            "type": "Budget",
+            "distance_km": 2.5,
+            "price_range": "₹₹",
+            "amenities": [
+                "Basic rooms",
+                "WiFi (in some)",
+                "Proximity to city center"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Mananchira Square",
+            "approx_distance_km": 2.5
+        },
+        {
+            "name": "SM Street (Sweet Meat Street)",
+            "approx_distance_km": 2
+        },
+        {
+            "name": "Pazhassi Raja Museum & Art Gallery",
+            "approx_distance_km": 5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "beach",
+            "sunset",
+            "street-food",
+            "family-spot",
+            "photography"
+        ],
+        "recommended_itineraries": [
+            "Evening at Kozhikode Beach → Street food at the promenade → Night drive back to city center.",
+            "City sightseeing (Mananchira & SM Street) → Sunset at Kozhikode Beach → Dinner at Paragon/nearby restaurant."
+        ],
+        "alerts_suggestions": [
+            "Display high-tide or rough sea alerts if integrated with a weather/tide API.",
+            "Highlight parking tips and suggest visiting on weekdays for a calmer experience.",
+            "Show a reminder to keep the beach clean and use waste bins."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Beach facilities and stall availability may vary seasonally."
+    }
+}

@@ -1,0 +1,181 @@
+{
+    "id": "kottayam_cheriapally_church",
+    "name": "St. Mary’s Orthodox Syrian Church, Cheriapally",
+    "category": "Heritage Church / Architecture / Pilgrimage",
+    "city": "Kottayam",
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Cheriapally, Kottayam Old City, Kottayam, Kerala",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Valiyapally",
+            "Thazhathangady Juma Masjid",
+            "Thaliyil Shiva Temple"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fcheriapally_church%2F1.jpg",
+            "caption": "Portuguese façade of Cheriapally Church"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fcheriapally_church%2F2.jpg",
+            "caption": "Ancient murals inside the church"
+        }
+    ],
+    "history": {
+        "short_description": "One of the oldest and most beautiful churches in India, built in 1579, famous for Persian-Christian history and murals.",
+        "detailed": "Constructed in 1579 by Portuguese artisans along with local Syrian Christian craftsmen under Kottayam kings’ patronage. It showcases ancient murals, stone inscriptions, and is a masterpiece of Kerala Christian architecture blending Persian, Portuguese, and Kerala styles."
+    },
+    "significance": {
+        "architecture": "Kerala-Portuguese-Persian fusion with 17th-century murals.",
+        "history": "Symbol of harmonious heritage of Kottayam with royal Hindu patronage."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "09:00",
+                "end_time": "17:30",
+                "note": "Avoid service interruptions"
+            }
+        ],
+        "activities": [
+            "Observe Persian-style murals",
+            "Photograph Portuguese façade",
+            "Visit ancient stone altar",
+            "Walk to heritage churches nearby"
+        ],
+        "entry_rules": {
+            "entry_fee": "No entry fee",
+            "warnings": [
+                "Photography inside murals restricted",
+                "Modest dress recommended",
+                "Silence needed during prayers"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "October–February (pleasant weather)",
+            "Morning or evening"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Beautiful fusion architecture",
+            "Historic murals",
+            "Quiet atmosphere"
+        ],
+        "common_complaints": [
+            "Inside photography restricted",
+            "Limited parking",
+            "Minimal interpretation boards"
+        ],
+        "tips_from_visitors": [
+            "Visit early to avoid crowds.",
+            "Respect silence.",
+            "Use autos for transport."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport (COK)",
+            "approx_distance_km": 85,
+            "travel_options": [
+                "Taxi",
+                "Cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottayam Railway Station",
+            "approx_distance_km": 2.5,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kottayam",
+            "approx_distance_km": 1.5,
+            "description": "Located in Kottayam Old City.",
+            "parking_info": "Parking limited near main entrance."
+        },
+        "local_transport_tips": [
+            "Use autos to avoid congestion."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "12 to 12 Barbeque",
+            "type": "Multi-cuisine",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "special_notes": "Popular dining spot."
+        },
+        {
+            "name": "Biryani Hut",
+            "type": "Kerala Muslim Food",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "special_notes": "Authentic biryani."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Hotel Arcadia",
+            "type": "Mid-range",
+            "distance_km": 1.5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "AC rooms",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Isola Di Cocco Heritage Stay",
+            "type": "Boutique Riverside",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Traditional ambience",
+                "River view"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Thazhathangady Juma Masjid",
+            "approx_distance_km": 1
+        },
+        {
+            "name": "Thaliyil Shiva Temple",
+            "approx_distance_km": 1
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "1579Church",
+            "KeralaPortugueseArchitecture",
+            "HistoricMurals",
+            "HeritageWalk"
+        ],
+        "recommended_itineraries": [
+            "Heritage walk in Old City → Visit Cheriapally → Lunch at Biryani Hut",
+            "Morning mass (if permitted) → Explore architecture"
+        ],
+        "alerts_suggestions": [
+            "Respect photography rules.",
+            "Dress modestly."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Active place of worship."
+    }
+}

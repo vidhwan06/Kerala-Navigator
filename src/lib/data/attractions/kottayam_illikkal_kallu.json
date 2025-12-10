@@ -1,0 +1,183 @@
+{
+    "id": "kottayam_illikkal_kallu",
+    "name": "Illikkal Kallu (Hill Viewpoint)",
+    "category": "Hill Viewpoint / Trekking / Adventure",
+    "city": "Moonnilavu",
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Illikkal Kallu Viewpoint, Moonnilavu–Illikkal Road, Kottayam, Kerala",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Ayyampara Viewpoint",
+            "Kurisumala Church",
+            "Vagamon Road"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fillikkal_kallu%2F1.jpg",
+            "caption": "Illikkal Kallu rock formation above clouds"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fillikkal_kallu%2F2.jpg",
+            "caption": "Trekking path to the viewpoint"
+        }
+    ],
+    "history": {
+        "short_description": "A dramatic hilltop viewpoint featuring a massive rock pillar formation at 3,500+ feet above sea level.",
+        "detailed": "Local legends say the hill once held an ancient medicinal herb believed to cure diseases. Previously a raw trekking spot, it was regulated by authorities due to accidents. Today, paved walkways and railings ensure controlled access for families and adventure seekers."
+    },
+    "significance": {
+        "geography": "One of Kerala’s most popular cloud-walk points with a unique split-rock structure.",
+        "tourism": "Major adventure attraction for riders exploring the Kottayam–Vagamon route."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "08:00",
+                "end_time": "19:00",
+                "note": "May close earlier during heavy rain"
+            }
+        ],
+        "activities": [
+            "Trekking",
+            "Sunrise photography",
+            "Cloud walk",
+            "View spotting"
+        ],
+        "entry_rules": {
+            "entry_fee": "Entry & parking fees applicable",
+            "warnings": [
+                "Do not cross protective railings",
+                "Fog can reduce visibility instantly",
+                "Avoid visiting during heavy lightning"
+            ]
+        },
+        "recommended_visit_duration_minutes": 120,
+        "best_time_to_visit": [
+            "October–March (clear skies)",
+            "6:00 AM–10:00 AM (sunrise clouds)",
+            "4:00 PM–6:00 PM (golden hour)"
+        ],
+        "average_crowd_level": "High on weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Stunning cloud-filled valley views",
+            "Thrilling but safe trekking trails",
+            "Good parking system"
+        ],
+        "common_complaints": [
+            "Crowded during weekends",
+            "Fog may block views",
+            "Steep paths unsuitable for elderly"
+        ],
+        "tips_from_visitors": [
+            "Visit early for sunrise.",
+            "Wear shoes with grip.",
+            "Carry water."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport (COK)",
+            "approx_distance_km": 85,
+            "travel_options": [
+                "Taxi",
+                "Cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottayam Railway Station",
+            "approx_distance_km": 57,
+            "travel_options": [
+                "Taxi",
+                "Bus to Erattupetta + Jeep"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Erattupetta",
+            "approx_distance_km": 16,
+            "description": "Kottayam → Erattupetta → Moonnilavu → Illikkal Kallu.",
+            "parking_info": "Parking available at base."
+        },
+        "local_transport_tips": [
+            "Last 2–3 km is steep uphill.",
+            "Jeep services available from base parking."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Illikkal Valley Tea & Snacks",
+            "type": "Local Tea Shop",
+            "distance_km": 0,
+            "price_range": "₹",
+            "special_notes": "Tea, pazhampori with view."
+        },
+        {
+            "name": "Spice Valley Restaurant",
+            "type": "Kerala Meals",
+            "distance_km": 5,
+            "price_range": "₹₹",
+            "special_notes": "Fish curry meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Winter Vale Green Stay",
+            "type": "Eco Resort",
+            "distance_km": 8,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Wooden Cottages",
+                "Campfire"
+            ]
+        },
+        {
+            "name": "Vagamon Heights",
+            "type": "Adventure Resort",
+            "distance_km": 20,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Boating",
+                "ATV"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Ayyampara Viewpoint",
+            "approx_distance_km": 10
+        },
+        {
+            "name": "Vagamon",
+            "approx_distance_km": 25
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "HillViewpoint",
+            "Cloudwalk",
+            "SunriseTrek",
+            "AdventureSpot",
+            "NaturePhotography"
+        ],
+        "recommended_itineraries": [
+            "Sunrise at Illikkal Kallu → Breakfast at Erattupetta → Vagamon",
+            "Evening sunset trek → Stay at Winter Vale"
+        ],
+        "alerts_suggestions": [
+            "Steep climb, wear good shoes.",
+            "Fog warning."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Visibility depends on weather."
+    }
+}

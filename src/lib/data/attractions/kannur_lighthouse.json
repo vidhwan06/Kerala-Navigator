@@ -1,0 +1,214 @@
+{
+    "id": "kannur_lighthouse",
+    "name": "Kannur Lighthouse",
+    "category": "Lighthouse / Scenic Viewpoint / Heritage",
+    "city": "Kannur",
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Kannur Lighthouse, Payyambalam Beach Road, Kannur, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Payyambalam Beach",
+            "St. Angelo's Fort",
+            "Kannur Beach Park"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Flighthouse%2F1.jpg",
+            "caption": "Kannur Lighthouse against the sky"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Flighthouse%2F2.jpg",
+            "caption": "View from the top of Kannur Lighthouse"
+        }
+    ],
+    "history": {
+        "short_description": "Built in 1903, Kannur Lighthouse is Kerala's first lighthouse, offering stunning coastal views from the top.",
+        "detailed": "Kannur Lighthouse is one of the most iconic landmarks on Kerala's northern coast. Constructed initially by the British in 1903, it guided ships arriving at Kannur's busy port, which was historically a major spice and trade center. The current lighthouse tower stands 75 feet tall and uses an advanced rotating beacon system. The lighthouse complex includes a heritage museum showcasing maritime equipment, photographs, and lighthouse technology. Surrounded by well-maintained gardens, it is a favorite spot for tourists and photographers."
+    },
+    "significance": {
+        "heritage": "Kerala's first lighthouse and an important maritime navigation point.",
+        "scenic": "Offers panoramic views of the Arabian Sea, beaches, and fort areas.",
+        "tourism": "A major attraction near Payyambalam Beach and St. Angelo's Fort."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Visiting Hours",
+                "start_time": "15:00",
+                "end_time": "17:30",
+                "note": "Top deck access only during specified hours."
+            },
+            {
+                "session": "Museum & Garden",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "note": "Closed on Mondays."
+            }
+        ],
+        "activities": [
+            "Climbing to the top for panoramic views",
+            "Photography",
+            "Exploring lighthouse museum",
+            "Relaxing in the garden"
+        ],
+        "entry_rules": {
+            "entry_fee": "₹20–₹30 (approx.)",
+            "camera_fee": "Small fee may apply for professional cameras",
+            "warnings": [
+                "Steep metal stairs to the top — not ideal for elderly or those with vertigo.",
+                "Top deck closes during bad weather or heavy wind.",
+                "Restricted areas clearly marked."
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "Evening between 4 PM – 5:30 PM",
+            "November to February"
+        ],
+        "average_crowd_level": "High during evenings"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Fantastic aerial view of coastline",
+            "Beautiful garden",
+            "Good photography spot"
+        ],
+        "common_complaints": [
+            "Crowded during evening hours",
+            "Limited top-deck timing",
+            "Hot during midday"
+        ],
+        "tips_from_visitors": [
+            "Go at 4 PM for best light and less crowd.",
+            "Climb slowly as stairs are steep.",
+            "Explore Payyambalam Beach after lighthouse visit."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Kannur International Airport",
+            "approx_distance_km": 28,
+            "travel_options": [
+                "Taxi",
+                "Cab services"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kannur Railway Station",
+            "approx_distance_km": 3,
+            "travel_options": [
+                "Auto",
+                "Taxi",
+                "Walk (20 minutes)"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Kannur Bus Stand",
+            "approx_distance_km": 3,
+            "description": "Well-connected to Kannur city; short auto ride to lighthouse.",
+            "parking_info": "Ample parking near lighthouse entrance."
+        },
+        "local_transport_tips": [
+            "Best reached by auto-rickshaw.",
+            "Combine visit with Payyambalam Beach sunset."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Cabana Multi Cuisine",
+            "type": "Multi Cuisine",
+            "distance_km": 2,
+            "price_range": "₹₹",
+            "special_notes": "Good Kerala dishes and continental options."
+        },
+        {
+            "name": "Cita Pani Restaurant",
+            "type": "Seafood / Kerala Meals",
+            "distance_km": 1.8,
+            "price_range": "₹₹₹",
+            "special_notes": "Excellent fish meals."
+        },
+        {
+            "name": "Beachside Snack Stalls (Payyambalam)",
+            "type": "Snacks & Tea",
+            "distance_km": 0.5,
+            "price_range": "₹",
+            "special_notes": "Quick snacks, juices, ice creams."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Mascot Beach Resort",
+            "type": "Beachside Resort",
+            "distance_km": 1.2,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Sea-view rooms",
+                "Pool",
+                "Restaurant"
+            ]
+        },
+        {
+            "name": "Hotel Blue Nile",
+            "type": "Mid-range",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Budget Homestays (Payyambalam)",
+            "type": "Budget",
+            "distance_km": 0.7,
+            "price_range": "₹₹",
+            "amenities": [
+                "WiFi",
+                "Home-cooked meals"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Payyambalam Beach",
+            "approx_distance_km": 0.5
+        },
+        {
+            "name": "St. Angelo's Fort",
+            "approx_distance_km": 1.5
+        },
+        {
+            "name": "Arakkal Museum",
+            "approx_distance_km": 1.8
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "lighthouse",
+            "viewpoint",
+            "sea-view",
+            "heritage"
+        ],
+        "recommended_itineraries": [
+            "Kannur Lighthouse → Payyambalam Beach sunset → Dinner in Kannur town",
+            "Lighthouse climb → St. Angelo's Fort → Arakkal Museum"
+        ],
+        "alerts_suggestions": [
+            "Top deck visitor limit — show timing alerts.",
+            "Closed on Mondays — app should notify.",
+            "Climbing restrictions apply during strong winds."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Timings vary during monsoon due to safety."
+    }
+}

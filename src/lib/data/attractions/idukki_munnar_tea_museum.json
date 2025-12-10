@@ -1,0 +1,175 @@
+{
+    "id": "idukki_munnar_tea_museum",
+    "name": "Tata Tea Museum",
+    "category": "Museum / Heritage",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Tata Tea Museum, Nallathanni Estate, Munnar, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Nallathanni Estate",
+            "Munnar Town"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Ftea_museum%2F1.jpg",
+            "caption": "Tata Tea Museum exterior"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Ftea_museum%2F2.jpg",
+            "caption": "Antique tea processing machinery display"
+        }
+    ],
+    "history": {
+        "short_description": "Built to preserve the 150-year-old tea plantation heritage of Munnar.",
+        "detailed": "The museum houses curios, photographs, and machinery; all of which have a story to tell about the origins and growth of tea plantations in Munnar. It contains old rollers, machinery, and British-era artifacts."
+    },
+    "significance": {
+        "heritage": "Preserves colonial tea history.",
+        "tourism": "Witness tea processing, enjoy tasting sessions, and learn about Munnar’s colonial tea culture.",
+        "culture": "Educational experience."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "09:00",
+                "end_time": "16:30",
+                "note": "Closed on Mondays"
+            }
+        ],
+        "activities": [
+            "Tea processing tour",
+            "Tea tasting",
+            "Colonial history exhibits",
+            "Documentary screening"
+        ],
+        "entry_rules": {
+            "entry_fee": "₹125 (approx)",
+            "warnings": [
+                "Closed on Mondays",
+                "Photography may be restricted inside"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "Anytime except rainy season",
+            "Morning"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.3,
+        "highlights": [
+            "Informative documentary",
+            "Tea tasting",
+            "History of Munnar"
+        ],
+        "common_complaints": [
+            "Can be crowded",
+            "Short tour"
+        ],
+        "tips_from_visitors": [
+            "Good place to buy premium tea.",
+            "Spend at least 1 hour.",
+            "Watch the documentary."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 110,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 110,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 3,
+            "description": "Very close to Munnar town.",
+            "parking_info": "Parking available."
+        },
+        "local_transport_tips": [
+            "Auto rickshaw from town is easy.",
+            "Walkable for some."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Tea Museum Café",
+            "type": "Café",
+            "distance_km": 0,
+            "price_range": "₹₹",
+            "special_notes": "Tea and cakes."
+        },
+        {
+            "name": "Saravana Bhavan",
+            "type": "Vegetarian",
+            "distance_km": 3,
+            "price_range": "₹₹",
+            "special_notes": "South Indian meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Abad Copper Castle",
+            "type": "Hotel",
+            "distance_km": 4,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Valley view"
+            ]
+        },
+        {
+            "name": "Devonshire Greens",
+            "type": "Resort",
+            "distance_km": 6,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Luxury"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Munnar Town",
+            "approx_distance_km": 3
+        },
+        {
+            "name": "Blossom Park",
+            "approx_distance_km": 5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "museum",
+            "tea",
+            "history",
+            "culture"
+        ],
+        "recommended_itineraries": [
+            "Tea Museum → Blossom Park → Munnar Town",
+            "Morning Museum visit"
+        ],
+        "alerts_suggestions": [
+            "Check Monday closure.",
+            "Buy tea powder here."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

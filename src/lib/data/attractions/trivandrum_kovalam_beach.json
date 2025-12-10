@@ -1,0 +1,263 @@
+{
+    "id":  "trivandrum_kovalam_beach",
+    "name":  "Kovalam Beach",
+    "category":  "Beach",
+    "city":  "Thiruvananthapuram",
+    "district":  "Thiruvananthapuram",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Kovalam, Thiruvananthapuram, Kerala, India",
+                     "latitude":  8.399,
+                     "longitude":  76.975,
+                     "landmarks_nearby":  [
+                                              "Lighthouse Beach",
+                                              "Hawa Beach",
+                                              "Samudra Beach",
+                                              "Vizhinjam Marine Aquarium"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-kovalam-beach",
+                   "attraction-kovalam-beach-2",
+                   "attraction-kovalam-beach-3",
+                   "attraction-kovalam-beach-4",
+                   "attraction-kovalam-beach-5"
+               ],
+    "history":  {
+                    "short_description":  "Kovalam is one of India’s most famous beaches, known since the 1930s and popularised globally after the 1970s hippie movement.",
+                    "detailed":  "Kovalam Beach has been a prominent attraction since the early 20th century, initially discovered by European visitors. During the 1970s, Kovalam became a major hotspot for international backpackers and the hippie trail, turning it into one of India’s first globally recognized beach destinations. Its three main beaches—Lighthouse Beach, Hawa Beach, and Samudra Beach—together form a crescent coastline known for scenic beauty, water activities, and vibrant tourism culture. Kovalam remains a major economic hub for Kerala’s tourism sector."
+                },
+    "significance":  {
+                         "tourism":  "One of Kerala’s top beach destinations with high international tourist footfall.",
+                         "cultural":  "Popular for ayurvedic centres, local seafood cuisine, handicraft shops, and cultural performances.",
+                         "economic":  "A major contributor to Kerala\u0027s tourism income due to hotels, resorts, boating, and water sports."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Beach Timings",
+                                             "start_time":  "05:00",
+                                             "end_time":  "19:30",
+                                             "note":  "Open all day; evenings are most popular for sunset."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Swimming",
+                                            "Surfing",
+                                            "Parasailing",
+                                            "Snorkeling (seasonal)",
+                                            "Boat rides",
+                                            "Ayurvedic massage",
+                                            "Beach shopping"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "Free",
+                                             "lifeguard_service":  "Available during day hours",
+                                             "warning":  "Strong currents during monsoons; follow lifeguard instructions."
+                                         },
+                         "recommended_visit_duration_minutes":  90,
+                         "best_time_to_visit":  [
+                                                    "September to March (ideal weather)",
+                                                    "Evenings for sunset views"
+                                                ],
+                         "average_crowd_level":  "High during weekends and evenings"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Clean coastline",
+                                               "Beautiful sunset",
+                                               "Water sports and activities",
+                                               "Good seafood restaurants"
+                                           ],
+                            "common_complaints":  [
+                                                      "Crowded during peak hours",
+                                                      "High prices at some tourist shops"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Visit Lighthouse Beach for the best photos.",
+                                                       "Morning time is peaceful and great for walks.",
+                                                       "Avoid swimming during rough tides."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Trivandrum International Airport",
+                                              "approx_distance_km":  14,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Auto",
+                                                                     "App-based cab"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Thiruvananthapuram Central",
+                                                      "approx_distance_km":  16,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Auto",
+                                                                             "Bus"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Kovalam Bus Stand",
+                                      "description":  "Connected by KSRTC buses from Thampanoor \u0026 East Fort.",
+                                      "parking_info":  "Paid parking available near Lighthouse Beach."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Best option is auto or taxi from city.",
+                                                   "Bikes/scooters available for rent nearby."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "The German Bakery",
+                                   "type":  "Cafe \u0026 Continental",
+                                   "cuisine":  [
+                                                   "Continental",
+                                                   "Bakery"
+                                               ],
+                                   "specialties":  [
+                                                       "Pancakes",
+                                                       "Seafood",
+                                                       "Fresh Juices"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Tourists",
+                                                           "International cuisine lovers"
+                                                       ]
+                               },
+                               {
+                                   "name":  "The Tides Restaurant (Taj Green Cove)",
+                                   "type":  "Luxury Dining",
+                                   "cuisine":  [
+                                                   "Seafood",
+                                                   "Kerala"
+                                               ],
+                                   "specialties":  [
+                                                       "Seafood",
+                                                       "Kerala Cuisine",
+                                                       "Grills"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Premium travellers"
+                                                       ]
+                               },
+                               {
+                                   "name":  "Bait Seafood Restaurant",
+                                   "type":  "Seafood",
+                                   "cuisine":  [
+                                                   "Seafood",
+                                                   "Kerala"
+                                               ],
+                                   "specialties":  [
+                                                       "Fresh Catch of the Day",
+                                                       "Kerala Seafood"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Seafood lovers"
+                                                       ]
+                               },
+                               {
+                                   "name":  "Ocean Breeze Restaurant",
+                                   "type":  "Multi Cuisine",
+                                   "cuisine":  [
+                                                   "South Indian",
+                                                   "Chinese",
+                                                   "Continental"
+                                               ],
+                                   "specialties":  [
+                                                       "South Indian",
+                                                       "Chinese",
+                                                       "Continental"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Families"
+                                                       ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Taj Green Cove Resort \u0026 Spa",
+                                      "type":  "Luxury",
+                                      "distance_km":  1.0,
+                                      "recommended_for":  [
+                                                              "Luxury travellers",
+                                                              "Families"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Uday Samudra Leisure Beach Hotel",
+                                      "type":  "Premium",
+                                      "distance_km":  0.9,
+                                      "recommended_for":  [
+                                                              "Couples",
+                                                              "Families"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Leela Kovalam (A Raviz Hotel)",
+                                      "type":  "Luxury 5-Star",
+                                      "distance_km":  1.5,
+                                      "recommended_for":  [
+                                                              "High-end travellers"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Beach Hotel Neelakanta",
+                                      "type":  "Mid-range",
+                                      "distance_km":  0.3,
+                                      "recommended_for":  [
+                                                              "Budget + beach lovers"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Hawah Beach Resort",
+                                      "type":  "Budget",
+                                      "distance_km":  0.2,
+                                      "recommended_for":  [
+                                                              "Budget tourists"
+                                                          ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Vizhinjam Lighthouse",
+                                   "approx_distance_km":  0.3
+                               },
+                               {
+                                   "name":  "Samudra Beach",
+                                   "approx_distance_km":  0.7
+                               },
+                               {
+                                   "name":  "Vizhinjam Marine Aquarium",
+                                   "approx_distance_km":  1.5
+                               },
+                               {
+                                   "name":  "Hawa Beach",
+                                   "approx_distance_km":  0.1
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "beach",
+                                      "water-sports",
+                                      "sunset",
+                                      "tourist-hotspot"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Morning walk on Lighthouse Beach → Breakfast at German Bakery → Adventure water sports → Sunset at Hawa Beach.",
+                                                         "Spa \u0026 relaxation at resort → Lunch at Bait Seafood → Lighthouse climb → Evening shopping."
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Show tide alerts during monsoon.",
+                                                    "Highlight water sports availability status.",
+                                                    "Mark crowded peak hours for better planning."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Timings and activities may vary seasonally."
+             }
+}

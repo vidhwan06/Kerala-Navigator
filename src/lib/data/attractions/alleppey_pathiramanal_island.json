@@ -1,0 +1,220 @@
+{
+    "id":  "alleppey_pathiramanal_island",
+    "name":  "Pathiramanal Island",
+    "category":  "Island / Backwater / Nature Spot",
+    "city":  "Muhamma / Kumarakom Region",
+    "district":  "Alappuzha",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Pathiramanal Island, Vembanad Lake, Alappuzha District, Kerala, India",
+                     "latitude":  9.6163,
+                     "longitude":  76.3845,
+                     "landmarks_nearby":  [
+                                              "Vembanad Lake",
+                                              "Kumarakom",
+                                              "Muhamma Jetty"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-pathiramanal-island",
+                   "attraction-pathiramanal-island-2",
+                   "attraction-pathiramanal-island-3",
+                   "attraction-pathiramanal-island-4",
+                   "attraction-pathiramanal-island-5"
+               ],
+    "history":  {
+                    "short_description":  "A scenic island in Vembanad Lake known for its rich birdlife and serene natural beauty.",
+                    "detailed":  "Pathiramanal, meaning \u0027Sands of Midnight\u0027, is a picturesque island located in the heart of Vembanad Lake. Historically, it was owned by a royal family before coming under government administration. The island is uninhabited and serves as a natural habitat for numerous migratory and endemic bird species. Over 90+ species have been recorded here. The island is accessible only by boat from either Alappuzha, Muhamma or Kumarakom, making it a peaceful escape for nature lovers, photographers, and birdwatchers."
+                },
+    "significance":  {
+                         "nature":  "A biodiversity hotspot with migratory birds from across Asia.",
+                         "tourism":  "A must-visit sightseeing point during Alappuzha or Kumarakom backwater cruises.",
+                         "scenic":  "Lush greenery, tranquil pathways, and panoramic views of Vembanad Lake."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Visiting Hours",
+                                             "start_time":  "06:00",
+                                             "end_time":  "18:00",
+                                             "note":  "Boats operate during daylight only."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Boat ride to the island",
+                                            "Bird watching",
+                                            "Nature walks",
+                                            "Photography",
+                                            "Backwater sightseeing"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "No entry fee; boat charges apply.",
+                                             "warnings":  [
+                                                              "Island has no shops—carry water.",
+                                                              "Avoid the inner forest areas during heavy rain.",
+                                                              "Return before evening as no boats operate after dark."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  90,
+                         "best_time_to_visit":  [
+                                                    "October to March",
+                                                    "Early morning for birdwatching"
+                                                ],
+                         "average_crowd_level":  "Moderate"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.4,
+                            "highlights":  [
+                                               "Calm and scenic island",
+                                               "Great for birdwatching",
+                                               "Beautiful boat ride through Vembanad Lake"
+                                           ],
+                            "common_complaints":  [
+                                                      "No facilities on the island",
+                                                      "Limited shade in some areas",
+                                                      "Mosquitos during evenings"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Visit early for best light and bird activity.",
+                                                       "Carry essentials like water and sunscreen.",
+                                                       "Club the visit with a Kumarakom or Alappuzha backwater cruise."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Cochin International Airport",
+                                              "approx_distance_km":  78,
+                                              "travel_options":  [
+                                                                     "Taxi to Muhamma or Kumarakom",
+                                                                     "Bus to Alappuzha and then boat ride"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Alappuzha Railway Station",
+                                                      "approx_distance_km":  16,
+                                                      "travel_options":  [
+                                                                             "Auto",
+                                                                             "Taxi",
+                                                                             "Bus to Muhamma/Kumarakom jetty"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_boat_jetties":  [
+                                                                   "Muhamma Jetty (approx 4 km from highway)",
+                                                                   "Kumarakom Jetty (approx 12 km)"
+                                                               ],
+                                      "description":  "Private \u0026 government boats operate from Muhamma, Kumarakom, and Alappuzha.",
+                                      "parking_info":  "Parking available near Muhamma and Kumarakom boat jetties."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Cheapest access via government boat service from Muhamma.",
+                                                   "Private speedboats available for faster visits.",
+                                                   "Check boat timings, especially during monsoon."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Café Near Muhamma Jetty",
+                                   "type":  "Snacks \u0026 Tea",
+                                   "cuisine":  [
+                                                   "Local Snacks"
+                                               ],
+                                   "distance_km":  0.5,
+                                   "price_range":  "₹",
+                                   "special_notes":  "Good for a quick drink before the boat ride."
+                               },
+                               {
+                                   "name":  "Aroma Restaurant (Muhamma)",
+                                   "type":  "Multi Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala Meals",
+                                                   "Seafood",
+                                                   "Biriyani"
+                                               ],
+                                   "distance_km":  2.0,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Kerala meals, seafood and biriyani."
+                               },
+                               {
+                                   "name":  "Kumarakom Local Seafood Shacks",
+                                   "type":  "Seafood",
+                                   "cuisine":  [
+                                                   "Fresh Fish Fry"
+                                               ],
+                                   "distance_km":  10,
+                                   "price_range":  "₹₹₹",
+                                   "special_notes":  "Fresh fish fry and traditional dishes."
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Kumarakom Lake Resort",
+                                      "type":  "Luxury",
+                                      "distance_km":  12,
+                                      "price_range":  "₹₹₹₹",
+                                      "amenities":  [
+                                                        "Pool",
+                                                        "Spa",
+                                                        "Lakefront villas"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Abad Whispering Palms",
+                                      "type":  "Premium Resort",
+                                      "distance_km":  11,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Lake view",
+                                                        "Restaurant",
+                                                        "Pool"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Muhamma Backwater Homestays",
+                                      "type":  "Budget Homestay",
+                                      "distance_km":  3,
+                                      "price_range":  "₹",
+                                      "amenities":  [
+                                                        "Home-cooked food",
+                                                        "Canal view"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Kumarakom Bird Sanctuary",
+                                   "approx_distance_km":  13
+                               },
+                               {
+                                   "name":  "Alleppey Backwaters",
+                                   "approx_distance_km":  16
+                               },
+                               {
+                                   "name":  "Vembanad Lake Viewpoints",
+                                   "approx_distance_km":  5
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "island",
+                                      "nature",
+                                      "birdwatching",
+                                      "backwaters",
+                                      "photography"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Morning boat ride → Explore Pathiramanal → Lunch at Kumarakom Lake Resort",
+                                                         "Alleppey houseboat cruise → Stop at Pathiramanal Island → Sunset ride back"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "No shops on the island—carry essentials.",
+                                                    "Avoid late evening trips; boats don’t operate after sunset.",
+                                                    "Display monsoon advisories in your app."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Nature conditions and boat timings may vary seasonally."
+             }
+}

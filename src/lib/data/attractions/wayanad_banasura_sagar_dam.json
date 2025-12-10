@@ -1,0 +1,239 @@
+{
+    "id":  "wayanad_banasura_sagar_dam",
+    "name":  "Banasura Sagar Dam",
+    "category":  "Dam / Scenic Lake",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Padinjarathara, Wayanad, Kerala, India",
+                     "latitude":  11.6669,
+                     "longitude":  75.9554,
+                     "landmarks_nearby":  [
+                                              "Banasura Hill",
+                                              "Meenmutty Waterfalls",
+                                              "Karlad Lake"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-banasura-dam",
+                   "attraction-banasura-dam-2",
+                   "attraction-banasura-dam-3",
+                   "attraction-banasura-dam-4",
+                   "attraction-banasura-dam-5"
+               ],
+    "history":  {
+                    "short_description":  "India’s largest earth dam and one of Wayanad’s most popular tourist attractions, built in 1979 as part of the Kuttiyadi Hydroelectric Project.",
+                    "detailed":  "Banasura Sagar Dam was constructed in 1979 as part of the Kuttiyadi Augmentation Scheme to support hydroelectric power generation and irrigation. Built using layers of huge stones and soil, it is classified as an earth dam—the largest in India and second largest in Asia. Over the years, the dam’s reservoir formed several small islets, making it a key eco-tourism spot. The region is part of the Western Ghats UNESCO Biosphere Reserve, popular for boating, trekking, and nature photography."
+                },
+    "significance":  {
+                         "tourism":  "One of the most scenic viewpoints in Wayanad, offering boating, trekking, and panoramic hill views.",
+                         "nature":  "Part of the Western Ghats ecosystem with high biodiversity.",
+                         "economic":  "Key irrigation and hydroelectric support for the region."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Visiting Hours",
+                                             "start_time":  "09:00",
+                                             "end_time":  "17:00",
+                                             "note":  "Best visited in mornings or evenings."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Speed boating",
+                                            "Pedal boating",
+                                            "Hill-view trekking",
+                                            "Nature photography",
+                                            "Viewing islets",
+                                            "Adventure park activities (nearby)"
+                                        ],
+                         "entry_fee":  "Adults ₹40–50, Children ₹20",
+                         "entry_rules":  {
+                                             "additional_charges":  {
+                                                                        "speed_boating":  "₹600–750 per boat (4–5 people)",
+                                                                        "pedal_boating":  "₹200–300",
+                                                                        "parking":  "₹20–40"
+                                                                    },
+                                             "warnings":  "Avoid boating during heavy rain; dam top can get slippery."
+                                         },
+                         "recommended_visit_duration_minutes":  120,
+                         "best_time_to_visit":  [
+                                                    "September to March",
+                                                    "Morning (9–11 AM)",
+                                                    "Evening (3–5 PM)"
+                                                ],
+                         "average_crowd_level":  "Moderate on weekdays, high on weekends"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Beautiful lake and mountain views",
+                                               "Best speed boating in Wayanad",
+                                               "Cool and breezy climate"
+                                           ],
+                            "common_complaints":  [
+                                                      "Crowded on weekends",
+                                                      "Limited food options near the entrance"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Don’t miss speed boating—it’s the highlight.",
+                                                       "Carry water and snacks.",
+                                                       "Reach early for less crowd."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kannur International Airport",
+                                              "approx_distance_km":  75,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Private Car"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode (Calicut)",
+                                                      "approx_distance_km":  98,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "From Kalpetta (21 km), take a bus to Padinjarathara. The dam is a short auto ride from there.",
+                                      "parking_info":  "Dedicated parking available near entrance"
+                                  },
+                      "local_transport_tips":  [
+                                                   "Best reached by taxi or rental bike/car.",
+                                                   "Roads are good but curvy—drive safely."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Banasura Hill Resort Restaurant",
+                                   "type":  "Kerala \u0026 Indian",
+                                   "cuisine":  [
+                                                   "Kerala",
+                                                   "Indian"
+                                               ],
+                                   "distance_km":  4,
+                                   "specialties":  [
+                                                       "Kerala Meals",
+                                                       "Chicken Curry",
+                                                       "Tea"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Hotel Green Palace",
+                                   "type":  "Kerala Meals",
+                                   "cuisine":  [
+                                                   "Kerala"
+                                               ],
+                                   "distance_km":  3,
+                                   "specialties":  [
+                                                       "Fish Curry",
+                                                       "Meals"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Wayanad Spice Restaurant",
+                                   "type":  "Kerala \u0026 Continental",
+                                   "cuisine":  [
+                                                   "Kerala",
+                                                   "Continental"
+                                               ],
+                                   "distance_km":  5,
+                                   "specialties":  [
+                                                       "Spicy Kerala Curries",
+                                                       "Fried Rice"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Dam Entrance Tea Shops",
+                                   "type":  "Snacks",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks"
+                                               ],
+                                   "distance_km":  0.1,
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Pazhampori",
+                                                       "Snacks"
+                                                   ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Banasura Hill Resort",
+                                      "type":  "Premium Eco Lodge",
+                                      "distance_km":  4,
+                                      "recommended_for":  [
+                                                              "Luxury travelers",
+                                                              "Families"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Wayanad Silverwoods Resort",
+                                      "type":  "Luxury Lake View Resort",
+                                      "distance_km":  3,
+                                      "recommended_for":  [
+                                                              "Couples",
+                                                              "Families"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Mount Xanadu Resort",
+                                      "type":  "Premium",
+                                      "distance_km":  9,
+                                      "recommended_for":  [
+                                                              "Hill View lovers",
+                                                              "Adventure seekers"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Local Homestays (Padinjarathara)",
+                                      "type":  "Budget",
+                                      "distance_km":  1,
+                                      "recommended_for":  [
+                                                              "Budget travelers"
+                                                          ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Meenmutty Waterfalls",
+                                   "approx_distance_km":  5
+                               },
+                               {
+                                   "name":  "Karlad Lake",
+                                   "approx_distance_km":  3
+                               },
+                               {
+                                   "name":  "Pookode Lake",
+                                   "approx_distance_km":  25
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "dam",
+                                      "boating",
+                                      "nature",
+                                      "mountains",
+                                      "family"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Banasura Dam → Meenmutty Waterfalls → Karlad Lake",
+                                                         "Morning boating → Dam viewpoint → Lunch nearby"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Boat rides may be suspended during heavy rain.",
+                                                    "Peak season (Dec–Jan) attracts large crowds."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Activity prices may vary seasonally."
+             }
+}

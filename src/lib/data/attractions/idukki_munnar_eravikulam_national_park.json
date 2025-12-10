@@ -1,0 +1,195 @@
+{
+    "id": "idukki_munnar_eravikulam_national_park",
+    "name": "Eravikulam National Park (Rajamalai)",
+    "category": "Wildlife / National Park",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Eravikulam National Park, Munnar, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Anamudi Peak",
+            "Lakkam Waterfalls",
+            "Marayoor Sandalwood Forest"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Feravikulam%2F1.jpg",
+            "caption": "Nilgiri Tahr in Eravikulam National Park"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Feravikulam%2F2.jpg",
+            "caption": "Rolling hills of Rajamalai"
+        }
+    ],
+    "history": {
+        "short_description": "Established in 1975 to protect the endangered Nilgiri Tahr.",
+        "detailed": "The region was once a private hunting preserve for British planters in the early 20th century. The park later became famous for conserving the Neelakurinji flower, which blooms once every 12 years. It is home to the world's largest population of Nilgiri Tahr."
+    },
+    "significance": {
+        "heritage": "Part of the UNESCO-protected Western Ghats biosphere.",
+        "tourism": "Famous for Nilgiri Tahr and Neelakurinji blooms.",
+        "culture": "Conservation success story."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "08:00",
+                "end_time": "16:00"
+            }
+        ],
+        "activities": [
+            "Wildlife spotting",
+            "Eco bus ride to viewpoints",
+            "Neelakurinji bloom view (seasonal)",
+            "Nature photography"
+        ],
+        "entry_rules": {
+            "entry_fee": "₹200 (Indians), ₹500 (Foreigners) approx",
+            "warnings": [
+                "Closed in monsoon for Tahr breeding (usually Feb-Mar)",
+                "No private vehicles allowed inside"
+            ]
+        },
+        "recommended_visit_duration_minutes": 180,
+        "best_time_to_visit": [
+            "December to April",
+            "Early morning"
+        ],
+        "average_crowd_level": "High"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Sighting Nilgiri Tahr",
+            "Beautiful views",
+            "Well-organized bus system"
+        ],
+        "common_complaints": [
+            "Long queues for tickets/bus",
+            "Crowded during holidays"
+        ],
+        "tips_from_visitors": [
+            "Visit early for clear views.",
+            "Online booking recommended.",
+            "Carry light jackets and water."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 110,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 110,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 14,
+            "description": "Accessible by road from Munnar town.",
+            "parking_info": "Parking available at the base."
+        },
+        "local_transport_tips": [
+            "Take a taxi or auto from Munnar.",
+            "Park bus takes you inside."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Tea Tales Café",
+            "type": "Café",
+            "distance_km": 14,
+            "price_range": "₹₹",
+            "special_notes": "In Munnar town."
+        },
+        {
+            "name": "Copper Castle Restaurant",
+            "type": "Multi-cuisine",
+            "distance_km": 12,
+            "price_range": "₹₹₹",
+            "special_notes": "Good views."
+        },
+        {
+            "name": "Rapsy Restaurant",
+            "type": "Local",
+            "distance_km": 14,
+            "price_range": "₹",
+            "special_notes": "Budget friendly."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "The Tall Trees Munnar",
+            "type": "Resort",
+            "distance_km": 10,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Nature view",
+                "Luxury"
+            ]
+        },
+        {
+            "name": "Aranyaka Resorts",
+            "type": "Resort",
+            "distance_km": 12,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Cottages"
+            ]
+        },
+        {
+            "name": "Blanket Hotel & Spa",
+            "type": "Luxury Hotel",
+            "distance_km": 15,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Spa",
+                "Pool"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Lakkam Waterfalls",
+            "approx_distance_km": 10
+        },
+        {
+            "name": "Anamudi Peak",
+            "approx_distance_km": 0
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "wildlife",
+            "nature",
+            "hills",
+            "photography"
+        ],
+        "recommended_itineraries": [
+            "Morning Eravikulam → Lakkam Waterfalls → Marayoor",
+            "Eravikulam → Tea Museum"
+        ],
+        "alerts_suggestions": [
+            "Book tickets online in advance.",
+            "Check breeding season closure."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

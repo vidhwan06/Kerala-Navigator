@@ -1,0 +1,124 @@
+{
+  "id": "idukki_munnar_hill_station",
+  "name": "Munnar Hill Station & Tea Estates",
+  "description": "One of India",
+  "location": {
+    "latitude": 10,
+    "longitude": 76,
+    "address": "Munnar, Idukki, Kerala",
+    "city": "Munnar"
+  },
+  "images": [
+    "attraction-munnar"
+  ],
+  "history": {
+    "short_description": "One of India",
+    "detailed": "Detailed history of Munnar Hill Station & Tea Estates will be added soon. This is a placeholder description for the historic and cultural significance of this location."
+  },
+  "significance": {
+    "religious": "Significance details coming soon.",
+    "cultural": "Cultural importance details coming soon.",
+    "tourism": "A major tourist attraction in Kerala.",
+    "heritage": "Heritage value details coming soon."
+  },
+  "visitor_info": {
+    "timings": [
+      {
+        "session": "Morning",
+        "start_time": "9:00 AM",
+        "end_time": "1:00 PM"
+      },
+      {
+        "session": "Evening",
+        "start_time": "2:00 PM",
+        "end_time": "5:00 PM"
+      }
+    ],
+    "entry_fee": {
+      "general_darshan": "Free / Check at counter",
+      "special_darshan": "N/A"
+    },
+    "dress_code": {
+      "men": {
+        "required": "Casual / Respectful clothing"
+      },
+      "women": {
+        "required": "Casual / Respectful clothing"
+      }
+    },
+    "best_time_to_visit": "September to March",
+    "average_crowd_level": "Moderate",
+    "entry_rules": {
+      "only_hindus_allowed_inside": false,
+      "photography_allowed_inside": true,
+      "mobile_phones_allowed_inside": true,
+      "warning": "Please verify timings locally."
+    },
+    "activities": [
+      "Sightseeing",
+      "Photography"
+    ]
+  },
+  "nearby_accommodations": [
+    {
+      "name": "Local Stay",
+      "type": "Hotel",
+      "distance_km": 2,
+      "location_note": "Near city center",
+      "recommended_for": [
+        "Families",
+        "Couples"
+      ]
+    }
+  ],
+  "nearby_food_places": [
+    {
+      "name": "Local Cuisine Restaurant",
+      "type": "Restaurant",
+      "cuisine": [
+        "Kerala",
+        "South Indian"
+      ],
+      "specialties": [
+        "Meals",
+        "Snacks"
+      ]
+    }
+  ],
+  "transport": {
+    "nearest_airport": {
+      "name": "Cochin International Airport (COK)",
+      "approx_distance_km": 50,
+      "travel_options": [
+        "Taxi",
+        "Bus"
+      ]
+    },
+    "nearest_railway_station": {
+      "name": "Nearest Railway Station",
+      "approx_distance_km": 10,
+      "travel_options": [
+        "Auto",
+        "Taxi"
+      ]
+    },
+    "by_road": {
+      "description": "Accessible by road.",
+      "parking_info": "Parking available nearby."
+    }
+  },
+  "reviews_summary": {
+    "overall_rating_out_of_5": 4.5,
+    "highlights": [
+      "Scenic beauty",
+      "Peaceful atmosphere"
+    ],
+    "common_complaints": [
+      "Crowded on weekends"
+    ],
+    "tips_from_visitors": [
+      "Carry water",
+      "Wear comfortable shoes"
+    ]
+  }
+}

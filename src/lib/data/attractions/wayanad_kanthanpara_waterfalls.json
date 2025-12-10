@@ -1,0 +1,187 @@
+{
+    "id":  "wayanad_kanthanpara_waterfalls",
+    "name":  "Kanthanpara Waterfalls",
+    "category":  "Waterfall / Nature Spot",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Kanthanpara, Meppadi, Wayanad, Kerala, India",
+                     "latitude":  11.5222,
+                     "longitude":  76.1367
+                 },
+    "images":  [
+                   "attraction-kanthanpara-falls",
+                   "attraction-kanthanpara-falls-2",
+                   "attraction-kanthanpara-falls-3",
+                   "attraction-kanthanpara-falls-4",
+                   "attraction-kanthanpara-falls-5"
+               ],
+    "history":  {
+                    "short_description":  "A beautiful, easy-access waterfall in Meppadi known for its calm surroundings and family-friendly nature experience.",
+                    "detailed":  "Kanthanpara Waterfalls is a scenic, multi-tiered waterfall located near Meppadi in Wayanad. Unlike the more adventurous waterfalls like Meenmutty and Soochipara, Kanthanpara is known for its gentle trekking path and safe viewing areas, making it ideal for families and casual travelers. The waterfall flows through dense greenery of the Western Ghats and is popular among nature lovers and photographers. The Kerala Forest Department manages the site, maintaining pathways, sit-out zones, and controlled access during monsoon."
+                },
+    "significance":  {
+                         "nature":  "Peaceful waterfall surrounded by lush forests and plantations.",
+                         "tourism":  "Suitable for families and those seeking a calmer alternative to crowded waterfalls.",
+                         "photography":  "Great for landscape photos and scenic backdrops."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Visiting Hours",
+                                             "start_time":  "09:00",
+                                             "end_time":  "17:00",
+                                             "note":  "Timings may vary during monsoon for safety."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Nature walk",
+                                            "Photography",
+                                            "Small stream dipping (safe areas only)",
+                                            "Picnic-friendly locations",
+                                            "Forest walk"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹30–₹50 per person (approx.)",
+                                             "warnings":  [
+                                                              "Avoid slippery rocks near the waterfall base.",
+                                                              "Swimming not permitted during monsoon."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  60,
+                         "best_time_to_visit":  [
+                                                    "October to February",
+                                                    "Mornings or evenings for best lighting"
+                                                ],
+                         "average_crowd_level":  "Moderate; less crowded than Soochipara and Meenmutty"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.5,
+                            "highlights":  [
+                                               "Easy access and family-friendly",
+                                               "Calm and quiet atmosphere",
+                                               "Beautiful nature trails"
+                                           ],
+                            "common_complaints":  [
+                                                      "Limited food options nearby",
+                                                      "Can get slippery in rainy season"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Great place for peaceful photography.",
+                                                       "Visit after monsoon for lush greenery.",
+                                                       "Wear shoes with good grip."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kozhikode (Calicut) International Airport",
+                                              "approx_distance_km":  95,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Car rental"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode Railway Station",
+                                                      "approx_distance_km":  90,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Meppadi"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "Easily reachable by car, taxi or auto from Meppadi; good road access.",
+                                      "parking_info":  "Dedicated parking space available."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Auto rickshaws and taxis available from Meppadi."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Meppadi Tea Stall Line",
+                                   "type":  "Snacks \u0026 Tea",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks",
+                                                   "Local sweets"
+                                               ],
+                                   "distance_km":  8,
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Snacks"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Udupi Veg Restaurant Meppadi",
+                                   "type":  "Vegetarian",
+                                   "cuisine":  [
+                                                   "Dosa",
+                                                   "Meals"
+                                               ],
+                                   "distance_km":  8,
+                                   "specialties":  [
+                                                       "Dosa",
+                                                       "Meals"
+                                                   ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Misty Mount Resort",
+                                      "type":  "Mid-range",
+                                      "distance_km":  6,
+                                      "recommended_for":  [
+                                                              "Restaurant",
+                                                              "Scenic Views"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Vythiri Village Resort",
+                                      "type":  "Luxury",
+                                      "distance_km":  15,
+                                      "recommended_for":  [
+                                                              "Pool",
+                                                              "Spa",
+                                                              "Adventure Park"
+                                                          ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Soochipara Waterfalls",
+                                   "approx_distance_km":  7
+                               },
+                               {
+                                   "name":  "Chembra Peak",
+                                   "approx_distance_km":  15
+                               },
+                               {
+                                   "name":  "Pookode Lake",
+                                   "approx_distance_km":  18
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "waterfall",
+                                      "easy-trek",
+                                      "family",
+                                      "nature"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Kanthanpara Falls → Meppadi Lunch → Soochipara Waterfalls",
+                                                         "Morning visit → Tea at Meppadi → Chembra Peak"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Avoid rocks near the waterfall after rain.",
+                                                    "No swimming during monsoon.",
+                                                    "Best for families and elderly visitors."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Monsoon restrictions apply based on water flow."
+             }
+}

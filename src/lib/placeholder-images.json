@@ -1,0 +1,1576 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-kerala-backwaters",
+      "description": "Stunning aerial view of Kerala's lush green tea plantations and misty hills",
+      "imageUrl": "https://images.unsplash.com/photo-1602216056096-3b40cc0c9944?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrZXJhbGElMjB0ZWElMjBwbGFudGF0aW9uc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1920",
+      "imageHint": "kerala tea plantations hills"
+    },
+    {
+      "id": "attraction-padmanabhaswamy-temple",
+      "description": "The iconic Sree Padmanabhaswamy Temple in Trivandrum over the temple tank.",
+      "imageUrl": "https://images.unsplash.com/photo-1628362243501-4d3753b2d18b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxrZXJhbGElMjB0ZW1wbGUlMjBleHRlcmlvcnxlbnwwfHx8fDE3NjUwMzUxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hindu temple"
+    },
+    {
+      "id": "attraction-padmanabhaswamy-temple-2",
+      "description": "Intricate carvings on the golden gopuram of an ancient Indian temple.",
+      "imageUrl": "https://images.unsplash.com/photo-1532371983362-a445422f6713?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpbmRpYW4lMjB0ZW1wbGUlMjBjYXJ2aW5nfGVufDB8fHx8MTc2NDg1NjA1MHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple carvings"
+    },
+    {
+      "id": "attraction-kovalam-beach",
+      "description": "The scenic Kovalam Beach with its lighthouse.",
+      "imageUrl": "https://images.unsplash.com/photo-1668518891186-c07180869132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrZXJhbGElMjBiZWFjaHxlbnwwfHx8fDE3NjM2MjU2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala beach"
+    },
+    {
+      "id": "attraction-kovalam-beach-2",
+      "description": "Waves crashing on a sandy beach at sunset.",
+      "imageUrl": "https://images.unsplash.com/photo-1588001592285-d6c5b5b5c90d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrZXJhbGElMjBiZWFjaCUyMHN1bnNldHxlbnwwfHx8fDE3NjM2Mjc0NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach sunset"
+    },
+    {
+      "id": "attraction-ponmudi-hills",
+      "description": "Misty green hills of Ponmudi.",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxncmVlbiUyMGhpbGxzfGVufDB8fHx8MTc2MzU2NzkzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green hills"
+    },
+    {
+      "id": "attraction-ponmudi-hills-2",
+      "description": "A winding road through a tea plantation in the hills.",
+      "imageUrl": "https://images.unsplash.com/photo-1599422476059-455a7a85c960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWEtcGxhbnRhdGlvbi1oaWxsc3xlbnwwfHx8fDE3NjQ4NTYyNzl8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tea plantation"
+    },
+    {
+      "id": "attraction-veli-village",
+      "description": "Boating at Akkulam Tourist Village.",
+      "imageUrl": "https://images.unsplash.com/photo-1659364310688-5f4e0b4ec7c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0b3VyaXN0JTIwdmlsbGFnZXxlbnwwfHx8fDE3NjM2MjU2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tourist village"
+    },
+    {
+      "id": "attraction-veli-village-2",
+      "description": "A floating bridge connecting the beach and backwaters.",
+      "imageUrl": "https://images.unsplash.com/photo-1627063467140-520f18398455?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrZXJhbGElMjByZXNvcnR8ZW58MHx8fHwxNzYzNzEyOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "floating bridge"
+    },
+    {
+      "id": "attraction-shanghumugham-beach",
+      "description": "The giant 'Matsya Kanyaka' (Mermaid) sculpture at Shanghumugham beach.",
+      "imageUrl": "https://images.unsplash.com/photo-1629935899458-7096c64c38a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZXJtYWlkJTIwc2N1bHB0dXJlfGVufDB8fHx8MTc2NDg1NjUxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mermaid sculpture"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-2",
+      "description": "A beautiful sunset at a beach in Kerala.",
+      "imageUrl": "https://images.unsplash.com/photo-1588001592285-d6c5b5b5c90d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrZXJhbGElMjBiZWFjaCUyMHN1bnNldHxlbnwwfHx8fDE3NjM2Mjc0NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala beach"
+    },
+    {
+      "id": "attraction-napier-museum",
+      "description": "The historic Napier Museum building.",
+      "imageUrl": "https://images.unsplash.com/photo-1559683907-5e9549adad37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxoaXN0b3JpYyUyMG11c2V1bXxlbnwwfHx8fDE3NjM2MjU2Nzh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "historic museum"
+    },
+    {
+      "id": "attraction-napier-museum-2",
+      "description": "Interior of a museum hall with artifacts.",
+      "imageUrl": "https://images.unsplash.com/photo-1543269865-09195932827a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtdXNldW0lMjBpbnRlcmlvcnxlbnwwfHx8fDE3NjQ4NTY2MDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum interior"
+    },
+    {
+      "id": "attraction-trivandrum-zoo",
+      "description": "A tiger in a zoo enclosure.",
+      "imageUrl": "https://images.unsplash.com/photo-1589883983833-2a45d07f3c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx6b28lMjBlbmNsb3N1cmV8ZW58MHx8fHwxNzYzNjI1MjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "zoo animal"
+    },
+    {
+      "id": "attraction-trivandrum-zoo-2",
+      "description": "A giraffe in a zoo.",
+      "imageUrl": "https://images.unsplash.com/photo-1575792299849-35ab1a384e0e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxnaXJhZmZlJTIwem9vfGVufDB8fHx8MTc2NDg1NjY2OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "giraffe zoo"
+    },
+    {
+      "id": "attraction-poovar-island",
+      "description": "Floating cottages at a resort in Poovar.",
+      "imageUrl": "https://images.unsplash.com/photo-1627063467140-520f18398455?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrZXJhbGElMjByZXNvcnR8ZW58MHx8fHwxNzYzNzEyOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala resort"
+    },
+    {
+      "id": "attraction-poovar-island-2",
+      "description": "A boat cruising through a dense mangrove forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1596700147983-5a914593883a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW5ncm92ZSUyMGZvcmVzdCUyMGJvYXR8ZW58MHx8fHwxNzY0ODU2NzQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mangrove boat"
+    },
+    {
+      "id": "attraction-kanakakunnu-palace",
+      "description": "The exterior of a grand, historic Indian palace.",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyb3lhbCUyMHBhbGFjZXxlbnwwfHx8fDE3NjM4ODgyMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "royal palace"
+    },
+    {
+      "id": "attraction-kanakakunnu-palace-2",
+      "description": "A cultural festival with lights at night.",
+      "imageUrl": "https://images.unsplash.com/photo-1542037104857-e6802331562b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjZWxlYnJhdGlvbiUyMGxpZ2h0c3xlbnwwfHx8fDE3NjQ4NTY4NDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "festival lights"
+    },
+    {
+      "id": "attraction-banasura-dam",
+      "description": "The scenic view of Banasura Sagar Dam in Wayanad.",
+      "imageUrl": "https://images.unsplash.com/photo-1603513409193-2731c3905510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYW0lMjBpbmRpYXxlbnwwfHx8fDE3NjM4ODg3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dam india"
+    },
+    {
+      "id": "attraction-banasura-dam-2",
+      "description": "Speed boat on a large lake surrounded by hills.",
+      "imageUrl": "https://images.unsplash.com/photo-1573083818814-36940c6198d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxzcGVlZCUyMGJvYXQlMjBsYWtlfGVufDB8fHx8MTc2NDg1NzA0Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "speed boat"
+    },
+    {
+      "id": "attraction-edakkal-caves",
+      "description": "Prehistoric rock carvings inside Edakkal Caves.",
+      "imageUrl": "https://images.unsplash.com/photo-1519008249694-c7a36b890a03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhbmNpZW50JTIwcm9jayUyMGNhcnZpbmdzfGVufDB8fHx8MTc2Mzg5MjQ5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rock carvings"
+    },
+    {
+      "id": "attraction-edakkal-caves-2",
+      "description": "A steep uphill trekking path through a forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmVra2luZyUyMHBhdGh8ZW58MHx8fHwxNzY0ODU3MTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trekking path"
+    },
+    {
+      "id": "attraction-chembra-peak",
+      "description": "A view of the heart-shaped lake on the way to Chembra Peak.",
+      "imageUrl": "https://images.unsplash.com/photo-1628182189422-70f90710b7d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFydCUyMGxha2V8ZW58MHx8fHwxNzY0MjQyNDExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "heart lake"
+    },
+    {
+      "id": "attraction-chembra-peak-2",
+      "description": "A group of trekkers on a mountain trail.",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmVra2luZyUyMHBhdGh8ZW58MHx8fHwxNzY0ODU3MTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trekkers mountain"
+    },
+    {
+      "id": "attraction-soochipara-falls",
+      "description": "The three-tiered Soochipara Waterfalls in Wayanad.",
+      "imageUrl": "https://images.unsplash.com/photo-1593006845380-1a52c38a3915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3YXRlcmZhbGwlMjBrZXJhbGF8ZW58MHx8fHwxNzY0MjQyNzU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala waterfall"
+    },
+    {
+      "id": "attraction-soochipara-falls-2",
+      "description": "A natural rock pool at the base of a waterfall.",
+      "imageUrl": "https://images.unsplash.com/photo-1500332363231-1e90225b8f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyb2NrJTIwcG9vbCUyMHdhdGVyZmFsbHxlbnwwfHx8fDE3NjQ4NTcyNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rock pool"
+    },
+    {
+      "id": "attraction-pookode-lake",
+      "description": "A freshwater lake surrounded by a lush green forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1431794062232-2a99a5431c6c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmcmVzaHdhdGVyJTIwbGFrZSUyMGZvcmVzdHxlbnwwfHx8fDE3NjQzNDM0MDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest lake"
+    },
+    {
+      "id": "attraction-pookode-lake-2",
+      "description": "People enjoying pedal boating on a calm lake.",
+      "imageUrl": "https://images.unsplash.com/photo-1627513997230-e5550a224a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZWRhbCUyMGJvYXRpbmclMjBsYWtlfGVufDB8fHx8MTc2NDg1NzMyNnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pedal boating"
+    },
+    {
+      "id": "attraction-kuruvadweep-island",
+      "description": "Bamboo rafting on the Kabini River at Kuruvadweep.",
+      "imageUrl": "https://images.unsplash.com/photo-1620800366479-79a427003460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiYW1ib28lMjByYWZ0aW5nJTIwa2VyYWxhfGVufDB8fHx8MTc2NDM0NjI0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bamboo rafting"
+    },
+    {
+      "id": "attraction-kuruvadweep-island-2",
+      "description": "A dense, green forest with a walking trail.",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZW5zZSUyMGZvcmVzdCUyMHRyYWlsfGVufDB8fHx8MTc2NDg1NzQwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest trail"
+    },
+    {
+      "id": "attraction-karapuzha-dam",
+      "description": "A view of the Karapuzha Dam and surrounding adventure park.",
+      "imageUrl": "https://images.unsplash.com/photo-1628182189339-b17c76895318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhZHZlbnR1cmUlMjBwYXJrfGVufDB8fHx8MTc2NDYwMjc5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "adventure park"
+    },
+    {
+      "id": "attraction-karapuzha-dam-2",
+      "description": "A person ziplining over a beautiful lake.",
+      "imageUrl": "https://images.unsplash.com/photo-1639091563246-83423a633100?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx6aXBsaW5lJTIwbGFrZXxlbnwwfHx8fDE3NjQ4NTc1MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "zipline lake"
+    },
+    {
+      "id": "attraction-meenmutty-falls",
+      "description": "The powerful Meenmutty Waterfalls in Wayanad, Kerala.",
+      "imageUrl": "https://images.unsplash.com/photo-1603203093382-0294c7a5f782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxrZXJhbGElMjB3YXRlcmZhbGx8ZW58MHx8fHwxNzY0NzYwODQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala waterfall"
+    },
+    {
+      "id": "attraction-meenmutty-falls-2",
+      "description": "A trekking trail through a dense, tropical forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZW5zZSUyMGZvcmVzdCUyMHRyYWlsfGVufDB8fHx8MTc2NDg1NzQwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest trail"
+    },
+    {
+      "id": "attraction-kanthanpara-falls",
+      "description": "The gentle Kanthanpara Waterfalls, ideal for families.",
+      "imageUrl": "https://images.unsplash.com/photo-1593006845380-1a52c38a3915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3YXRlcmZhbGwlMjBrZXJhbGF8ZW58MHx8fHwxNzY0MjQyNzU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala waterfall"
+    },
+    {
+      "id": "attraction-kanthanpara-falls-2",
+      "description": "A small, serene waterfall in a green forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzZXJlbmUlMjB3YXRlcmZhbGx8ZW58MHx8fHwxNzY0ODU3Njk4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "serene waterfall"
+    },
+    {
+      "id": "attraction-tholpetty-safari",
+      "description": "A jeep safari in a lush green wildlife sanctuary.",
+      "imageUrl": "https://images.unsplash.com/photo-1589883983833-2a45d07f3c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aWxkbGlmZSUyMHNhZmFyaXxlbnwwfHx8fDE3NjQ4NDcyNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildlife safari"
+    },
+    {
+      "id": "attraction-tholpetty-safari-2",
+      "description": "A herd of deer in a forest clearing.",
+      "imageUrl": "https://images.unsplash.com/photo-1551893478-d726eaf0442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkZWVyJTIwaGVyZHxlbnwwfHx8fDE3NjQ4NTc3Njh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "deer herd"
+    },
+    {
+      "id": "attraction-muthanga-safari",
+      "description": "A view of elephants in the Muthanga Wildlife Sanctuary.",
+      "imageUrl": "https://images.unsplash.com/photo-1616684577312-6047c69a08e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrZXJhbGElMjBlbGVwaGFudCUyMHNhZmFyaXxlbnwwfHx8fDE3NjQ4NDc4NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elephant safari"
+    },
+    {
+      "id": "attraction-muthanga-safari-2",
+      "description": "A tiger walking through a dry forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1561731216-c3a4d99437d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0aWdlciUyMHdhbGtpbmcsfGVufDB8fHx8MTc2NDg1Nzg0MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tiger walking"
+    },
+    {
+      "id": "attraction-alleppey-backwaters",
+      "description": "A traditional houseboat cruising through the serene backwaters of Alleppey, lined with coconut trees.",
+      "imageUrl": "https://images.unsplash.com/photo-1603787723954-d178a014902a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhbGxlcHBleSUyMGhvdXNlYm9hdHxlbnwwfHx8fDE3NjQ4NjMxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "houseboat backwaters"
+    },
+    {
+      "id": "attraction-alleppey-backwaters-2",
+      "description": "A stunning sunset view over the tranquil backwater canals of Alleppey.",
+      "imageUrl": "https://images.unsplash.com/photo-1593651187133-e5b3c3e879a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxrZXJhbGElMjBiYWNrd2F0ZXJzJTIwc3Vuc2V0fGVufDB8fHx8MTc2NDg2MzE4NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backwater sunset"
+    },
+    {
+      "id": "attraction-alappuzha-beach",
+      "description": "A vibrant sunset over Alappuzha Beach with the old pier in the distance.",
+      "imageUrl": "https://images.unsplash.com/photo-1616867383929-2c6b9e2c6d48?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGxlcHBleSUyMGJlYWNoJTIwc3Vuc2V0fGVufDB8fHx8MTc2NTAzMTA1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach sunset"
+    },
+    {
+      "id": "attraction-alappuzha-beach-2",
+      "description": "The historic, rustic remains of the old sea bridge pier at Alappuzha Beach.",
+      "imageUrl": "https://images.unsplash.com/photo-1628177522396-9966620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGxlcHBleSUyMHNlYSUyMGJyaWRnZXxlbnwwfHx8fDE3NjUwMzExMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sea bridge"
+    },
+    {
+      "id": "dining-sadya",
+      "description": "A traditional Kerala Sadya served on a banana leaf.",
+      "imageUrl": "https://images.unsplash.com/photo-1694849789325-914b71ab4075?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW5kaWFuJTIwZm9vZHxlbnwwfHx8fDE3NjM2MDYyMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian food"
+    },
+    {
+      "id": "dining-puttu",
+      "description": "Puttu and Kadala curry, a classic Kerala breakfast.",
+      "imageUrl": "https://images.unsplash.com/photo-1620894592665-c68bdefed3fd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrZXJhbGElMjBmb29kfGVufDB8fHx8MTc2MzYyNTIzNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala food"
+    },
+    {
+      "id": "dining-seafood",
+      "description": "Spicy Kerala style fish fry.",
+      "imageUrl": "https://images.unsplash.com/photo-1676300184390-04ddf405d4f0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxzZWFmb29kJTIwZGlzaHxlbnwwfHx8fDE3NjM2MjUyMzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "seafood dish"
+    },
+    {
+      "id": "accommodation-luxury",
+      "description": "A luxury resort with a swimming pool overlooking a lake.",
+      "imageUrl": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsdXh1cnklMjByZXNvcnR8ZW58MHx8fHwxNzYzNTQ1NDE3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "luxury resort"
+    },
+    {
+      "id": "accommodation-homestay",
+      "description": "A traditional and cozy Kerala homestay.",
+      "imageUrl": "https://images.unsplash.com/photo-1608382816104-370aaddee1b9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y296eSUyMGNvdHRhZ2V8ZW58MHx8fHwxNzYzNjI1MTIzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cozy cottage"
+    },
+    {
+      "id": "accommodation-treehouse",
+      "description": "A rustic treehouse accommodation in a forest.",
+      "imageUrl": "https://images.unsplash.com/photo-1627661469718-5774126c879d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Zm9yZXN0JTIwdHJlZWhvdXNlfGVufDB8fHx8MTc2MzU2NjI4OHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest treehouse"
+    },
+    {
+      "id": "navigation-map",
+      "description": "A stylized map showing various locations in Kerala.",
+      "imageUrl": "https://images.unsplash.com/photo-1718498576333-a331226b33a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMG1hcHxlbnwwfHx8fDE3NjM2MjUwODB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract map"
+    },
+    {
+      "id": "ar-tour-view",
+      "description": "A smartphone showing an augmented reality view of a monument.",
+      "imageUrl": "https://images.unsplash.com/photo-1665594915243-970a1e128ba7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhdWdtZW50ZWQlMjByZWFsaXR5fGVufDB8fHx8MTc2MzU1MjU5MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "augmented reality"
+    },
+    {
+      "id": "attraction-alappuzha-lighthouse",
+      "description": "The exterior of the historic Alappuzha Lighthouse against a clear blue sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1628177522396-9966620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGxlcHBleSUyMGxpZ2h0aG91c2V8ZW58MHx8fHwxNzY1MDMxNzQ3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "historic lighthouse"
+    },
+    {
+      "id": "attraction-alappuzha-lighthouse-2",
+      "description": "A panoramic top view from the Alappuzha Lighthouse, showing the coastline and the Arabian Sea.",
+      "imageUrl": "https://images.unsplash.com/photo-1590766125439-506241a76e65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxjb2FzdGxpbmUlMjB2aWV3fGVufDB8fHx8MTc2NTAzMTc4MXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coastline view"
+    },
+    {
+      "id": "attraction-ambalappuzha-temple",
+      "description": "The front view of a traditional Kerala temple with a pond in front.",
+      "imageUrl": "https://images.unsplash.com/photo-1628362243501-4d3753b2d18b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxrZXJhbGElMjB0ZW1wbGUlMjBleHRlcmlvcnxlbnwwfHx8fDE3NjUwMzUxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala temple"
+    },
+    {
+      "id": "attraction-ambalappuzha-temple-2",
+      "description": "An ornate idol of Lord Krishna inside a temple.",
+      "imageUrl": "https://images.unsplash.com/photo-1620138547372-802521a0a54e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxsordCUyMGtyaXNobmElMjBpZG9sfGVufDB8fHx8MTc2NTAzNTIwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "krishna idol"
+    },
+    {
+      "id": "attraction-krishnapuram-palace",
+      "description": "The exterior of the historic Krishnapuram Palace in Kerala.",
+      "imageUrl": "https://images.unsplash.com/photo-1568625433236-07a8c3b6d5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxrZXJhbGElMjBwYWxhY2V8ZW58MHx8fHwxNzY1MTIwNjYwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala palace"
+    },
+    {
+      "id": "attraction-krishnapuram-palace-2",
+      "description": "A close-up of a large, colorful ancient Indian mural painting.",
+      "imageUrl": "https://images.unsplash.com/photo-1620475945039-38f3d1b6a70e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbmNpZW50JTIwaW5kaWFuJTIwbXVyYWx8ZW58MHx8fHwxNzY1MTIwNzQxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian mural"
+    },
+    {
+      "id": "attraction-pathiramanal-island",
+      "description": "A boat approaching the lush green Pathiramanal Island on Vembanad Lake.",
+      "imageUrl": "https://images.unsplash.com/photo-1588720499182-411e74503c85?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiYWNrd2F0ZXIlMjBpc2xhbmQlMjBrZXJhbGF8ZW58MHx8fHwxNzY1MjE5OTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backwater island"
+    },
+    {
+      "id": "attraction-pathiramanal-island-2",
+      "description": "A nature trail path through a forest, ideal for birdwatching.",
+      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb3Jlc3QlMjB0cmFpbCUyMHBhdGh8ZW58MHx8fHwxNzY1MjIwMDAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest trail"
+    },
+    {
+      "id": "attraction-kuttanad-paddy-fields",
+      "description": "Lush green paddy fields stretching below sea level in Kuttanad.",
+      "imageUrl": "https://images.unsplash.com/photo-1599422476059-455a7a85c960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrZXJhbGElMjBwYWRkeSUyMGZpZWxkc3xlbnwwfHx8fDE3NjUzMTQwNTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paddy fields"
+    },
+    {
+      "id": "attraction-kuttanad-canals",
+      "description": "A small boat navigating a narrow, tree-lined backwater canal in Kuttanad.",
+      "imageUrl": "https://images.unsplash.com/photo-1603787723954-d178a014902a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrZXJhbGElMjBjYW5hbCUyMGJvYXR8ZW58MHx8fHwxNzY1MzE0MTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "canal boat"
+    },
+    {
+      "id": "attraction-champakulam-church",
+      "description": "The front view of a historic St. Mary's church in Kerala with classic architecture.",
+      "imageUrl": "https://images.unsplash.com/photo-1610810389334-a4590b50e3d2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxrZXJhbGElMjBvbGQlMjBjaHVyY2h8ZW58MHx8fHwxNzY1MzE4MTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala church"
+    },
+    {
+      "id": "attraction-champakulam-church-2",
+      "description": "The ornate and beautifully lit altar inside a historic Christian church.",
+      "imageUrl": "https://images.unsplash.com/photo-1595054697985-e5f8b9816eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjaHVyY2glMjBhbHRhciUyMGludGVyaW9yfGVufDB8fHx8MTc2NTMxODIzM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church altar"
+    },
+    {
+      "id": "attraction-padmanabhaswamy-temple-3",
+      "description": "Temple devotees during evening prayer ceremony.",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxpbmRpYW4lMjB0ZW1wbGUlMjBwcmF5ZXJ8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple prayer"
+    },
+    {
+      "id": "attraction-padmanabhaswamy-temple-4",
+      "description": "Traditional oil lamps lit during temple festival.",
+      "imageUrl": "https://images.unsplash.com/photo-1609619385002-f40bc4e0d3a8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxpbmRpYW4lMjBvaWwlMjBsYW1wc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "oil lamps"
+    },
+    {
+      "id": "attraction-padmanabhaswamy-temple-5",
+      "description": "The temple's sacred pond surrounded by pillared corridors.",
+      "imageUrl": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx0ZW1wbGUlMjBwb25kfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple pond"
+    },
+    {
+      "id": "attraction-kovalam-beach-3",
+      "description": "Fishermen pulling in their nets at dawn.",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmaXNoZXJtZW4lMjBuZXRzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fishermen nets"
+    },
+    {
+      "id": "attraction-kovalam-beach-4",
+      "description": "The iconic Kovalam lighthouse standing tall against blue sky.",
+      "imageUrl": "https://images.unsplash.com/photo-1628177522396-9966620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxsaWdodGhvdXNlJTIwYmVhY2h8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lighthouse beach"
+    },
+    {
+      "id": "attraction-kovalam-beach-5",
+      "description": "Beach vendors selling fresh coconuts and snacks.",
+      "imageUrl": "https://images.unsplash.com/photo-1587049352846-4a222e784422?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiZWFjaCUyMHZlbmRvcnN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach vendors"
+    },
+    {
+      "id": "attraction-ponmudi-hills-3",
+      "description": "Morning mist rolling over the Western Ghats mountains.",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxtb3VudGFpbiUyMG1pc3R8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain mist"
+    },
+    {
+      "id": "attraction-ponmudi-hills-4",
+      "description": "The famous 22 hairpin bends winding through the hills.",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bW91bnRhaW4lMjByb2FkfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mountain road"
+    },
+    {
+      "id": "attraction-ponmudi-hills-5",
+      "description": "Deer spotted in the hill station's wildlife sanctuary.",
+      "imageUrl": "https://images.unsplash.com/photo-1551893478-d726eaf0442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8ZGVlciUyMGZvcmVzdHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "deer forest"
+    },
+    {
+      "id": "attraction-veli-village-3",
+      "description": "Children playing on the sandy beach at Veli.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8Y2hpbGRyZW4lMjBiZWFjaHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "children beach"
+    },
+    {
+      "id": "attraction-veli-village-4",
+      "description": "Paddle boats lined up at the lagoon.",
+      "imageUrl": "https://images.unsplash.com/photo-1627513997230-e5550a224a1b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8cGVkYWwlMjBib2F0c3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pedal boats"
+    },
+    {
+      "id": "attraction-veli-village-5",
+      "description": "Sunset view where the lake meets the Arabian Sea.",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8bGFrZSUyMHN1bnNldHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lake sunset"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-3",
+      "description": "Families enjoying evening walks on the beach promenade.",
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNXx8YmVhY2glMjBwcm9tZW5hZGV8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach promenade"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-4",
+      "description": "Street food stalls near the beach serving local snacks.",
+      "imageUrl": "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8c3RyZWV0JTIwZm9vZCUyMHN0YWxsc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "street food"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-5",
+      "description": "Aircraft taking off from nearby airport visible from beach.",
+      "imageUrl": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxN3x8YWlyY3JhZnQlMjB0YWtlb2ZmfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "aircraft takeoff"
+    },
+    {
+      "id": "attraction-napier-museum-3",
+      "description": "Ancient bronze sculptures on display.",
+      "imageUrl": "https://images.unsplash.com/photo-1595854341625-f33ee0c9b5f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8YnJvbnplJTIwc2N1bHB0dXJlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bronze sculpture"
+    },
+    {
+      "id": "attraction-napier-museum-4",
+      "description": "Traditional Kerala mural paintings collection.",
+      "imageUrl": "https://images.unsplash.com/photo-1620475945039-38f3d1b6a70e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOXx8aW5kaWFuJTIwbXVyYWx8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian mural"
+    },
+    {
+      "id": "attraction-napier-museum-5",
+      "description": "The museum's beautiful garden and walking paths.",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8bXVzZXVtJTIwZ2FyZGVufGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum garden"
+    },
+    {
+      "id": "attraction-trivandrum-zoo-3",
+      "description": "Colorful peacocks roaming freely in the zoo.",
+      "imageUrl": "https://images.unsplash.com/photo-1571752726703-5e7d1f6a986d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMXx8cGVhY29jayUyMHpvb3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "peacock zoo"
+    },
+    {
+      "id": "attraction-trivandrum-zoo-4",
+      "description": "The zoo's lush botanical garden with rare plants.",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMnx8Ym90YW5pY2FsJTIwZ2FyZGVufGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "botanical garden"
+    },
+    {
+      "id": "attraction-trivandrum-zoo-5",
+      "description": "Families enjoying a day out at the zoo.",
+      "imageUrl": "https://images.unsplash.com/photo-1503066211613-c17ebc9daef0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyM3x8ZmFtaWx5JTIwem9vfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "family zoo"
+    },
+    {
+      "id": "attraction-poovar-island-3",
+      "description": "Golden sand beach meeting the estuary waters.",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyNHx8ZXN0dWFyeSUyMGJlYWNofGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "estuary beach"
+    },
+    {
+      "id": "attraction-poovar-island-4",
+      "description": "Traditional country boat rides through narrow canals.",
+      "imageUrl": "https://images.unsplash.com/photo-1603787723954-d178a014902a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyNXx8Y291bnRyeSUyMGJvYXR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "country boat"
+    },
+    {
+      "id": "attraction-poovar-island-5",
+      "description": "Ayurvedic spa treatments at waterfront resorts.",
+      "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyNnx8YXl1cnZlZGljJTIwc3BhfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ayurvedic spa"
+    },
+    {
+      "id": "attraction-kanakakunnu-palace-3",
+      "description": "The palace's manicured gardens and fountains.",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyN3x8cGFsYWNlJTIwZ2FyZGVufGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palace garden"
+    },
+    {
+      "id": "attraction-kanakakunnu-palace-4",
+      "description": "Cultural performances held in the palace grounds.",
+      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyOHx8Y3VsdHVyYWwlMjBwZXJmb3JtYW5jZXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cultural performance"
+    },
+    {
+      "id": "attraction-kanakakunnu-palace-5",
+      "description": "The palace illuminated during evening events.",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyOXx8cGFsYWNlJTIwbmlnaHR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palace night"
+    },
+    {
+      "id": "attraction-banasura-dam-3",
+      "description": "Adventure activities like trekking around the dam.",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzMHx8dHJla2tpbmclMjBhZHZlbnR1cmV8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trekking adventure"
+    },
+    {
+      "id": "attraction-banasura-dam-4",
+      "description": "Panoramic view of the reservoir and surrounding hills.",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzMXx8cmVzZXJ2b2lyJTIwaGlsbHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "reservoir hills"
+    },
+    {
+      "id": "attraction-banasura-dam-5",
+      "description": "Sunrise over the calm waters of the dam.",
+      "imageUrl": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzMnx8c3VucmlzZSUyMGxha2V8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sunrise lake"
+    },
+    {
+      "id": "attraction-edakkal-caves-3",
+      "description": "Close-up of ancient petroglyphs on cave walls.",
+      "imageUrl": "https://images.unsplash.com/photo-1519008249694-c7a36b890a03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzM3x8cGV0cm9nbHlwaHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "petroglyphs"
+    },
+    {
+      "id": "attraction-edakkal-caves-4",
+      "description": "View from the cave entrance overlooking valleys.",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzNHx8dmFsbGV5JTIwdmlld3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "valley view"
+    },
+    {
+      "id": "attraction-edakkal-caves-5",
+      "description": "Trekkers resting at the cave site.",
+      "imageUrl": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzNXx8dHJla2tlcnMlMjByZXN0aW5nfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trekkers resting"
+    },
+    {
+      "id": "attraction-chembra-peak-3",
+      "description": "Hikers ascending the steep mountain trail.",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzNnx8aGlrZXJzJTIwbW91bnRhaW58ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hikers mountain"
+    },
+    {
+      "id": "attraction-chembra-peak-4",
+      "description": "Misty clouds rolling over the peak.",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzN3x8bWlzdHklMjBwZWFrfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "misty peak"
+    },
+    {
+      "id": "attraction-chembra-peak-5",
+      "description": "Wildflowers blooming along the trekking path.",
+      "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzOHx8d2lsZGZsb3dlcnMlMjBtb3VudGFpbnxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildflowers mountain"
+    },
+    {
+      "id": "attraction-soochipara-falls-3",
+      "description": "Visitors swimming in the natural pool.",
+      "imageUrl": "https://images.unsplash.com/photo-1500332363231-1e90225b8f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzOXx8c3dpbW1pbmclMjB3YXRlcmZhbGx8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "swimming waterfall"
+    },
+    {
+      "id": "attraction-soochipara-falls-4",
+      "description": "The waterfall surrounded by lush greenery.",
+      "imageUrl": "https://images.unsplash.com/photo-1593006845380-1a52c38a3915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0MHx8d2F0ZXJmYWxsJTIwZ3JlZW58ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "waterfall green"
+    },
+    {
+      "id": "attraction-soochipara-falls-5",
+      "description": "Rainbow forming in the waterfall mist.",
+      "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0MXx8cmFpbmJvdyUyMHdhdGVyZmFsbHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rainbow waterfall"
+    },
+    {
+      "id": "attraction-pookode-lake-3",
+      "description": "Walking trail around the lake perimeter.",
+      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0Mnx8bGFrZSUyMHRyYWlsfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lake trail"
+    },
+    {
+      "id": "attraction-pookode-lake-4",
+      "description": "Ducks and water birds on the lake.",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0M3x8ZHVja3MlMjBsYWtlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ducks lake"
+    },
+    {
+      "id": "attraction-pookode-lake-5",
+      "description": "Freshwater aquarium near the lake.",
+      "imageUrl": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0NHx8YXF1YXJpdW18ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "aquarium"
+    },
+    {
+      "id": "attraction-kuruvadweep-island-3",
+      "description": "Rare bird species spotted on the island.",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0NXx8YmlyZCUyMHNwZWNpZXN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bird species"
+    },
+    {
+      "id": "attraction-kuruvadweep-island-4",
+      "description": "Bamboo bridges connecting different parts of the island.",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0Nnx8YmFtYm9vJTIwYnJpZGdlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bamboo bridge"
+    },
+    {
+      "id": "attraction-kuruvadweep-island-5",
+      "description": "Picnic spots under shady trees.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0N3x8cGljbmljJTIwdHJlZXN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "picnic trees"
+    },
+    {
+      "id": "attraction-karapuzha-dam-3",
+      "description": "Children's play area at the adventure park.",
+      "imageUrl": "https://images.unsplash.com/photo-1503066211613-c17ebc9daef0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0OHx8Y2hpbGRyZW4lMjBwbGF5JTIwYXJlYXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "children play"
+    },
+    {
+      "id": "attraction-karapuzha-dam-4",
+      "description": "Boating facilities on the reservoir.",
+      "imageUrl": "https://images.unsplash.com/photo-1573083818814-36940c6198d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0OXx8Ym9hdGluZyUyMHJlc2Vydm9pcnxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "boating reservoir"
+    },
+    {
+      "id": "attraction-karapuzha-dam-5",
+      "description": "Gardens and walking paths around the dam.",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1MHx8Z2FyZGVuJTIwd2Fsa2luZ3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "garden walking"
+    },
+    {
+      "id": "attraction-meenmutty-falls-3",
+      "description": "The three tiers of the waterfall cascading down.",
+      "imageUrl": "https://images.unsplash.com/photo-1603203093382-0294c7a5f782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1MXx8dGhyZWUlMjB0aWVyJTIwd2F0ZXJmYWxsfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "three tier waterfall"
+    },
+    {
+      "id": "attraction-meenmutty-falls-4",
+      "description": "Monsoon season with full water flow.",
+      "imageUrl": "https://images.unsplash.com/photo-1593006845380-1a52c38a3915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1Mnx8bW9uc29vbiUyMHdhdGVyZmFsbHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "monsoon waterfall"
+    },
+    {
+      "id": "attraction-meenmutty-falls-5",
+      "description": "Wildlife spotted near the waterfall area.",
+      "imageUrl": "https://images.unsplash.com/photo-1551893478-d726eaf0442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1M3x8d2lsZGxpZmUlMjBmb3Jlc3R8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildlife forest"
+    },
+    {
+      "id": "attraction-kanthanpara-falls-3",
+      "description": "Families enjoying a picnic near the falls.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1NHx8ZmFtaWx5JTIwcGljbmljfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "family picnic"
+    },
+    {
+      "id": "attraction-kanthanpara-falls-4",
+      "description": "Easy access path to the waterfall.",
+      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1NXx8cGF0aCUyMHdhdGVyZmFsbHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "path waterfall"
+    },
+    {
+      "id": "attraction-kanthanpara-falls-5",
+      "description": "Lush vegetation surrounding the falls.",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1Nnx8bHVzaCUyMHZlZ2V0YXRpb258ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lush vegetation"
+    },
+    {
+      "id": "attraction-tholpetty-safari-3",
+      "description": "Elephants spotted during the safari.",
+      "imageUrl": "https://images.unsplash.com/photo-1616684577312-6047c69a08e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1N3x8ZWxlcGhhbnRzJTIwc2FmYXJpfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elephants safari"
+    },
+    {
+      "id": "attraction-tholpetty-safari-4",
+      "description": "Early morning safari through misty forests.",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1OHx8bWlzdHklMjBmb3Jlc3R8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "misty forest"
+    },
+    {
+      "id": "attraction-tholpetty-safari-5",
+      "description": "Watchtower for wildlife viewing.",
+      "imageUrl": "https://images.unsplash.com/photo-1589883983833-2a45d07f3c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1OXx8d2F0Y2h0b3dlciUyMHdpbGRsaWZlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "watchtower wildlife"
+    },
+    {
+      "id": "attraction-muthanga-safari-3",
+      "description": "Bison grazing in the sanctuary.",
+      "imageUrl": "https://images.unsplash.com/photo-1551893478-d726eaf0442c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2MHx8Ymlzb24lMjBncmF6aW5nfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bison grazing"
+    },
+    {
+      "id": "attraction-muthanga-safari-4",
+      "description": "Dense bamboo forests in the sanctuary.",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2MXx8YmFtYm9vJTIwZm9yZXN0fGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bamboo forest"
+    },
+    {
+      "id": "attraction-muthanga-safari-5",
+      "description": "Safari guides explaining wildlife behavior.",
+      "imageUrl": "https://images.unsplash.com/photo-1589883983833-2a45d07f3c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2Mnx8c2FmYXJpJTIwZ3VpZGV8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "safari guide"
+    },
+    {
+      "id": "attraction-alleppey-backwaters-3",
+      "description": "Traditional Kerala lunch served on houseboat.",
+      "imageUrl": "https://images.unsplash.com/photo-1694849789325-914b71ab4075?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2M3x8a2VyYWxhJTIwZm9vZHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala food"
+    },
+    {
+      "id": "attraction-alleppey-backwaters-4",
+      "description": "Narrow canals lined with palm trees.",
+      "imageUrl": "https://images.unsplash.com/photo-1603787723954-d178a014902a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2NHx8Y2FuYWwlMjBwYWxtJTIwdHJlZXN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "canal palm"
+    },
+    {
+      "id": "attraction-alleppey-backwaters-5",
+      "description": "Local villagers in traditional boats.",
+      "imageUrl": "https://images.unsplash.com/photo-1596700147983-5a914593883a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2NXx8dHJhZGl0aW9uYWwlMjBib2F0c3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "traditional boats"
+    },
+    {
+      "id": "attraction-alappuzha-beach-3",
+      "description": "Beach volleyball and sports activities.",
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2Nnx8YmVhY2glMjB2b2xsZXliYWxsfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach volleyball"
+    },
+    {
+      "id": "attraction-alappuzha-beach-4",
+      "description": "The historic pier extending into the sea.",
+      "imageUrl": "https://images.unsplash.com/photo-1628177522396-9966620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2N3x8cGllciUyMHNlYXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pier sea"
+    },
+    {
+      "id": "attraction-alappuzha-beach-5",
+      "description": "Annual beach festival celebrations.",
+      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2OHx8YmVhY2glMjBmZXN0aXZhbHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach festival"
+    },
+    {
+      "id": "attraction-alappuzha-lighthouse-3",
+      "description": "Spiral staircase inside the lighthouse.",
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2OXx8c3BpcmFsJTIwc3RhaXJjYXNlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "spiral staircase"
+    },
+    {
+      "id": "attraction-alappuzha-lighthouse-4",
+      "description": "Lighthouse keeper's quarters and museum.",
+      "imageUrl": "https://images.unsplash.com/photo-1543269865-09195932827a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3MHx8bGlnaHRob3VzZSUyMG11c2V1bXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lighthouse museum"
+    },
+    {
+      "id": "attraction-alappuzha-lighthouse-5",
+      "description": "Sunset view from the top of the lighthouse.",
+      "imageUrl": "https://images.unsplash.com/photo-1590766125439-506241a76e65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3MXx8bGlnaHRob3VzZSUyMHN1bnNldHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lighthouse sunset"
+    },
+    {
+      "id": "attraction-ambalappuzha-temple-3",
+      "description": "Devotees receiving the famous Pal Payasam offering.",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3Mnx8dGVtcGxlJTIwb2ZmZXJpbmd8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple offering"
+    },
+    {
+      "id": "attraction-ambalappuzha-temple-4",
+      "description": "Temple festival procession with elephants.",
+      "imageUrl": "https://images.unsplash.com/photo-1616684577312-6047c69a08e6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3M3x8dGVtcGxlJTIwZWxlcGhhbnR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple elephant"
+    },
+    {
+      "id": "attraction-ambalappuzha-temple-5",
+      "description": "Traditional temple architecture details.",
+      "imageUrl": "https://images.unsplash.com/photo-1628362243501-4d3753b2d18b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3NHx8dGVtcGxlJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple architecture"
+    },
+    {
+      "id": "attraction-krishnapuram-palace-3",
+      "description": "Antique furniture and royal artifacts on display.",
+      "imageUrl": "https://images.unsplash.com/photo-1543269865-09195932827a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3NXx8YW50aXF1ZSUyMGZ1cm5pdHVyZXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "antique furniture"
+    },
+    {
+      "id": "attraction-krishnapuram-palace-4",
+      "description": "Traditional Kerala architectural features.",
+      "imageUrl": "https://images.unsplash.com/photo-1568625433236-07a8c3b6d5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3Nnx8a2VyYWxhJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kerala architecture"
+    },
+    {
+      "id": "attraction-krishnapuram-palace-5",
+      "description": "Palace courtyard and gardens.",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3N3x8cGFsYWNlJTIwY291cnR5YXJkfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palace courtyard"
+    },
+    {
+      "id": "attraction-pathiramanal-island-3",
+      "description": "Birdwatchers with binoculars observing rare species.",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3OHx8YmlyZHdhdGNoaW5nfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "birdwatching"
+    },
+    {
+      "id": "attraction-pathiramanal-island-4",
+      "description": "Sunset boat ride around the island.",
+      "imageUrl": "https://images.unsplash.com/photo-1603787723954-d178a014902a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3OXx8Ym9hdCUyMHN1bnNldHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "boat sunset"
+    },
+    {
+      "id": "attraction-pathiramanal-island-5",
+      "description": "Migratory birds during winter season.",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4MHx8bWlncmF0b3J5JTIwYmlyZHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "migratory birds"
+    },
+    {
+      "id": "attraction-kuttanad-paddy-fields-2",
+      "description": "Farmers harvesting rice in the fields.",
+      "imageUrl": "https://images.unsplash.com/photo-1599422476059-455a7a85c960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4MXx8cmljZSUyMGhhcnZlc3R8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "rice harvest"
+    },
+    {
+      "id": "attraction-kuttanad-paddy-fields-3",
+      "description": "Traditional farming methods in below-sea-level fields.",
+      "imageUrl": "https://images.unsplash.com/photo-1599422476059-455a7a85c960?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4Mnx8dHJhZGl0aW9uYWwlMjBmYXJtaW5nfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "traditional farming"
+    },
+    {
+      "id": "attraction-kuttanad-paddy-fields-4",
+      "description": "Village life along the backwater canals.",
+      "imageUrl": "https://images.unsplash.com/photo-1603787723954-d178a014902a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4M3x8dmlsbGFnZSUyMGNhbmFsfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "village canal"
+    },
+    {
+      "id": "attraction-kuttanad-paddy-fields-5",
+      "description": "Sunset over the endless green paddy fields.",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4NHx8cGFkZHklMjBmaWVsZCUyMHN1bnNldHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "paddy sunset"
+    },
+    {
+      "id": "attraction-champakulam-church-3",
+      "description": "Annual church festival procession.",
+      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4NXx8Y2h1cmNoJTIwZmVzdGl2YWx8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church festival"
+    },
+    {
+      "id": "attraction-champakulam-church-4",
+      "description": "Historic stained glass windows.",
+      "imageUrl": "https://images.unsplash.com/photo-1595054697985-e5f8b9816eda?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4Nnx8c3RhaW5lZCUyMGdsYXNzJTIwd2luZG93c3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stained glass"
+    },
+    {
+      "id": "attraction-champakulam-church-5",
+      "description": "Backwater views from the church premises.",
+      "imageUrl": "https://images.unsplash.com/photo-1603787723954-d178a014902a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4N3x8YmFja3dhdGVyJTIwdmlld3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backwater view"
+    },
+    {
+      "id": "attraction-kappad-beach",
+      "description": "Historic Kappad Beach with Vasco da Gama monument",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxiZWFjaCUyMGhpc3RvcmljfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "historic beach"
+    },
+    {
+      "id": "attraction-kappad-beach-2",
+      "description": "Sunset at Kappad Beach with rocky coastline",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiZWFjaCUyMHN1bnNldCUyMHJvY2tzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach sunset rocks"
+    },
+    {
+      "id": "attraction-muzhappilangad-beach",
+      "description": "Vehicles driving on Muzhappilangad Drive-in Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxiZWFjaCUyMGRyaXZlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach drive"
+    },
+    {
+      "id": "attraction-muzhappilangad-beach-2",
+      "description": "Long stretch of Muzhappilangad Beach coastline",
+      "imageUrl": "https://images.unsplash.com/photo-1588001592285-d6c5b5b5c90d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxsb25nJTIwYmVhY2h8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "long beach"
+    },
+    {
+      "id": "attraction-st-angelos-fort",
+      "description": "St. Angelo's Fort walls overlooking the Arabian Sea",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxmb3J0JTIwc2VhfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fort sea"
+    },
+    {
+      "id": "attraction-st-angelos-fort-2",
+      "description": "Interior courtyard of St. Angelo's Fort",
+      "imageUrl": "https://images.unsplash.com/photo-1568625433236-07a8c3b6d5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxmb3J0JTIwaW50ZXJpb3J8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fort interior"
+    },
+    {
+      "id": "attraction-payyambalam-beach",
+      "description": "Wide sandy stretch of Payyambalam Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1668518891186-c07180869132?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxiZWFjaCUyMHNhbmR5fGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach sandy"
+    },
+    {
+      "id": "attraction-payyambalam-beach-2",
+      "description": "Payyambalam Beach park and gardens",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxiZWFjaCUyMHBhcmt8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach park"
+    },
+    {
+      "id": "attraction-arakkal-museum",
+      "description": "Arakkal Museum palace exterior",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwYWxhY2UlMjBtdXNldW18ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palace museum"
+    },
+    {
+      "id": "attraction-arakkal-museum-2",
+      "description": "Royal artifacts displayed in Arakkal Museum",
+      "imageUrl": "https://images.unsplash.com/photo-1543269865-09195932827a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8bXVzZXVtJTIwYXJ0aWZhY3RzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum artifacts"
+    },
+    {
+      "id": "attraction-muthappan-temple",
+      "description": "Parassinikadavu Muthappan Temple entrance",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8dGVtcGxlJTIwaW5kaWF8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple india"
+    },
+    {
+      "id": "attraction-muthappan-temple-2",
+      "description": "Theyyam performance at Muthappan Temple",
+      "imageUrl": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8dHJhZGl0aW9uYWwlMjBkYW5jZXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "traditional dance"
+    },
+    {
+      "id": "attraction-paithalmala",
+      "description": "Misty grasslands of Paithalmala Hill Station",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8bWlzdHklMjBoaWxsc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "misty hills"
+    },
+    {
+      "id": "attraction-paithalmala-2",
+      "description": "Trekking trails through Paithalmala meadows",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8dHJla2tpbmclMjBtZWFkb3dzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "trekking meadows"
+    },
+    {
+      "id": "attraction-madayipara",
+      "description": "Seasonal wildflowers blooming at Madayipara",
+      "imageUrl": "https://images.unsplash.com/photo-1490750967868-88aa4486c946?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNXx8d2lsZGZsb3dlcnMlMjBoaWxsfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildflowers hill"
+    },
+    {
+      "id": "attraction-madayipara-2",
+      "description": "Panoramic hilltop view from Madayipara",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNnx8aGlsbHRvcCUyMHZpZXd8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hilltop view"
+    },
+    {
+      "id": "attraction-dharmadom-island",
+      "description": "Dharmadom Island surrounded by shallow waters",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxN3x8aXNsYW5kJTIwc2hhbGxvd3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "island shallow"
+    },
+    {
+      "id": "attraction-dharmadom-island-2",
+      "description": "Green coconut groves on Dharmadom Island",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8Y29jb251dCUyMGdyb3Zlc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coconut groves"
+    },
+    {
+      "id": "attraction-thalassery-fort",
+      "description": "Thalassery Fort laterite walls and bastions",
+      "imageUrl": "https://images.unsplash.com/photo-1568625433236-07a8c3b6d5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOXx8Zm9ydCUyMHdhbGxzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fort walls"
+    },
+    {
+      "id": "attraction-thalassery-fort-2",
+      "description": "Sea view from Thalassery Fort ramparts",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Zm9ydCUyMHNlYSUyMHZpZXd8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fort sea view"
+    },
+    {
+      "id": "attraction-kannur-lighthouse",
+      "description": "Kannur Lighthouse tower against the sky",
+      "imageUrl": "https://images.unsplash.com/photo-1628177522396-9966620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMXx8bGlnaHRob3VzZXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lighthouse"
+    },
+    {
+      "id": "attraction-kannur-lighthouse-2",
+      "description": "Panoramic coastal view from Kannur Lighthouse top",
+      "imageUrl": "https://images.unsplash.com/photo-1590766125439-506241a76e65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMnx8bGlnaHRob3VzZSUyMHZpZXd8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lighthouse view"
+    },
+    {
+      "id": "attraction-kozhikode-beach",
+      "description": "Sunset view at Kozhikode Beach with promenade",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyM3x8YmVhY2glMjBzdW5zZXR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach sunset"
+    },
+    {
+      "id": "attraction-kozhikode-beach-2",
+      "description": "Old pier remains at Kozhikode Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyNHx8YmVhY2glMjBwaWVyfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach pier"
+    },
+    {
+      "id": "attraction-beypore-beach",
+      "description": "Beypore Pulimuttu stone pier extending into sea",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyNXx8c3RvbmUlMjBwaWVyfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "stone pier"
+    },
+    {
+      "id": "attraction-beypore-beach-2",
+      "description": "Traditional Uru wooden ship construction at Beypore",
+      "imageUrl": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyNnx8d29vZGVuJTIwc2hpcHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wooden ship"
+    },
+    {
+      "id": "attraction-thusharagiri-waterfalls",
+      "description": "Thusharagiri waterfall cascade in Western Ghats",
+      "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyN3x8d2F0ZXJmYWxsfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "waterfall"
+    },
+    {
+      "id": "attraction-thusharagiri-waterfalls-2",
+      "description": "Trekking path through Thusharagiri forest",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyOHx8Zm9yZXN0JTIwdHJla2tpbmd8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest trekking"
+    },
+    {
+      "id": "attraction-sm-street",
+      "description": "Busy SM Street with shops and crowds",
+      "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyOXx8c2hvcHBpbmclMjBzdHJlZXR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "shopping street"
+    },
+    {
+      "id": "attraction-sm-street-2",
+      "description": "Colorful Kozhikode halwa and sweets at SM Street",
+      "imageUrl": "https://images.unsplash.com/photo-1563636619-e9143da7973b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzMHx8c3dlZXRzJTIwc2hvcHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sweets shop"
+    },
+    {
+      "id": "attraction-mananchira-square",
+      "description": "Mananchira lake and landscaped park",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzMXx8cGFyayUyMGxha2V8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "park lake"
+    },
+    {
+      "id": "attraction-mananchira-square-2",
+      "description": "Walkways and greenery at Mananchira Square",
+      "imageUrl": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzMnx8cGFyayUyMHdhbGt3YXl8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "park walkway"
+    },
+    {
+      "id": "attraction-kadalundi-bird-sanctuary",
+      "description": "Birds at Kadalundi estuary and mangroves",
+      "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzM3x8YmlyZHMlMjBlc3R1YXJ5fGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "birds estuary"
+    },
+    {
+      "id": "attraction-kadalundi-bird-sanctuary-2",
+      "description": "Boat ride through Kadalundi mangroves",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzNHx8bWFuZ3JvdmUlMjBib2F0fGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mangrove boat"
+    },
+    {
+      "id": "attraction-vayalada-viewpoint",
+      "description": "Cloud-covered valley views from Vayalada",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzNXx8Y2xvdWQlMjB2YWxsZXl8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cloud valley"
+    },
+    {
+      "id": "attraction-vayalada-viewpoint-2",
+      "description": "Early morning mist at Vayalada hills",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzNnx8bWlzdHklMjBoaWxsc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "misty hills"
+    },
+    {
+      "id": "attraction-pazhassi-raja-museum",
+      "description": "Pazhassi Raja Museum building exterior",
+      "imageUrl": "https://images.unsplash.com/photo-1543269865-09195932827a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzN3x8bXVzZXVtJTIwYnVpbGRpbmd8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum building"
+    },
+    {
+      "id": "attraction-pazhassi-raja-museum-2",
+      "description": "Historical exhibits inside Pazhassi Raja Museum",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzOHx8bXVzZXVtJTIwZXhoaWJpdHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum exhibits"
+    },
+    {
+      "id": "attraction-bekal-fort",
+      "description": "Bekal Fort walls overlooking Arabian Sea",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzOXx8Zm9ydCUyMHNlYXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fort sea"
+    },
+    {
+      "id": "attraction-bekal-fort-2",
+      "description": "Aerial view of keyhole-shaped Bekal Fort",
+      "imageUrl": "https://images.unsplash.com/photo-1568625433236-07a8c3b6d5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0MHx8Zm9ydCUyMGFlcmlhbHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fort aerial"
+    },
+    {
+      "id": "attraction-valiyaparamba-backwaters",
+      "description": "Houseboats on Valiyaparamba backwaters",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0MXx8aG91c2Vib2F0JTIwYmFja3dhdGVyc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "houseboat backwaters"
+    },
+    {
+      "id": "attraction-valiyaparamba-backwaters-2",
+      "description": "Palm-fringed islands at Valiyaparamba",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0Mnx8cGFsbSUyMGlzbGFuZHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palm islands"
+    },
+    {
+      "id": "attraction-ranipuram",
+      "description": "Grass-covered hills of Ranipuram",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0M3x8Z3Jhc3MlMjBoaWxsc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grass hills"
+    },
+    {
+      "id": "attraction-ranipuram-2",
+      "description": "Misty trekking trails at Ranipuram",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0NHx8bWlzdHklMjB0cmVra2luZ3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "misty trekking"
+    },
+    {
+      "id": "attraction-chandragiri-fort",
+      "description": "Chandragiri Fort ruins overlooking river",
+      "imageUrl": "https://images.unsplash.com/photo-1568625433236-07a8c3b6d5f7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0NXx8Zm9ydCUyMHJ1aW5zfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fort ruins"
+    },
+    {
+      "id": "attraction-chandragiri-fort-2",
+      "description": "Sunset over Chandragiri River from fort",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0Nnx8cml2ZXIlMjBzdW5zZXR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "river sunset"
+    },
+    {
+      "id": "attraction-hosdurg-fort",
+      "description": "Hosdurg Fort walls and entrance",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0N3x8Zm9ydCUyMHdhbGxzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fort walls"
+    },
+    {
+      "id": "attraction-hosdurg-fort-2",
+      "description": "Nityanand Ashram caves and structures",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0OHx8Y2F2ZXMlMjBhc2hyYW18ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "caves ashram"
+    },
+    {
+      "id": "attraction-kappil-beach",
+      "description": "Quiet shoreline at Kappil Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0OXx8cXVpZXQlMjBiZWFjaHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "quiet beach"
+    },
+    {
+      "id": "attraction-kappil-beach-2",
+      "description": "Backwaters and sea at Kappil Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1MHx8YmFja3dhdGVyJTIwc2VhfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backwater sea"
+    },
+    {
+      "id": "attraction-madhur-temple",
+      "description": "Madhur Temple with layered gopurams",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1MXx8dGVtcGxlJTIwZ29wdXJhbXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple gopuram"
+    },
+    {
+      "id": "attraction-madhur-temple-2",
+      "description": "River-side view near Madhur Temple",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1Mnx8cml2ZXIlMjB0ZW1wbGV8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "river temple"
+    },
+    {
+      "id": "attraction-ananthapura-temple",
+      "description": "Ananthapura Lake Temple in center of lake",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1M3x8bGFrZSUyMHRlbXBsZXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lake temple"
+    },
+    {
+      "id": "attraction-ananthapura-temple-2",
+      "description": "Walkway around Ananthapura Temple lake",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1NHx8dGVtcGxlJTIwd2Fsa3dheXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple walkway"
+    },
+    {
+      "id": "attraction-malik-dinar-mosque",
+      "description": "Front view of Malik Dinar Mosque",
+      "imageUrl": "https://images.unsplash.com/photo-1564769610726-5b5b69f7c3e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1NXx8bW9zcXVlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mosque"
+    },
+    {
+      "id": "attraction-malik-dinar-mosque-2",
+      "description": "Courtyard of Malik Dinar Mosque",
+      "imageUrl": "https://images.unsplash.com/photo-1591604021695-0c69b7c05981?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1Nnx8bW9zcXVlJTIwY291cnR5YXJkfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mosque courtyard"
+    },
+    {
+      "id": "attraction-nileshwaram",
+      "description": "Backwaters near Nileshwaram with houseboats",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1N3x8YmFja3dhdGVycyUyMGhvdXNlYm9hdHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backwaters houseboat"
+    },
+    {
+      "id": "attraction-nileshwaram-2",
+      "description": "Traditional buildings in Nileshwaram town",
+      "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1OHx8dHJhZGl0aW9uYWwlMjBidWlsZGluZ3N8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "traditional buildings"
+    },
+    {
+      "id": "attraction-fort-kochi",
+      "description": "Chinese fishing nets at sunset in Fort Kochi",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1OXx8ZmlzaGluZyUyMG5ldHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fishing nets"
+    },
+    {
+      "id": "attraction-fort-kochi-2",
+      "description": "Colonial heritage streets in Fort Kochi",
+      "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2MHx8Y29sb25pYWwlMjBzdHJlZXR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "colonial street"
+    },
+    {
+      "id": "attraction-mattancherry-palace",
+      "description": "Mattancherry Dutch Palace exterior",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2MXx8cGFsYWNlJTIwZXh0ZXJpb3J8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palace exterior"
+    },
+    {
+      "id": "attraction-mattancherry-palace-2",
+      "description": "Jew Town antique shops and spice market",
+      "imageUrl": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2Mnx8YW50aXF1ZSUyMHNob3BzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "antique shops"
+    },
+    {
+      "id": "attraction-marine-drive",
+      "description": "Marine Drive walkway along Kochi backwaters",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2M3x8d2F0ZXJmcm9udCUyMHdhbGt3YXl8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "waterfront walkway"
+    },
+    {
+      "id": "attraction-marine-drive-2",
+      "description": "Evening lights at Marine Drive Rainbow Bridge",
+      "imageUrl": "https://images.unsplash.com/photo-1519331379826-f10be5486c6f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2NHx8YnJpZGdlJTIwbGlnaHRzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bridge lights"
+    },
+    {
+      "id": "attraction-cherai-beach",
+      "description": "Sandy shoreline at Cherai Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2NXx8c2FuZHklMjBiZWFjaHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sandy beach"
+    },
+    {
+      "id": "attraction-cherai-beach-2",
+      "description": "Backwater and sea at Cherai Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2Nnx8YmVhY2glMjBiYWNrd2F0ZXJ8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach backwater"
+    },
+    {
+      "id": "attraction-hill-palace",
+      "description": "Hill Palace Museum complex exterior",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2N3x8cGFsYWNlJTIwbXVzZXVtfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palace museum"
+    },
+    {
+      "id": "attraction-hill-palace-2",
+      "description": "Palace grounds and gardens at Hill Palace",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2OHx8cGFsYWNlJTIwZ2FyZGVuc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palace gardens"
+    },
+    {
+      "id": "attraction-mangalavanam",
+      "description": "Mangrove trees at Mangalavanam Bird Sanctuary",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2OXx8bWFuZ3JvdmUlMjB0cmVlc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mangrove trees"
+    },
+    {
+      "id": "attraction-mangalavanam-2",
+      "description": "Bird-watching trail at Mangalavanam",
+      "imageUrl": "https://images.unsplash.com/photo-1552728089-57bdde30beb3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3MHx8YmlyZCUyMHdhdGNoaW5nfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bird watching"
+    },
+    {
+      "id": "attraction-vadakkunnathan-temple",
+      "description": "Vadakkunnathan Temple gopurams and Thekkinkadu Maidan",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3MXx8dGVtcGxlJTIwZ29wdXJhbXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple gopuram"
+    },
+    {
+      "id": "attraction-vadakkunnathan-temple-2",
+      "description": "Traditional Kerala temple architecture at Vadakkunnathan",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3Mnx8dGVtcGxlJTIwYXJjaGl0ZWN0dXJlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple architecture"
+    },
+    {
+      "id": "attraction-thrissur-zoo",
+      "description": "Entrance to Thrissur Zoo and Museum",
+      "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3M3x8em9vJTIwZW50cmFuY2V8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "zoo entrance"
+    },
+    {
+      "id": "attraction-thrissur-zoo-2",
+      "description": "Green pathways inside Thrissur Zoo",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3NHx8em9vJTIwcGF0aHdheXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "zoo pathway"
+    },
+    {
+      "id": "attraction-sakthan-palace",
+      "description": "Sakthan Thampuran Palace courtyard",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3NXx8cGFsYWNlJTIwY291cnR5YXJkfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "palace courtyard"
+    },
+    {
+      "id": "attraction-sakthan-palace-2",
+      "description": "Museum interiors at Sakthan Palace",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3Nnx8bXVzZXVtJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "museum interior"
+    },
+    {
+      "id": "attraction-dolours-basilica",
+      "description": "Our Lady of Dolours Basilica with tall towers",
+      "imageUrl": "https://images.unsplash.com/photo-1564769610726-5b5b69f7c3e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3N3x8Y2h1cmNoJTIwdG93ZXJzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church towers"
+    },
+    {
+      "id": "attraction-dolours-basilica-2",
+      "description": "Interior of Dolours Basilica",
+      "imageUrl": "https://images.unsplash.com/photo-1591604021695-0c69b7c05981?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3OHx8Y2h1cmNoJTIwaW50ZXJpb3J8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "church interior"
+    },
+    {
+      "id": "attraction-athirappilly",
+      "description": "Wide view of Athirappilly Waterfalls",
+      "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3OXx8d2F0ZXJmYWxsJTIwd2lkZXxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "waterfall wide"
+    },
+    {
+      "id": "attraction-athirappilly-2",
+      "description": "Athirappilly falls with surrounding greenery",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4MHx8d2F0ZXJmYWxsJTIwZm9yZXN0fGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "waterfall forest"
+    },
+    {
+      "id": "attraction-vazhachal",
+      "description": "River rapids at Vazhachal Waterfalls",
+      "imageUrl": "https://images.unsplash.com/photo-1432405972618-c60b0225b8f9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4MXx8cml2ZXIlMjByYXBpZHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "river rapids"
+    },
+    {
+      "id": "attraction-vazhachal-2",
+      "description": "Forest and cascades at Vazhachal",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4Mnx8Zm9yZXN0JTIwY2FzY2FkZXN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "forest cascades"
+    },
+    {
+      "id": "attraction-chavakkad-beach",
+      "description": "Chavakkad Beach shoreline and estuary",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4M3x8YmVhY2glMjBlc3R1YXJ5fGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach estuary"
+    },
+    {
+      "id": "attraction-chavakkad-beach-2",
+      "description": "Sunset at Chavakkad Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4NHx8YmVhY2glMjBzdW5zZXR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach sunset"
+    },
+    {
+      "id": "attraction-snehatheeram-beach",
+      "description": "Snehatheeram Beach with park area",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4NXx8YmVhY2glMjBwYXJrfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach park"
+    },
+    {
+      "id": "attraction-snehatheeram-beach-2",
+      "description": "Family area at Snehatheeram Beach",
+      "imageUrl": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4Nnx8YmVhY2glMjBmYW1pbHl8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "beach family"
+    },
+    {
+      "id": "attraction-guruvayur-temple",
+      "description": "Guruvayur Temple entrance gopuram",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4N3x8dGVtcGxlJTIwZW50cmFuY2V8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple entrance"
+    },
+    {
+      "id": "attraction-guruvayur-temple-2",
+      "description": "Devotees at Guruvayur Temple",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4OHx8dGVtcGxlJTIwZGV2b3RlZXN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "temple devotees"
+    },
+    {
+      "id": "attraction-punnathur-kotta",
+      "description": "Elephants at Punnathur Kotta compound",
+      "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4OXx8ZWxlcGhhbnRzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elephants"
+    },
+    {
+      "id": "attraction-punnathur-kotta-2",
+      "description": "Temple elephants being cared for",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5MHx8ZWxlcGhhbnQlMjBjYXJlfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "elephant care"
+    },
+    {
+      "id": "attraction-chettuva-backwaters",
+      "description": "Boat on Chettuva Backwaters",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5MXx8YmFja3dhdGVycyUyMGJvYXR8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "backwaters boat"
+    },
+    {
+      "id": "attraction-chettuva-backwaters-2",
+      "description": "Mangroves at Chettuva",
+      "imageUrl": "https://images.unsplash.com/photo-1542273917363-3b1817469a68?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5Mnx8bWFuZ3JvdmVzfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mangroves"
+    },
+    {
+      "id": "attraction-kalamandalam",
+      "description": "Kerala Kalamandalam campus entrance",
+      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5M3x8Y2FtcHVzJTIwZW50cmFuY2V8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "campus entrance"
+    },
+    {
+      "id": "attraction-kalamandalam-2",
+      "description": "Kathakali performance at Kalamandalam",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5NHx8a2F0aGFrYWxpfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "kathakali"
+    },
+    {
+      "id": "attraction-peechi-dam",
+      "description": "Peechi Dam reservoir and hills",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5NXx8ZGFtJTIwcmVzZXJ2b2lyfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dam reservoir"
+    },
+    {
+      "id": "attraction-peechi-dam-2",
+      "description": "Wildlife sanctuary near Peechi Dam",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5Nnx8d2lsZGxpZmUlMjBzYW5jdHVhcnl8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildlife sanctuary"
+    },
+    {
+      "id": "attraction-idukki-dam",
+      "description": "Idukki Arch Dam between Kuravan and Kurathi hills",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5N3x8ZGFtJTIwaGlsbHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dam hills"
+    },
+    {
+      "id": "attraction-idukki-dam-2",
+      "description": "Panoramic view of Idukki reservoir",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5OHx8cmVzZXJ2b2lyJTIwdmlld3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "reservoir view"
+    },
+    {
+      "id": "attraction-munnar",
+      "description": "Rolling tea estates in Munnar",
+      "imageUrl": "https://images.unsplash.com/photo-1563979091-4bebc0b5754f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5OXx8dGVhJTIwZXN0YXRlc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tea estates"
+    },
+    {
+      "id": "attraction-munnar-2",
+      "description": "Misty hills and winding roads near Munnar",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDB8fG1pc3R5JTIwaGlsbHN8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "misty hills"
+    },
+    {
+      "id": "attraction-eravikulam",
+      "description": "Grassland slopes at Eravikulam National Park",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDF8fGdyYXNzbGFuZCUyMHNsb3Blc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "grassland slopes"
+    },
+    {
+      "id": "attraction-eravikulam-2",
+      "description": "Nilgiri tahr at Eravikulam",
+      "imageUrl": "https://images.unsplash.com/photo-1564760055775-d63b17a55c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDJ8fHdpbGRsaWZlJTIwZ3JhemluZ3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wildlife grazing"
+    },
+    {
+      "id": "attraction-periyar",
+      "description": "Periyar Lake surrounded by forested hills",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDN8fGxha2UlMjBmb3Jlc3R8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lake forest"
+    },
+    {
+      "id": "attraction-periyar-2",
+      "description": "Boat safari on Periyar Lake",
+      "imageUrl": "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDR8fGJvYXQlMjBzYWZhcml8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "boat safari"
+    },
+    {
+      "id": "attraction-ramakkalmedu",
+      "description": "View from Ramakkalmedu overlooking plains",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDV8fGhpbGx0b3AlMjB2aWV3fGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "hilltop view"
+    },
+    {
+      "id": "attraction-ramakkalmedu-2",
+      "description": "Wind turbines at Ramakkalmedu",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDZ8fHdpbmQlMjB0dXJiaW5lc3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "wind turbines"
+    },
+    {
+      "id": "attraction-vagamon",
+      "description": "Rolling green meadows of Vagamon",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDd8fGdyZWVuJTIwbWVhZG93c3xlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "green meadows"
+    },
+    {
+      "id": "attraction-vagamon-2",
+      "description": "Pine forest at Vagamon",
+      "imageUrl": "https://images.unsplash.com/photo-1551632811-561732d1e306?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDh8fHBpbmUlMjBmb3Jlc3R8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pine forest"
+    },
+    {
+      "id": "attraction-kalvari-mount",
+      "description": "View of Idukki reservoir from Kalvari Mount",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMDl8fHJlc2Vydm9pciUyMHZpZXdwb2ludHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "reservoir viewpoint"
+    },
+    {
+      "id": "attraction-kalvari-mount-2",
+      "description": "Cross at Kalvari Mount hilltop",
+      "imageUrl": "https://images.unsplash.com/photo-1564769610726-5b5b69f7c3e0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMTB8fGNyb3NzJTIwaGlsbHRvcHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cross hilltop"
+    },
+    {
+      "id": "attraction-anchuruli",
+      "description": "Anchuruli lake and tunnel outlet",
+      "imageUrl": "https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMTF8fGxha2UlMjB0dW5uZWx8ZW58MHx8fHwxNzY1MzIwMDAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lake tunnel"
+    },
+    {
+      "id": "attraction-anchuruli-2",
+      "description": "Reservoir reflections at Anchuruli",
+      "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMTJ8fHJlc2Vydm9pciUyMHJlZmxlY3Rpb25zfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "reservoir reflections"
+    }
+  ]
+}

@@ -1,0 +1,181 @@
+{
+    "id": "kottayam_aruvikkuzhy_waterfalls",
+    "name": "Aruvikkuzhy Waterfalls",
+    "category": "Waterfall / Family Picnic Spot",
+    "city": "Pallickathode",
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Aruvikkuzhy Waterfalls, Pallickathode, near Koothattukulam–Kottayam Road, Kerala",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Pallickathode",
+            "Koothattukulam",
+            "Ilaveezhapoonchira"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Faruvikkuzhy_waterfalls%2F1.jpg",
+            "caption": "Aruvikkuzhy Waterfalls cascading through rubber plantations"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Faruvikkuzhy_waterfalls%2F2.jpg",
+            "caption": "Picnic spot near the waterfall"
+        }
+    ],
+    "history": {
+        "short_description": "A lush, family-friendly cascade surrounded by rubber plantations, ideal for picnics and nature walks.",
+        "detailed": "Traditionally a quiet stream area used by villages, it was gradually developed with pathways and safety railings. It became a trending spot due to social media photography and easy access from Kottayam."
+    },
+    "significance": {
+        "nature": "Safe and accessible waterfall flowing in multiple small tiers.",
+        "tourism": "Popular weekend getaway for locals offering short treks through rubber estates."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "09:00",
+                "end_time": "17:00",
+                "note": "Avoid evenings due to slippery paths"
+            }
+        ],
+        "activities": [
+            "Nature walk",
+            "Picnic",
+            "Photography",
+            "Relax in shallow pools"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free or small parking fee",
+            "warnings": [
+                "Slippery rocks",
+                "Swimming only in shallow pools",
+                "No alcohol or littering"
+            ]
+        },
+        "recommended_visit_duration_minutes": 90,
+        "best_time_to_visit": [
+            "June–September (monsoon flow)",
+            "October–January (pleasant)"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.2,
+        "highlights": [
+            "Safe for families",
+            "Good picnic spot",
+            "Pleasant walk through plantations"
+        ],
+        "common_complaints": [
+            "Low water in summer",
+            "Slippery during monsoon",
+            "Limited food options nearby"
+        ],
+        "tips_from_visitors": [
+            "Visit during monsoon for best view.",
+            "Wear grip shoes.",
+            "Carry food and water."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport (COK)",
+            "approx_distance_km": 80,
+            "travel_options": [
+                "Taxi",
+                "Cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottayam Railway Station",
+            "approx_distance_km": 18,
+            "travel_options": [
+                "Taxi",
+                "Bus to Pallickathode + Auto"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Pallickathode",
+            "approx_distance_km": 2,
+            "description": "Kottayam → Pallickathode → Aruvikkuzhy.",
+            "parking_info": "Parking available near entrance."
+        },
+        "local_transport_tips": [
+            "Short walk from parking.",
+            "No vehicles allowed up to waterfalls."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Pallickathode Local Tea & Snacks",
+            "type": "Tea Shop",
+            "distance_km": 2,
+            "price_range": "₹",
+            "special_notes": "Pazhampori, chai."
+        },
+        {
+            "name": "Tharavadu Home Kitchen",
+            "type": "Local Kerala Meals",
+            "distance_km": 3,
+            "price_range": "₹₹",
+            "special_notes": "Fish curry meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Green Park Residency",
+            "type": "Budget/Family",
+            "distance_km": 12,
+            "price_range": "₹₹",
+            "amenities": [
+                "AC Rooms",
+                "Restaurant"
+            ]
+        },
+        {
+            "name": "Kottaram Homestay",
+            "type": "Heritage Stay",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Traditional Food",
+                "Village Ambience"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Ilaveezhapoonchira",
+            "approx_distance_km": 15
+        },
+        {
+            "name": "Kottayam Town",
+            "approx_distance_km": 18
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "FamilyWaterfalls",
+            "PicnicSpot",
+            "NatureWalk",
+            "MonsoonPhotography"
+        ],
+        "recommended_itineraries": [
+            "Morning visit to waterfalls → Lunch at Pallickathode → Ilaveezhapoonchira evening",
+            "Picnic at waterfalls → Visit local rubber plantation"
+        ],
+        "alerts_suggestions": [
+            "Slippery rocks warning.",
+            "Check water levels in summer."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Water flow seasonal."
+    }
+}

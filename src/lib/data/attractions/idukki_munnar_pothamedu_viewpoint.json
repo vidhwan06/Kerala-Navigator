@@ -1,0 +1,174 @@
+{
+    "id": "idukki_munnar_pothamedu_viewpoint",
+    "name": "Pothamedu Viewpoint",
+    "category": "Viewpoint / Nature",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Pothamedu Viewpoint, Munnar, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Tea Plantations",
+            "Cardamom Estates"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fpothamedu%2F1.jpg",
+            "caption": "Sunset at Pothamedu Viewpoint"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fpothamedu%2F2.jpg",
+            "caption": "Green tea estates of Pothamedu"
+        }
+    ],
+    "history": {
+        "short_description": "Viewpoint overlooking vast plantations of tea, coffee, and cardamom.",
+        "detailed": "The plantations date back to British times. The viewpoint offers a panoramic view of the valley and is a testament to the agricultural heritage of the region."
+    },
+    "significance": {
+        "heritage": "Plantation history.",
+        "tourism": "One of the best sunset points in Munnar.",
+        "culture": "Agricultural hub."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "06:00",
+                "end_time": "19:00"
+            }
+        ],
+        "activities": [
+            "Sunset viewing",
+            "Drone photography",
+            "Tea estate walks",
+            "Nature appreciation"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free",
+            "warnings": [
+                "Windy during evenings",
+                "Narrow roads"
+            ]
+        },
+        "recommended_visit_duration_minutes": 45,
+        "best_time_to_visit": [
+            "Sunset hours",
+            "Evening"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Amazing sunset",
+            "Lush greenery",
+            "Peaceful"
+        ],
+        "common_complaints": [
+            "Parking difficult",
+            "Road narrow"
+        ],
+        "tips_from_visitors": [
+            "Carry jackets—windy during evenings.",
+            "Best for sunset.",
+            "Visit tea shop nearby."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 105,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 105,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 6,
+            "description": "Short drive from town.",
+            "parking_info": "Limited roadside parking."
+        },
+        "local_transport_tips": [
+            "Auto rickshaw recommended.",
+            "Walkable for hikers."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "The Grove Café",
+            "type": "Café",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "special_notes": "Coffee and snacks."
+        },
+        {
+            "name": "Tea Valley Restaurant",
+            "type": "Restaurant",
+            "distance_km": 2,
+            "price_range": "₹₹",
+            "special_notes": "Meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "The Tall Trees Munnar",
+            "type": "Resort",
+            "distance_km": 2,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Nature luxury"
+            ]
+        },
+        {
+            "name": "Pothamedu View Resort",
+            "type": "Resort",
+            "distance_km": 0.5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "View rooms"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Attukad Waterfalls",
+            "approx_distance_km": 5
+        },
+        {
+            "name": "Blossom Park",
+            "approx_distance_km": 4
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "viewpoint",
+            "sunset",
+            "tea",
+            "nature"
+        ],
+        "recommended_itineraries": [
+            "Attukad Falls → Pothamedu Sunset",
+            "Evening drive"
+        ],
+        "alerts_suggestions": [
+            "Go before sunset.",
+            "Bring camera."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

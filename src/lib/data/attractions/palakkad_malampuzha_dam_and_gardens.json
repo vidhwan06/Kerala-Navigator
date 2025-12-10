@@ -1,0 +1,201 @@
+{
+    "id": "palakkad_malampuzha_dam_and_gardens",
+    "name": "Malampuzha Dam & Gardens",
+    "category": "Dam / Garden / Family Attraction",
+    "city": "Palakkad",
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Malampuzha Dam & Gardens, Malampuzha, Palakkad District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Yakshi Statue",
+            "Rock Garden",
+            "Malampuzha Reservoir",
+            "Ropeway Boarding Point"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fmalampuzha%2F1.jpg",
+            "caption": "Malampuzha Dam scenic front view"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fmalampuzha%2F2.jpg",
+            "caption": "Ropeway ride over Malampuzha Gardens"
+        }
+    ],
+    "history": {
+        "short_description": "A famous dam and garden complex built in 1955, known for boating, ropeway rides, and landscaped gardens.",
+        "detailed": "Malampuzha Dam, completed in 1955 across the Malampuzha tributary of Bharathapuzha, is one of Kerala’s earliest and largest irrigation projects. The beautifully designed Malampuzha Gardens were developed soon after to promote tourism. The iconic Yakshi sculpture by Kanayi Kunhiraman, the Rock Garden made with recycled materials, and the aerial ropeway make this destination one of the most visited family attractions in Palakkad."
+    },
+    "significance": {
+        "heritage": "One of Kerala's oldest major dams.",
+        "tourism": "Offers ropeway rides, boating, aquarium visits, rock garden exploration.",
+        "culture": "Yakshi sculpture stands as a masterpiece of modern Kerala art."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Garden Entry",
+                "start_time": "09:00",
+                "end_time": "20:00"
+            },
+            {
+                "session": "Dam Top Entry",
+                "start_time": "09:00",
+                "end_time": "17:00"
+            },
+            {
+                "session": "Ropeway",
+                "start_time": "09:30",
+                "end_time": "19:00"
+            }
+        ],
+        "activities": [
+            "Ropeway Ride",
+            "Boating at Reservoir",
+            "Visit Rock Garden",
+            "Visit Yakshi Sculpture",
+            "Walk on Dam Top",
+            "Aquarium & Snake Park Visit"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry",
+            "special_attraction_fees": "Separate fees for attractions",
+            "warnings": [
+                "Evenings may get crowded",
+                "Follow safety instructions during ropeway ride",
+                "Slippery areas during monsoon"
+            ]
+        },
+        "recommended_visit_duration_minutes": 120,
+        "best_time_to_visit": [
+            "Evening hours for lighting",
+            "November to February"
+        ],
+        "average_crowd_level": "High on weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.4,
+        "highlights": [
+            "Great for families and kids",
+            "Unique ropeway experience",
+            "Well-maintained gardens"
+        ],
+        "common_complaints": [
+            "Crowded during peak hours",
+            "Hot in the afternoon during summer"
+        ],
+        "tips_from_visitors": [
+            "Best visited after 4 PM.",
+            "Try the ropeway.",
+            "Rock Garden is great for photography."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Coimbatore International Airport",
+            "approx_distance_km": 65,
+            "travel_options": [
+                "Taxi",
+                "Private Vehicle"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Palakkad Junction",
+            "approx_distance_km": 12,
+            "travel_options": [
+                "Taxi",
+                "Bus",
+                "Auto"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Palakkad KSRTC Bus Stand",
+            "approx_distance_km": 10,
+            "description": "Frequent buses and autos available.",
+            "parking_info": "Large parking area available."
+        },
+        "local_transport_tips": [
+            "Autos and taxis are easily available.",
+            "Hire a bike or scooter for a scenic ride."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Malampuzha Garden Restaurant",
+            "type": "Multi Cuisine",
+            "distance_km": 0.3,
+            "price_range": "₹₹",
+            "special_notes": "Popular spot for families."
+        },
+        {
+            "name": "Kannan’s Family Restaurant",
+            "type": "Veg & Non-Veg",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "special_notes": "Known for Kerala meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Kairali Resort",
+            "type": "Ayurvedic Resort",
+            "distance_km": 2,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Ayurveda",
+                "Swimming Pool",
+                "Restaurant"
+            ]
+        },
+        {
+            "name": "KPM Regency",
+            "type": "Business Hotel",
+            "distance_km": 10,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "AC Rooms",
+                "Parking"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Yakshi Sculpture",
+            "approx_distance_km": 0.2
+        },
+        {
+            "name": "Rock Garden",
+            "approx_distance_km": 0.4
+        },
+        {
+            "name": "Malampuzha Aquarium",
+            "approx_distance_km": 0.5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "dam",
+            "garden",
+            "family",
+            "ropeway"
+        ],
+        "recommended_itineraries": [
+            "Rock Garden → Yakshi Statue → Ropeway → Boating",
+            "Evening Visit: Gardens → Dam Top Walk"
+        ],
+        "alerts_suggestions": [
+            "Boating may close during heavy rains.",
+            "Ropeway suspended in strong winds."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

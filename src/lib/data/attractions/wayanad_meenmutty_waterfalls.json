@@ -1,0 +1,208 @@
+{
+    "id":  "wayanad_meenmutty_waterfalls",
+    "name":  "Meenmutty Waterfalls",
+    "category":  "Waterfall / Trekking Spot",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Meppadi – Banasura Region, Wayanad, Kerala, India",
+                     "latitude":  null,
+                     "longitude":  null,
+                     "landmarks_nearby":  [
+                                              "Banasura Sagar Dam",
+                                              "Karlad Lake",
+                                              "Vellarimala Hills"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-meenmutty-falls",
+                   "attraction-meenmutty-falls-2",
+                   "attraction-meenmutty-falls-3",
+                   "attraction-meenmutty-falls-4",
+                   "attraction-meenmutty-falls-5"
+               ],
+    "history":  {
+                    "short_description":  "A powerful three-tiered waterfall and one of the largest in Wayanad, requiring a scenic forest trek to reach.",
+                    "detailed":  "Meenmutty Waterfalls is one of the tallest and most dramatic waterfalls in Wayanad, cascading nearly 300 meters over three distinct tiers. The name \u0027Meenmutty\u0027 comes from the Malayalam words \u0027Meen\u0027 (fish) and \u0027Mutty\u0027 (blocked), meaning a place where fish cannot reach. The waterfall is accessible only through a guided forest trek of about 1–1.5 km. Located near Banasura Sagar Dam, the falls form part of the Western Ghats ecosystem, known for dense forests, rich flora, and hilly terrain. Safety precautions are strict due to strong currents and slippery rocks."
+                },
+    "significance":  {
+                         "nature":  "One of Wayanad’s most powerful waterfalls, known for its height and forest surroundings.",
+                         "adventure":  "A must-visit spot for trekkers and nature enthusiasts.",
+                         "tourism":  "Important attraction located close to Banasura Sagar Dam."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Visiting Hours",
+                                             "start_time":  "09:00",
+                                             "end_time":  "17:00",
+                                             "note":  "Entry may be restricted during heavy rainfall."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Forest trekking",
+                                            "Photography",
+                                            "Three-tier waterfall viewing",
+                                            "Nature walk",
+                                            "Rock viewpoints"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹30–₹50 per person (approx.)",
+                                             "trekking_distance_km":  1.0,
+                                             "guide_requirement":  "Guide may be mandatory during high season/monsoon.",
+                                             "warnings":  [
+                                                              "Swimming is strictly prohibited.",
+                                                              "Rocks are slippery—follow safety signs.",
+                                                              "Entry closed during monsoon for safety."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  120,
+                         "best_time_to_visit":  [
+                                                    "October to February",
+                                                    "Post-monsoon for best water flow"
+                                                ],
+                         "average_crowd_level":  "Moderate on weekdays; high on weekends"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Beautiful trek with forest views",
+                                               "Massive waterfall with three layers",
+                                               "Very scenic and refreshing"
+                                           ],
+                            "common_complaints":  [
+                                                      "Trail gets slippery during monsoon",
+                                                      "No food stalls near the falls",
+                                                      "Parking can be crowded"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Wear proper trekking shoes.",
+                                                       "Carry water and snacks.",
+                                                       "Avoid visiting during heavy rain.",
+                                                       "Best visited in the morning."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kannur International Airport",
+                                              "approx_distance_km":  90,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Car rental"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode (Calicut)",
+                                                      "approx_distance_km":  95,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Kalpetta/Banasura"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "Road access till the check-post; trekking required beyond that.",
+                                      "parking_info":  "Parking area available near the starting point."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Best reached by private taxi or rental bike.",
+                                                   "Buses available up to Padinjarathara, autos available afterwards."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Banasura Hill Resort Restaurant",
+                                   "type":  "Kerala \u0026 Multi-Cuisine",
+                                   "cuisine":  [
+                                                   "Meals",
+                                                   "Curries",
+                                                   "Snacks"
+                                               ],
+                                   "specialties":  [
+                                                       "Meals",
+                                                       "Curries",
+                                                       "Snacks"
+                                                   ],
+                                   "distance_km":  4
+                               },
+                               {
+                                   "name":  "Local Tea \u0026 Snack Shops",
+                                   "type":  "Snacks",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks"
+                                               ],
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Pazhampori",
+                                                       "Vada"
+                                                   ],
+                                   "distance_km":  0.2
+                               },
+                               {
+                                   "name":  "Hotel Green Palace",
+                                   "type":  "Kerala Meals",
+                                   "cuisine":  [
+                                                   "Fish Curry Meals",
+                                                   "Veg Meals"
+                                               ],
+                                   "specialties":  [
+                                                       "Fish Curry Meals",
+                                                       "Veg Meals"
+                                                   ],
+                                   "distance_km":  6
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Banasura Hill Resort",
+                                      "type":  "Premium Eco Resort",
+                                      "distance_km":  4,
+                                      "recommended_for":  [
+                                                              "Restaurant",
+                                                              "Pool",
+                                                              "Eco rooms"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Wayanad Silverwoods Resort",
+                                      "type":  "Luxury",
+                                      "distance_km":  6,
+                                      "recommended_for":  [
+                                                              "Infinity Pool",
+                                                              "Lake View Villas"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Local Homestays – Padinjarathara",
+                                      "type":  "Budget",
+                                      "distance_km":  3,
+                                      "recommended_for":  [
+                                                              "Homely food",
+                                                              "Parking"
+                                                          ]
+                                  }
+                              ],
+    "app_specific":  {
+                         "tags":  [
+                                      "waterfall",
+                                      "trekking",
+                                      "nature",
+                                      "adventure"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Meenmutty Trek → Banasura Dam → Karlad Lake",
+                                                         "Morning waterfall trek → Lunch at Padinjarathara → Edakkal Caves"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Closed during heavy rainfall or monsoon.",
+                                                    "Entry restricted during unsafe water flow.",
+                                                    "Wear proper footwear for trekking."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Seasonal safety restrictions may apply."
+             }
+}

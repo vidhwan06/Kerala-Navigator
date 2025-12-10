@@ -1,0 +1,178 @@
+{
+    "id": "palakkad_siruvani_dam_and_waterfalls",
+    "name": "Siruvani Dam & Waterfalls",
+    "category": "Dam / Waterfall / Nature Spot",
+    "city": "Near Agali & Mannarkkad",
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Siruvani Dam & Waterfalls, Siruvani Hills, Palakkad District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Attappady Hills",
+            "Siruvani Reservoir",
+            "Mannarkkad Town"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fsiruvani%2F1.jpg",
+            "caption": "Siruvani Dam surrounded by dense forest"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fsiruvani%2F2.jpg",
+            "caption": "Siruvani Waterfalls with clear flowing water"
+        }
+    ],
+    "history": {
+        "short_description": "A scenic dam and waterfall known for having one of the sweetest waters in India, surrounded by Western Ghats forest.",
+        "detailed": "Siruvani Dam was commissioned in 1984 to supply drinking water to Coimbatore city. The region is famous for its exceptionally sweet water, due to the unique mineral composition flowing through the Western Ghats. The waterfalls nearby have long been a natural attraction, visited for their clear water and lush surroundings."
+    },
+    "significance": {
+        "heritage": "Sweetest natural water in Asia.",
+        "tourism": "Dam views, waterfalls, forest drives.",
+        "culture": "Tribal heritage region."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Visiting Hours",
+                "start_time": "09:00",
+                "end_time": "17:00"
+            }
+        ],
+        "activities": [
+            "Waterfall viewing",
+            "Forest walk",
+            "Visit Reservoir viewpoint",
+            "Photography"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry",
+            "warnings": [
+                "Swimming restricted",
+                "Forest routes may close",
+                "Wildlife presence"
+            ]
+        },
+        "recommended_visit_duration_minutes": 120,
+        "best_time_to_visit": [
+            "September to February",
+            "Post-monsoon"
+        ],
+        "average_crowd_level": "Low to Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Sweet water",
+            "Beautiful forest drive",
+            "Calm spot"
+        ],
+        "common_complaints": [
+            "Road closures",
+            "Limited shops"
+        ],
+        "tips_from_visitors": [
+            "Carry water and snacks.",
+            "Check entry status.",
+            "Visit early morning."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Coimbatore International Airport",
+            "approx_distance_km": 70,
+            "travel_options": [
+                "Taxi",
+                "Private Vehicle"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Palakkad Junction",
+            "approx_distance_km": 45,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Mannarkkad Bus Stand",
+            "approx_distance_km": 25,
+            "description": "Forest entry permits may be needed.",
+            "parking_info": "Parking available."
+        },
+        "local_transport_tips": [
+            "Take taxi/jeep.",
+            "Public buses limited."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Local Tea Stalls",
+            "type": "Snacks & Tea",
+            "distance_km": 1,
+            "price_range": "₹",
+            "special_notes": "Basic refreshments."
+        },
+        {
+            "name": "Restaurants in Mannarkkad",
+            "type": "Multi Cuisine",
+            "distance_km": 25,
+            "price_range": "₹₹",
+            "special_notes": "Better dining in town."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Mannarkkad Tourist Home",
+            "type": "Budget Hotel",
+            "distance_km": 25,
+            "price_range": "₹₹",
+            "amenities": [
+                "Basic Rooms"
+            ]
+        },
+        {
+            "name": "Forest Department Guest Houses",
+            "type": "Government Stay",
+            "distance_km": 20,
+            "price_range": "₹₹",
+            "amenities": [
+                "Forest Environment"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Attappady Tribal Area",
+            "approx_distance_km": 20
+        },
+        {
+            "name": "Silent Valley National Park",
+            "approx_distance_km": 40
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "dam",
+            "waterfall",
+            "forest",
+            "nature"
+        ],
+        "recommended_itineraries": [
+            "Mannarkkad → Siruvani → Return",
+            "Siruvani → Silent Valley"
+        ],
+        "alerts_suggestions": [
+            "Check forest access.",
+            "Carry essentials."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

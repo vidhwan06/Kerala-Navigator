@@ -1,0 +1,193 @@
+{
+    "id": "kannur_madayipara",
+    "name": "Madayipara",
+    "category": "Hill / Nature / Biodiversity Hotspot",
+    "city": "Madayipara / Pazhayangadi",
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Madayipara Hilltop, Pazhayangadi, Kannur District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Pazhayangadi Town",
+            "Madayipara Watchtower Ruins",
+            "Vadukunnu Temple"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fmadayipara%2F1.jpg",
+            "caption": "Flower-filled meadows of Madayipara"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fmadayipara%2F2.jpg",
+            "caption": "Madayipara hilltop landscape"
+        }
+    ],
+    "history": {
+        "short_description": "Madayipara is a historic and ecological hilltop plateau known for its vast seasonal flower fields, ancient fort ruins, and breathtaking 360° views.",
+        "detailed": "Madayipara is a laterite hilltop plateau historically used as the administrative and military headquarters of the Kolathiri rulers. It once hosted the Madayi Kotta fort and an ancient watchtower. The hill is also home to inscriptions, old reservoirs, and the centuries-old Vadukunnu Temple. Over time, Madayipara became famous as a biodiversity hotspot with more than 500+ plant species, including rare orchids and seasonal wildflowers. The landscape changes color each season — green in monsoon, blue/purple in post-monsoon flowers, and golden in summer. It also serves as a prime spot for birdwatching and photography."
+    },
+    "significance": {
+        "nature": "Known for seasonal flower blooms, rare plants, butterfly species, and migratory birds.",
+        "heritage": "Remains of Madayi Fort, ancient Karinthalam well, and inscriptions.",
+        "scenic": "Offers 360° panoramic views of hills, villages, and lakes.",
+        "tourism": "Top nature and photography location in Kannur."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Visiting Hours",
+                "start_time": "06:00",
+                "end_time": "18:30",
+                "note": "Best visited in morning or evening."
+            }
+        ],
+        "activities": [
+            "Nature walks",
+            "Photography",
+            "Bird watching",
+            "Exploring fort and watchtower ruins",
+            "Picnic on the hilltop"
+        ],
+        "entry_rules": {
+            "entry_fee": "No entry fee",
+            "warnings": [
+                "No shade on hill—carry water and sun protection.",
+                "Slippery during monsoon seasons.",
+                "Do not pluck flowers or disturb ecosystem."
+            ]
+        },
+        "recommended_visit_duration_minutes": 90,
+        "best_time_to_visit": [
+            "August to October (flower season)",
+            "November to February (cool weather)",
+            "Evening for golden hour photography"
+        ],
+        "average_crowd_level": "Low to moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.7,
+        "highlights": [
+            "Stunning seasonal flowers",
+            "Peaceful natural environment",
+            "Great photography location"
+        ],
+        "common_complaints": [
+            "No food stalls or shops nearby",
+            "Very hot in summer midday",
+            "Difficult to visit without own vehicle"
+        ],
+        "tips_from_visitors": [
+            "Visit during monsoon/post-monsoon for flower carpets.",
+            "Wear comfortable shoes for walking on rocky ground.",
+            "Carry snacks and water."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Kannur International Airport",
+            "approx_distance_km": 42,
+            "travel_options": [
+                "Taxi",
+                "Cab services"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Pazhayangadi Railway Station",
+            "approx_distance_km": 5,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Pazhayangadi Bus Stand",
+            "approx_distance_km": 4,
+            "description": "Buses available to Pazhayangadi; take auto to hilltop base.",
+            "parking_info": "Parking near base road; short uphill walk required."
+        },
+        "local_transport_tips": [
+            "Autos available from Pazhayangadi.",
+            "Private vehicle recommended as hill roads are remote."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Pazhayangadi Local Restaurants",
+            "type": "Kerala Meals",
+            "distance_km": 4,
+            "price_range": "₹₹",
+            "special_notes": "Good for lunch and tea before/after visit."
+        },
+        {
+            "name": "Small Tea Shops near Madayipara Base",
+            "type": "Snacks & Tea",
+            "distance_km": 1,
+            "price_range": "₹",
+            "special_notes": "Tea, lime juice, snacks; limited availability."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Taliparamba Hotels",
+            "type": "Mid-range",
+            "distance_km": 13,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Pazhayangadi Homestays",
+            "type": "Budget Homestay",
+            "distance_km": 5,
+            "price_range": "₹₹",
+            "amenities": [
+                "Local meals",
+                "WiFi"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Paithalmala",
+            "approx_distance_km": 30
+        },
+        {
+            "name": "Parassinikadavu Muthappan Temple",
+            "approx_distance_km": 27
+        },
+        {
+            "name": "Dharmadom Island",
+            "approx_distance_km": 38
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "hill",
+            "nature",
+            "flowers",
+            "grasslands",
+            "photography",
+            "biodiversity"
+        ],
+        "recommended_itineraries": [
+            "Madayipara nature walk → Flower viewing → Lunch in Pazhayangadi",
+            "Sunset at Madayipara → Evening at nearby backwater village"
+        ],
+        "alerts_suggestions": [
+            "No shops on hill — show alert for carrying water.",
+            "Flower blooms depend on rainfall — seasonal notification recommended.",
+            "Hill gets slippery during heavy rain."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Flower bloom and weather vary seasonally."
+    }
+}

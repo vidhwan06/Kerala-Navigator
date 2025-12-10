@@ -1,0 +1,183 @@
+{
+    "id": "kollam_palaruvi_waterfalls",
+    "name": "Palaruvi Waterfalls",
+    "category": "Waterfall / Nature / Trekking",
+    "city": "Aryankavu",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Palaruvi Waterfalls, Aryankavu, Kollam District, Kerala, India",
+        "latitude": 8.966600,
+        "longitude": 77.161900,
+        "landmarks_nearby": [
+            "Aryankavu Checkpost",
+            "Kadamanpara Waterfalls Viewpoint",
+            "Ayyappa Temple, Aryankavu"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fpalaruvi_waterfalls%2F1.jpg",
+            "caption": "View of cascading Palaruvi Waterfalls"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fpalaruvi_waterfalls%2F2.jpg",
+            "caption": "Visitor area and natural pools at Palaruvi"
+        }
+    ],
+    "history": {
+        "short_description": "A 300-foot tall waterfall nestled in dense forest, known for its milky-white cascade and serene natural surroundings.",
+        "detailed": "Palaruvi, meaning ‘stream of milk’, is one of Kerala’s most iconic waterfalls. Historically part of ancient trade routes, the waterfall flows down through lush forest and forms natural pools. The environment is rich in herbal plants, and locals believe the waters possess medicinal properties."
+    },
+    "significance": {
+        "heritage": "Culturally important natural attraction along ancient trade routes.",
+        "tourism": "One of the highest and most scenic waterfalls in Kerala.",
+        "culture": "Believed to have Ayurvedic qualities."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Hours",
+                "start_time": "08:00",
+                "end_time": "16:00",
+                "note": "Subject to weather conditions"
+            }
+        ],
+        "activities": [
+            "Viewing waterfall",
+            "Short forest trekking",
+            "Photography",
+            "Relaxing near pools",
+            "Bird watching"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry",
+            "warnings": [
+                "Swimming restricted during strong currents",
+                "Slippery rocks",
+                "Avoid during heavy rain"
+            ]
+        },
+        "recommended_visit_duration_minutes": 90,
+        "best_time_to_visit": [
+            "June to January",
+            "Post-monsoon"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Refreshing natural beauty",
+            "Cool climate",
+            "Great photography spot"
+        ],
+        "common_complaints": [
+            "Crowded on weekends",
+            "Limited food nearby",
+            "Restricted access in monsoon"
+        ],
+        "tips_from_visitors": [
+            "Wear grip shoes.",
+            "Carry snacks and water.",
+            "Visit early morning."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 86,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aryankavu Railway Station",
+            "approx_distance_km": 6,
+            "travel_options": [
+                "Taxi",
+                "Auto"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Aryankavu",
+            "approx_distance_km": 5,
+            "description": "Good road connectivity via Kollam–Tenkasi route.",
+            "parking_info": "Forest department parking available."
+        },
+        "local_transport_tips": [
+            "Taxi/auto required from Aryankavu.",
+            "Forest jeeps may operate."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Forest Department Snack Stall",
+            "type": "Quick Bites",
+            "distance_km": 0.1,
+            "price_range": "₹",
+            "special_notes": "Basic snacks."
+        },
+        {
+            "name": "Aryankavu Hotel",
+            "type": "Kerala Meals",
+            "distance_km": 5,
+            "price_range": "₹₹",
+            "special_notes": "Good for lunch."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Thenmala Ecotourism Cottages",
+            "type": "Nature Stay",
+            "distance_km": 25,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Forest views",
+                "Eco-stay"
+            ]
+        },
+        {
+            "name": "KTDC Tamarind, Kollam",
+            "type": "Budget",
+            "distance_km": 35,
+            "price_range": "₹₹",
+            "amenities": [
+                "Parking",
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Thenmala Eco-Tourism",
+            "approx_distance_km": 25
+        },
+        {
+            "name": "Aryankavu Ayyappa Temple",
+            "approx_distance_km": 6
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "waterfall",
+            "nature",
+            "trekking",
+            "forest"
+        ],
+        "recommended_itineraries": [
+            "Morning Waterfall → Aryankavu Temple → Lunch",
+            "Palaruvi → Thenmala Ecotourism"
+        ],
+        "alerts_suggestions": [
+            "Check access during rain.",
+            "Slippery paths warning."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

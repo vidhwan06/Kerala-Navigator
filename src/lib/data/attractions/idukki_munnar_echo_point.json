@@ -1,0 +1,175 @@
+{
+    "id": "idukki_munnar_echo_point",
+    "name": "Echo Point",
+    "category": "Lake / Picnic Spot",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Echo Point, Munnar-Top Station Highway, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Mattupetty Dam",
+            "Kundala Lake"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fecho_point%2F1.jpg",
+            "caption": "Scenic view of Echo Point lake"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fecho_point%2F2.jpg",
+            "caption": "Visitors by the lake at Echo Point"
+        }
+    ],
+    "history": {
+        "short_description": "Named due to the natural echo phenomenon created by surrounding mountains.",
+        "detailed": "A favorite picnic spot since British times, known for its natural echo phenomenon where sounds reverberate off the surrounding hills. The area is surrounded by lush green hills and eucalyptus forests."
+    },
+    "significance": {
+        "heritage": "British-era picnic spot.",
+        "tourism": "Scenic valley view with a natural echo, eucalyptus forest surroundings and lake edge walks.",
+        "culture": "Popular stopover."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "06:00",
+                "end_time": "18:00"
+            }
+        ],
+        "activities": [
+            "Echo shouting",
+            "Boating",
+            "Nature photography",
+            "Tea shop visits",
+            "Shopping for spices"
+        ],
+        "entry_rules": {
+            "entry_fee": "₹20 (approx)",
+            "warnings": [
+                "Can get crowded",
+                "Be careful near water edge"
+            ]
+        },
+        "recommended_visit_duration_minutes": 45,
+        "best_time_to_visit": [
+            "Early morning",
+            "Late afternoon"
+        ],
+        "average_crowd_level": "High on weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.3,
+        "highlights": [
+            "Fun echo experience",
+            "Beautiful lake view",
+            "Good shopping stalls"
+        ],
+        "common_complaints": [
+            "Crowded",
+            "Parking issues"
+        ],
+        "tips_from_visitors": [
+            "Avoid peak noon sun.",
+            "Try fresh carrots and corn sold nearby.",
+            "Bargain at stalls."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 125,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 125,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 15,
+            "description": "Located on the way to Top Station.",
+            "parking_info": "Roadside parking available."
+        },
+        "local_transport_tips": [
+            "Stop here while going to Top Station.",
+            "Taxis/Autos available."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Echo Point Food Court",
+            "type": "Food Court",
+            "distance_km": 0.1,
+            "price_range": "₹₹",
+            "special_notes": "Variety of options."
+        },
+        {
+            "name": "Tea Shops",
+            "type": "Stalls",
+            "distance_km": 0,
+            "price_range": "₹",
+            "special_notes": "Local snacks."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Blackberry Hills Retreat",
+            "type": "Resort",
+            "distance_km": 10,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Nature view"
+            ]
+        },
+        {
+            "name": "Mountain Club Resort",
+            "type": "Resort",
+            "distance_km": 15,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Luxury"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Mattupetty Dam",
+            "approx_distance_km": 5
+        },
+        {
+            "name": "Kundala Lake",
+            "approx_distance_km": 5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "lake",
+            "echo",
+            "picnic",
+            "family"
+        ],
+        "recommended_itineraries": [
+            "Mattupetty → Echo Point → Kundala",
+            "Quick stop for photos"
+        ],
+        "alerts_suggestions": [
+            "Crowded on holidays.",
+            "Keep belongings safe."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

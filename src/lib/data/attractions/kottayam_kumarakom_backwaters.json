@@ -1,0 +1,210 @@
+{
+    "id": "kottayam_kumarakom_backwaters",
+    "name": "Kumarakom Backwaters",
+    "category": "Backwaters / Boating / Village Tourism",
+    "city": "Kumarakom",
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Kumarakom Backwater Village, Kottayam District, Kerala",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Kumarakom Bird Sanctuary",
+            "Pathiramanal Island",
+            "Kottayam Town"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fkumarakom_backwaters%2F1.jpg",
+            "caption": "Houseboat cruising through Kumarakom backwaters"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fkumarakom_backwaters%2F2.jpg",
+            "caption": "Sunset over Vembanad Lake"
+        }
+    ],
+    "history": {
+        "short_description": "A serene backwater village on the banks of Vembanad Lake, known for houseboat cruises and luxury lakeside resorts.",
+        "detailed": "Kumarakom was originally a small agricultural and fishing settlement around the Vembanad Lake basin. During the 19th century, Henry Baker transformed large portions of the land into coconut and rubber plantations. In the 1990s, it was recognized as a model responsible tourism destination, now attracting travelers worldwide for houseboats and Ayurveda."
+    },
+    "significance": {
+        "ecosystem": "Represents Kerala’s authentic backwater ecosystem with tropical canals, paddy fields, and fishing villages.",
+        "tourism": "One of India’s best-known honeymoon and slow-travel destinations.",
+        "culture": "Rich in village experiences like coir making, fishing, and toddy tapping."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Houseboat Check-in/Out",
+                "start_time": "12:00",
+                "end_time": "09:00",
+                "note": "Standard houseboat schedule (Check-in 12 PM, Check-out 9 AM next day)"
+            }
+        ],
+        "activities": [
+            "Houseboat day cruise or overnight stay",
+            "Shikkara ride",
+            "Sunset cruise on Vembanad Lake",
+            "Village life experience",
+            "Ayurvedic spa therapies"
+        ],
+        "entry_rules": {
+            "entry_fee": "No entry fee for backwater area; boat charges apply",
+            "warnings": [
+                "Wear life jackets during boat rides",
+                "Mosquito protection recommended after 6 PM",
+                "Do not swim in deep lake areas"
+            ]
+        },
+        "recommended_visit_duration_minutes": 240,
+        "best_time_to_visit": [
+            "November–March (cool climate)",
+            "Sunset cruises (4 PM–6 PM)",
+            "Early morning for village canal rides"
+        ],
+        "average_crowd_level": "High during peak season"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Calm and peaceful backwater experience",
+            "Perfect sunset views",
+            "Beautiful houseboat ride"
+        ],
+        "common_complaints": [
+            "Peak season rates are high",
+            "Mosquitoes near lake after sunset",
+            "Weather may restrict boating"
+        ],
+        "tips_from_visitors": [
+            "Book houseboats in advance.",
+            "Carry mosquito repellent.",
+            "Sunset cruises are a must-do."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport (COK)",
+            "approx_distance_km": 75,
+            "travel_options": [
+                "Taxi",
+                "Pre-paid cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottayam Railway Station",
+            "approx_distance_km": 14,
+            "travel_options": [
+                "Taxi",
+                "Auto",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kottayam",
+            "approx_distance_km": 14,
+            "description": "Kottayam → Ettumanoor → Kumarakom or Alleppey → Muhamma → Kumarakom (via boat).",
+            "parking_info": "Parking available at resorts and boat jetties."
+        },
+        "local_transport_tips": [
+            "Many canals accessible only via boat.",
+            "Auto-rickshaws available for local travel."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Ettukettu Restaurant (Kumarakom Lake Resort)",
+            "type": "Kerala & Continental",
+            "distance_km": 0,
+            "price_range": "₹₹₹₹",
+            "special_notes": "Royal Kerala meals, seafood platters."
+        },
+        {
+            "name": "Lime Tree (Aveda Resort)",
+            "type": "Multi-cuisine",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "special_notes": "Lake-view dining."
+        },
+        {
+            "name": "Local Toddy Shops",
+            "type": "Traditional Kerala Food",
+            "distance_km": 2,
+            "price_range": "₹₹",
+            "special_notes": "Karimeen fry, duck roast, tapioca."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Kumarakom Lake Resort",
+            "type": "Luxury Resort",
+            "distance_km": 0,
+            "price_range": "₹₹₹₹₹",
+            "amenities": [
+                "Infinity Pool",
+                "Ayurveda Spa",
+                "Backwater Cottages"
+            ]
+        },
+        {
+            "name": "Taj Kumarakom Resort & Spa",
+            "type": "Luxury Heritage",
+            "distance_km": 1,
+            "price_range": "₹₹₹₹₹",
+            "amenities": [
+                "Pool",
+                "Heritage Rooms",
+                "Ayurveda"
+            ]
+        },
+        {
+            "name": "Backwater Ripples Resort",
+            "type": "Mid-range",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Cottages",
+                "Boating",
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Kumarakom Bird Sanctuary",
+            "approx_distance_km": 3
+        },
+        {
+            "name": "Pathiramanal Island",
+            "approx_distance_km": 5
+        },
+        {
+            "name": "Kottayam Town",
+            "approx_distance_km": 14
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "HouseboatExperience",
+            "BackwaterCruise",
+            "LuxuryResorts",
+            "VillageTourism",
+            "SunsetCruise"
+        ],
+        "recommended_itineraries": [
+            "Morning village walk → Afternoon houseboat cruise → Sunset on lake",
+            "Overnight houseboat stay → Morning bird sanctuary visit"
+        ],
+        "alerts_suggestions": [
+            "Mosquito protection recommended.",
+            "Check weather before boating."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Houseboat rates vary by season."
+    }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "kannur_st_angelos_fort",
+  "name": "St. Angelo's Fort (Kannur Fort)",
+  "category": "Fort / Heritage Monument / Historical Site",
+  "city": "Kannur",
+  "district": "Kannur",
+  "state": "Kerala",
+  "country": "India",
+  "location": {
+    "address": "St. Angelo's Fort, Burnassery, Kannur, Kerala, India",
+    "latitude": null,
+    "longitude": null,
+    "landmarks_nearby": ["Kannur Lighthouse", "Payyambalam Beach", "Government Hospital, Burnassery"]
+  },
+  "images": [
+    {"url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fst_angelos_fort%2F1.jpg", "caption": "St. Angelo's Fort exterior walls near the sea"},
+    {"url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fst_angelos_fort%2F2.jpg", "caption": "Inside the fort overlooking the Arabian Sea"}
+  ],
+  "history": {
+    "short_description": "A 16th-century Portuguese fort built in 1505, later controlled by the Dutch and British, offering scenic sea views and historical architecture.",
+    "detailed": "St. Angelo's Fort, also known as Kannur Fort, was constructed in 1505 by Dom Francisco de Almeida, the first Portuguese Viceroy of India. Due to its strategic coastal location, the fort played a major role in colonial military history. It was captured by the Dutch in 1663, who renovated the fortifications and added massive bastions. In the late 18th century, the fort came under British control. The fort features triangular bastions, thick laterite walls, secret tunnels, old barracks, and a panoramic view of the Arabian Sea. Today, it is maintained by the Archaeological Survey of India and stands as one of Kerala's most significant heritage forts."
+  },
+  "significance": {
+    "heritage": "One of the most important Portuguese-era forts in India.",
+    "architecture": "Features triangular bastions, watchtowers, and extensive laterite structures.",
+    "tourism": "A major Kannur attraction with seafront walkways, photo spots, and historic views."
+  },
+  "visitor_info": {
+    "timings": [{"session": "General Visiting Hours", "start_time": "08:00", "end_time": "18:00", "note": "Open all days; entry closes before sunset."}],
+    "activities": ["Exploring fort interiors", "Coastal viewpoint walk", "Photography", "Learning colonial history", "Watching waves crash against the fort walls"],
+    "entry_rules": {
+      "entry_fee": "?20 (approx.)",
+      "camera_fee": "Usually free for mobile; DSLR charges may apply on some days",
+      "warnings": ["Steep edges near sea-facing walls—keep distance", "Do not climb restricted areas", "Slippery floors during monsoon"]
+    },
+    "recommended_visit_duration_minutes": 90,
+    "best_time_to_visit": ["November to February", "Late afternoon for sunsets"],
+    "average_crowd_level": "Moderate"
+  },
+  "reviews_summary": {
+    "overall_rating_out_of_5": 4.6,
+    "highlights": ["Beautiful sea-facing fort", "Historic architecture", "Great photography spots"],
+    "common_complaints": ["Very sunny during noon", "Limited shaded areas", "Parking can get crowded"],
+    "tips_from_visitors": ["Visit after 4 PM for best lighting and breeze.", "Carry water—fort area is large to walk.", "Check out the cannons and viewpoint walls."]
+  },
+  "transport": {
+    "nearest_airport": {"name": "Kannur International Airport", "approx_distance_km": 27, "travel_options": ["Taxi", "Auto-rickshaw from Kannur city"]},
+    "nearest_railway_station": {"name": "Kannur Railway Station", "approx_distance_km": 3, "travel_options": ["Auto", "Taxi", "Local bus"]},
+    "by_road": {"nearest_bus_stand": "Kannur Bus Stand", "approx_distance_km": 3, "description": "Frequent buses connect Kannur city and Burnassery.", "parking_info": "Dedicated parking space available near fort entrance."},
+    "local_transport_tips": ["Autos are the easiest option from Kannur town.", "Road to the fort is narrow—avoid peak hours."]
+  },
+  "nearby_food_places": [
+    {"name": "Raandhal Restaurant", "type": "Seafood / Kerala Cuisine", "distance_km": 1.8, "price_range": "???", "special_notes": "Excellent fish curry meals and seafood dishes."},
+    {"name": "Pepperpot Restaurant", "type": "Multi Cuisine", "distance_km": 2.0, "price_range": "??", "special_notes": "Popular for biriyani and continental dishes."},
+    {"name": "Local Tea & Snacks Stalls", "type": "Snacks & Tea", "distance_km": 0.3, "price_range": "?", "special_notes": "Quick tea, snacks, and local refreshments."}
+  ],
+  "nearby_accommodations": [
+    {"name": "Hotel Blue Nile", "type": "Mid-range", "distance_km": 2.5, "price_range": "???", "amenities": ["Restaurant", "Parking", "AC Rooms"]},
+    {"name": "Mascot Beach Resort", "type": "Beachside Resort", "distance_km": 1.2, "price_range": "???", "amenities": ["Sea-view rooms", "Pool", "Restaurant"]},
+    {"name": "Budget Lodges (Kannur Town)", "type": "Budget", "distance_km": 3, "price_range": "??", "amenities": ["Basic rooms", "WiFi"]}
+  ],
+  "nearby_attractions": [
+    {"name": "Kannur Lighthouse", "approx_distance_km": 1.5},
+    {"name": "Payyambalam Beach", "approx_distance_km": 2.0},
+    {"name": "Arakkal Museum", "approx_distance_km": 2.2}
+  ],
+  "app_specific": {
+    "tags": ["fort", "heritage", "colonial", "history", "sea-view"],
+    "recommended_itineraries": ["St. Angelo's Fort  Kannur Lighthouse  Payyambalam Beach", "Morning fort visit  Lunch  Arakkal Museum  Evening beach walk"],
+    "alerts_suggestions": ["Fort may close early during monsoon due to strong waves.", "Some zones are slippery—display safety alert.", "Best to visit before sunset to cover entire fort."]
+  },
+  "meta": {"last_updated": "2025-11-21", "data_note": "Timings and fees may change depending on Archaeological Survey of India updates."}
+}

@@ -1,0 +1,222 @@
+{
+    "id":  "alleppey_ambalappuzha_sree_krishna_temple",
+    "name":  "Ambalappuzha Sree Krishna Temple",
+    "category":  "Temple / Heritage Site",
+    "city":  "Ambalappuzha",
+    "district":  "Alappuzha",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Ambalappuzha, Alappuzha district, Kerala, India",
+                     "latitude":  9.3828,
+                     "longitude":  76.3683,
+                     "landmarks_nearby":  [
+                                              "Alappuzha Backwaters",
+                                              "Ambalappuzha Palpayasam Prasadam Distribution Counter"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-ambalappuzha-temple",
+                   "attraction-ambalappuzha-temple-2",
+                   "attraction-ambalappuzha-temple-3",
+                   "attraction-ambalappuzha-temple-4",
+                   "attraction-ambalappuzha-temple-5"
+               ],
+    "history":  {
+                    "short_description":  "Historic Krishna temple in Kerala built during the 15th-17th century, famed for its Pal Payasam offering.",
+                    "detailed":  "The Ambalappuzha Sree Krishna Swamy Temple was constructed by the Chembakasserry ruling dynasty in the 15th-17th century CE. It is dedicated to Lord Krishna in his Parthasarathi form (charioteer to Arjuna). According to legend, during Tipu Sultan’s raids in 1789, the idol of Guruvayur’s Krishna was brought here for safety. The famous Pal Payasam (milk-rice pudding) offering began as a pledge to serve daily until a royal debt could be repaid, and continues to this day."
+                },
+    "significance":  {
+                         "religious":  "Major Vaishnava temple in Kerala, one of the historic Krishna shrines.",
+                         "cultural":  "The daily Pal Payasam offering and temple traditions make it unique.",
+                         "heritage":  "Typical Kerala temple architecture with red-roofed sanctum and large temple tank."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Morning",
+                                             "start_time":  "04:00",
+                                             "end_time":  "12:30",
+                                             "note":  "Temple opens early in morning daily."
+                                         },
+                                         {
+                                             "session":  "Evening",
+                                             "start_time":  "17:00",
+                                             "end_time":  "20:00",
+                                             "note":  "Evening darshan session."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Darshan of Lord Krishna",
+                                            "Receiving Pal Payasam prasadam",
+                                            "Photography outside sanctum",
+                                            "Attending evening aarti"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "No general entry fee; special rituals may have charges.",
+                                             "dress_code":  "Traditional dress for men and women recommended.",
+                                             "warnings":  [
+                                                              "Inner sanctum may restrict photography.",
+                                                              "Visit early for Pal Payasam as queues build."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  60,
+                         "best_time_to_visit":  [
+                                                    "Morning session for less crowd.",
+                                                    "Festival time (March-April) for special events."
+                                                ],
+                         "average_crowd_level":  "Moderate to high during festivals and weekends"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.6,
+                            "highlights":  [
+                                               "Famous Pal Payasam",
+                                               "Quiet temple with strong spiritual ambience",
+                                               "Beautiful temple tank and architecture"
+                                           ],
+                            "common_complaints":  [
+                                                      "Long queue for Payasam on busy days",
+                                                      "Inner sanctum crowded during peak hours"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Visit early morning to avoid the crowds.",
+                                                       "Join the queue for Payasam soon after darshan.",
+                                                       "Respect dress code and photography rules."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Cochin International Airport",
+                                              "approx_distance_km":  90,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Bus to Alappuzha"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Alappuzha Railway Station",
+                                                      "approx_distance_km":  14,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Ambalappuzha"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Ambalappuzha Bus Stop",
+                                      "description":  "Frequent buses from Alappuzha town and other parts of Kerala.",
+                                      "parking_info":  "Parking available near temple premises."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Auto-rickshaws and taxis available from Alappuzha town (~14 km).",
+                                                   "Combine this visit with nearby backwater boat rides."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Temple Food Prasadam Counter",
+                                   "type":  "Temple Prasadam",
+                                   "distance_km":  0.0,
+                                   "price_range":  "₹",
+                                   "specialties":  [
+                                                       "Pal Payasam"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Local Vegetarian Restaurant Ambalappuzha",
+                                   "type":  "Veg Meals",
+                                   "cuisine":  [
+                                                   "Kerala Thali",
+                                                   "Dosa"
+                                               ],
+                                   "distance_km":  0.3,
+                                   "price_range":  "₹₹",
+                                   "specialties":  [
+                                                       "Kerala Thali",
+                                                       "Dosa"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Sea-side Restaurant Ambalappuzha coast",
+                                   "type":  "Multi Cuisine",
+                                   "cuisine":  [
+                                                   "Seafood (non-veg)",
+                                                   "Kerala Meals"
+                                               ],
+                                   "distance_km":  2.0,
+                                   "price_range":  "₹₹₹",
+                                   "specialties":  [
+                                                       "Seafood (non-veg)",
+                                                       "Kerala Meals"
+                                                   ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Backwater Resort Ambalappuzha",
+                                      "type":  "Resort",
+                                      "distance_km":  1.5,
+                                      "price_range":  "₹₹₹₹",
+                                      "amenities":  [
+                                                        "Backwater view",
+                                                        "Restaurant",
+                                                        "Pool"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Mid-Range Hotel Ambalappuzha",
+                                      "type":  "Hotel",
+                                      "distance_km":  2.0,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "AC Rooms",
+                                                        "Parking"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Homestay Near Temple",
+                                      "type":  "Budget",
+                                      "distance_km":  0.5,
+                                      "price_range":  "₹₹",
+                                      "amenities":  [
+                                                        "Local feel",
+                                                        "Home-cooked food"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Alappuzha Backwaters \u0026 Houseboat Cruises",
+                                   "approx_distance_km":  14
+                               },
+                               {
+                                   "name":  "Alappuzha Beach",
+                                   "approx_distance_km":  16
+                               },
+                               {
+                                   "name":  "Krishnapuram Palace",
+                                   "approx_distance_km":  20
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "temple",
+                                      "Krishna",
+                                      "pilgrimage",
+                                      "heritage",
+                                      "prasadam"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Morning darshan → Pal Payasam → Backwater boat ride in the afternoon",
+                                                         "Temple visit early morning → Walk around temple tank → Lunch at vegetarian restaurant"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Pal Payasam queues can get long — arrive early.",
+                                                    "Check dress code and footwear rules.",
+                                                    "Avoid peak festival crowd if you prefer quieter visit."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Timings and prasadam availability may vary during festivals."
+             }
+}

@@ -1,0 +1,106 @@
+{
+    "id":  "trivandrum_kanakakunnu_palace",
+    "name":  "Kanakakunnu Palace",
+    "category":  "Heritage Palace",
+    "city":  "Thiruvananthapuram",
+    "district":  "Trivandrum",
+    "location":  {
+                     "address":  "Near Museum Complex, Trivandrum, Kerala",
+                     "latitude":  8.5085,
+                     "longitude":  76.9572
+                 },
+    "images":  [
+                   "attraction-kanakakunnu-palace",
+                   "attraction-kanakakunnu-palace-2",
+                   "attraction-kanakakunnu-palace-3",
+                   "attraction-kanakakunnu-palace-4",
+                   "attraction-kanakakunnu-palace-5"
+               ],
+    "history":  {
+                    "short_description":  "A royal palace built by the Travancore kings, now a premier cultural venue.",
+                    "detailed":  "Kanakakunnu Palace was built under the reign of the Travancore King Sree Moolam Thirunal and was later modified by Sree Chithira Thirunal to host royal banquets and entertain guests. Today, it stands as a significant cultural heritage site and is a prime venue in the city for major art exhibitions, cultural festivals, and entertainment events."
+                },
+    "significance":  {
+                         "cultural":  "Hosts numerous art festivals, concerts, and exhibitions, making it a hub of cultural activity in Trivandrum.",
+                         "heritage":  "Represents the architectural style of the Travancore era and is a symbol of the city\u0027s royal past."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General",
+                                             "start_time":  "10:00",
+                                             "end_time":  "17:00",
+                                             "note":  "Timings might change during events."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Attending cultural events",
+                                            "Photography",
+                                            "Walking in the palace grounds"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "Free to visit grounds; charges apply for events."
+                                         },
+                         "recommended_visit_duration_minutes":  45,
+                         "best_time_to_visit":  [
+                                                    "During cultural festivals or in the evening"
+                                                ],
+                         "average_crowd_level":  "Low on normal days, high during events"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.4,
+                            "highlights":  [
+                                               "Beautiful architecture",
+                                               "Well-maintained gardens",
+                                               "Vibrant cultural events"
+                                           ],
+                            "common_complaints":  [
+                                                      "Access to the palace interior is often restricted."
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Check for any ongoing cultural events before visiting."
+                                                   ]
+                        },
+    "transport":  {
+                      "by_road":  {
+                                      "description":  "Located in the heart of the city, easily accessible by public transport, auto-rickshaws, and taxis."
+                                  }
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Indian Coffee House (Museum)",
+                                   "type":  "Veg",
+                                   "cuisine":  [
+                                                   "South Indian",
+                                                   "Snacks"
+                                               ],
+                                   "specialties":  [
+                                                       "Coffee",
+                                                       "Masala Dosa"
+                                                   ],
+                                   "distance_km":  0.3
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Mascot Hotel (KTDC)",
+                                      "type":  "4-Star Heritage Hotel",
+                                      "distance_km":  0.5,
+                                      "recommended_for":  [
+                                                              "Tourists",
+                                                              "Business travelers"
+                                                          ]
+                                  }
+                              ],
+    "app_specific":  {
+                         "tags":  [
+                                      "heritage",
+                                      "events",
+                                      "palace",
+                                      "architecture"
+                                  ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-23"
+             }
+}

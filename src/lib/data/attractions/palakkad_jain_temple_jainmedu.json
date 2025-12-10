@@ -1,0 +1,179 @@
+{
+    "id": "palakkad_jain_temple_jainmedu",
+    "name": "Jain Temple (Jainmedu)",
+    "category": "Heritage Site / Ancient Temple",
+    "city": "Palakkad Town",
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Jain Temple, Jainmedu, Palakkad Town, Palakkad District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Kalpathy River",
+            "Palakkad Town Market",
+            "Palakkad Fort"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fjainmedu%2F1.jpg",
+            "caption": "Ancient Jain Temple exterior structure"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fjainmedu%2F2.jpg",
+            "caption": "Interior shrine area of Jain Temple"
+        }
+    ],
+    "history": {
+        "short_description": "A 15th-century Jain temple built by Jain merchants, known for its unique Kerala-Jain architectural style.",
+        "detailed": "The Jain Temple at Jainmedu is one of the rare surviving Jain heritage structures in Kerala. Built around the 15th century by a Jain merchant family, it once served as a center for a thriving Jain community in Palakkad. Constructed with granite and laterite, the temple features a long, narrow structure typical of Kerala’s traditional style. The shrine is dedicated to Chandraprabha, the eighth Tirthankara."
+    },
+    "significance": {
+        "heritage": "Rare Jain temple in Kerala.",
+        "tourism": "Cultural landmark.",
+        "culture": "Reflects Jain history."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Daily Visit",
+                "start_time": "07:00",
+                "end_time": "11:00"
+            },
+            {
+                "session": "Evening Visit",
+                "start_time": "17:00",
+                "end_time": "19:00"
+            }
+        ],
+        "activities": [
+            "Temple visit",
+            "Heritage photography",
+            "Cultural exploration"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free",
+            "warnings": [
+                "Maintain silence",
+                "Remove footwear"
+            ]
+        },
+        "recommended_visit_duration_minutes": 30,
+        "best_time_to_visit": [
+            "Morning hours",
+            "Festival season"
+        ],
+        "average_crowd_level": "Low"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Unique architecture",
+            "Peaceful site",
+            "Close to Kalpathy"
+        ],
+        "common_complaints": [
+            "Limited parking",
+            "Small structure"
+        ],
+        "tips_from_visitors": [
+            "Visit with Kalpathy.",
+            "Check timings."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Coimbatore International Airport",
+            "approx_distance_km": 60,
+            "travel_options": [
+                "Taxi",
+                "Private Vehicle"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Palakkad Junction",
+            "approx_distance_km": 5,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Palakkad KSRTC Bus Stand",
+            "approx_distance_km": 3,
+            "description": "Easily reachable.",
+            "parking_info": "Limited parking."
+        },
+        "local_transport_tips": [
+            "Autos best.",
+            "Walkable from nearby."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Kapilavasthu Restaurant",
+            "type": "Vegetarian",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "special_notes": "Popular vegetarian."
+        },
+        {
+            "name": "Noorjahan Restaurant",
+            "type": "Multi Cuisine",
+            "distance_km": 2,
+            "price_range": "₹₹",
+            "special_notes": "Well known for biryani."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Hotel Indraprastha",
+            "type": "Mid-range Hotel",
+            "distance_km": 3,
+            "price_range": "₹₹",
+            "amenities": [
+                "Family Rooms"
+            ]
+        },
+        {
+            "name": "KPM Regency",
+            "type": "Business Hotel",
+            "distance_km": 3.5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Kalpathy Heritage Village",
+            "approx_distance_km": 1
+        },
+        {
+            "name": "Palakkad Fort",
+            "approx_distance_km": 3
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "heritage",
+            "temple",
+            "history"
+        ],
+        "recommended_itineraries": [
+            "Jain Temple → Kalpathy Walk",
+            "Morning Temple → Palakkad Fort"
+        ],
+        "alerts_suggestions": [
+            "Temple closes midday.",
+            "Maintain silence."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

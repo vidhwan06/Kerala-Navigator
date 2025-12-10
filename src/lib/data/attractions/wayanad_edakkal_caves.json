@@ -1,0 +1,208 @@
+{
+    "id":  "wayanad_edakkal_caves",
+    "name":  "Edakkal Caves",
+    "category":  "Historical Cave",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Edakkal, Ambalavayal, Wayanad, Kerala",
+                     "latitude":  null,
+                     "longitude":  null,
+                     "landmarks_nearby":  [
+                                              "Ambalavayal Heritage Museum",
+                                              "Cheengeri Hills",
+                                              "Karappuzha Dam"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-edakkal-caves",
+                   "attraction-edakkal-caves-2",
+                   "attraction-edakkal-caves-3",
+                   "attraction-edakkal-caves-4",
+                   "attraction-edakkal-caves-5"
+               ],
+    "history":  {
+                    "short_description":  "Prehistoric caves with engravings over 6,000–10,000 years old, discovered by Fred Fawcett in 1890.",
+                    "detailed":  "Edakkal Caves are natural rock shelters formed by the splitting of a massive boulder. The caves contain petroglyphs (rock engravings) believed to be 6,000–10,000 years old, dating back to the Stone Age. These carvings depict human figures, weapons, animals, symbols, and scripts, showcasing early human civilization in South India. The caves were discovered by British officer Fred Fawcett in 1890, who classified the area as a prehistoric human settlement. Edakkal is the only place in South India with such Stone Age carvings, making it an important archaeological site."
+                },
+    "significance":  {
+                         "historical":  "One of the oldest human settlement evidence sites in South India.",
+                         "cultural":  "Unique Stone Age rock engravings, rare in India.",
+                         "tourism":  "A top attraction in Wayanad, especially for trekking and archaeology enthusiasts."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Visiting Hours",
+                                             "start_time":  "08:00",
+                                             "end_time":  "16:00",
+                                             "note":  "Entry closes early due to trek timing."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Trekking to the caves",
+                                            "Viewing prehistoric carvings",
+                                            "Photography",
+                                            "Nature walk"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹50 (Indians), ₹70 (Foreigners)",
+                                             "vehicle_permit":  "First part accessible by jeep; trekking required later",
+                                             "warnings":  "Steep rock steps; not recommended for elderly without assistance."
+                                         },
+                         "recommended_visit_duration_minutes":  120,
+                         "best_time_to_visit":  [
+                                                    "Morning slots (less crowd \u0026 heat)",
+                                                    "October to March"
+                                                ],
+                         "average_crowd_level":  "High during weekends \u0026 holidays"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.7,
+                            "highlights":  [
+                                               "Amazing prehistoric carvings",
+                                               "Scenic trek with viewpoints",
+                                               "Good for archaeology lovers"
+                                           ],
+                            "common_complaints":  [
+                                                      "Steep climb",
+                                                      "Crowded on weekends"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Wear good shoes for the trek.",
+                                                       "Carry water — climbing has many steps.",
+                                                       "Go early to avoid crowd."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kannur International Airport",
+                                              "approx_distance_km":  95,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Car rental"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode (Calicut)",
+                                                      "approx_distance_km":  100,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "From Kalpetta, take a bus to Ambalavayal. The caves are a short auto ride from there.",
+                                      "parking_info":  "Parking available near jeep stand"
+                                  },
+                      "local_transport_tips":  [
+                                                   "Visitors must take a jeep halfway up; trek continues after the drop point.",
+                                                   "Avoid visiting during or after heavy rain."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Udupi Hotel Ambalavayal",
+                                   "type":  "Veg",
+                                   "cuisine":  [
+                                                   "South Indian"
+                                               ],
+                                   "specialties":  [
+                                                       "Meals",
+                                                       "Dosa"
+                                                   ],
+                                   "distance_km":  4
+                               },
+                               {
+                                   "name":  "Mint Flower Restaurant",
+                                   "type":  "Multi-cuisine",
+                                   "cuisine":  [
+                                                   "Kerala",
+                                                   "Biriyani"
+                                               ],
+                                   "specialties":  [
+                                                       "Kerala Meals",
+                                                       "Biriyani"
+                                                   ],
+                                   "distance_km":  7
+                               },
+                               {
+                                   "name":  "Tea Shops near Jeep Stand",
+                                   "type":  "Snacks",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks"
+                                               ],
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Snacks"
+                                                   ],
+                                   "distance_km":  0.2
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Edakkal Hermitage",
+                                      "type":  "Eco Resort",
+                                      "distance_km":  0.5,
+                                      "recommended_for":  [
+                                                              "Couples",
+                                                              "Nature lovers"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Mount Xanadu Resort",
+                                      "type":  "Premium",
+                                      "distance_km":  8,
+                                      "recommended_for":  [
+                                                              "Hill View lovers",
+                                                              "Adventure seekers"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Hotel Great Jubilee",
+                                      "type":  "Mid-range",
+                                      "distance_km":  9,
+                                      "recommended_for":  [
+                                                              "Families"
+                                                          ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Ambalavayal Heritage Museum",
+                                   "approx_distance_km":  3
+                               },
+                               {
+                                   "name":  "Karapuzha Dam",
+                                   "approx_distance_km":  14
+                               },
+                               {
+                                   "name":  "Cheengeri Hills",
+                                   "approx_distance_km":  5
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "history",
+                                      "prehistory",
+                                      "trekking",
+                                      "heritage"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Edakkal Caves → Ambalavayal Museum → Lunch in Ambalavayal",
+                                                         "Morning cave trek → Cheengeri Hills for sunset"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Entry stops early due to trek difficulty.",
+                                                    "Not recommended for elderly during peak heat.",
+                                                    "Avoid monsoon for safer trekking."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Entry rules and timings may change due to weather."
+             }
+}

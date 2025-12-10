@@ -1,0 +1,232 @@
+{
+    "id":  "wayanad_pookode_lake",
+    "name":  "Pookode Lake",
+    "category":  "Lake / Nature Park",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Pookode, Kalpetta–Vythiri Highway, Wayanad, Kerala, India",
+                     "latitude":  11.543,
+                     "longitude":  76.027,
+                     "landmarks_nearby":  [
+                                              "Vythiri",
+                                              "Wayanad Flower Garden",
+                                              "Lakkidi Viewpoint"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-pookode-lake",
+                   "attraction-pookode-lake-2",
+                   "attraction-pookode-lake-3",
+                   "attraction-pookode-lake-4",
+                   "attraction-pookode-lake-5"
+               ],
+    "history":  {
+                    "short_description":  "A natural freshwater lake surrounded by forests, known for its scenic paths and boating.",
+                    "detailed":  "Pookode Lake is one of Wayanad’s most visited natural attractions, situated at an altitude of around 770 meters above sea level. It is a freshwater lake shaped like the outline of India (an interesting natural formation). Surrounded by evergreen forests of the Western Ghats, the lake is managed by Kerala Tourism and the Forest Department. The area includes boating facilities, freshwater fish aquarium, a handicrafts store, and nature trails, making it a popular spot for families and nature lovers."
+                },
+    "significance":  {
+                         "nature":  "A natural freshwater lake surrounded by forested hills.",
+                         "tourism":  "Ideal for boating, photography, and nature walking.",
+                         "ecology":  "Home to blue lotus flowers, freshwater fish, and diverse birdlife."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Hours",
+                                             "start_time":  "09:00",
+                                             "end_time":  "17:00",
+                                             "note":  "Boating closes earlier during monsoon."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Pedal boating",
+                                            "Row boating",
+                                            "Nature walk",
+                                            "Children’s park",
+                                            "Fish aquarium visit",
+                                            "Photography"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹30 (adults), ₹15 (children)",
+                                             "boating_fee":  "₹100–₹250 depending on boat type",
+                                             "camera_fee":  "May apply for DSLR cameras",
+                                             "warnings":  "Plastic is strictly banned inside the area."
+                                         },
+                         "recommended_visit_duration_minutes":  90,
+                         "best_time_to_visit":  [
+                                                    "October to February",
+                                                    "Morning or late afternoon"
+                                                ],
+                         "average_crowd_level":  "Moderate to high (especially weekends)"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.5,
+                            "highlights":  [
+                                               "Great for boating and families",
+                                               "Very scenic forest surroundings",
+                                               "Well-maintained pathways"
+                                           ],
+                            "common_complaints":  [
+                                                      "Queue for boating during holidays",
+                                                      "Some areas become slippery during monsoon"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Best visited early morning for peaceful atmosphere.",
+                                                       "Carry cash for tickets and snacks.",
+                                                       "Avoid peak hours if you want a quick boating slot."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kozhikode (Calicut) International Airport",
+                                              "approx_distance_km":  76,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Car rental"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode Railway Station",
+                                                      "approx_distance_km":  72,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Vythiri/Kalpetta"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "Located along the Kalpetta–Vythiri highway with easy access.",
+                                      "parking_info":  "Dedicated parking area available at entrance."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Taxi/auto from Vythiri or Kalpetta is the easiest option.",
+                                                   "Public buses drop near the entrance, frequent on highway."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Lake View Food Court",
+                                   "type":  "Snacks \u0026 Tea",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks"
+                                               ],
+                                   "distance_km":  0.1,
+                                   "price_range":  "₹",
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Snacks",
+                                                       "Ice creams"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Wayanad Gateway Restaurant",
+                                   "type":  "Multi-Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala Meals",
+                                                   "Chinese"
+                                               ],
+                                   "distance_km":  1.5,
+                                   "price_range":  "₹₹",
+                                   "specialties":  [
+                                                       "Kerala Meals",
+                                                       "Chinese",
+                                                       "North Indian"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Vythiri Kitchen",
+                                   "type":  "Kerala Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala"
+                                               ],
+                                   "distance_km":  4,
+                                   "price_range":  "₹₹",
+                                   "specialties":  [
+                                                       "Fish Curry Meals",
+                                                       "Appam",
+                                                       "Biriyani"
+                                                   ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Vythiri Village Resort",
+                                      "type":  "Luxury",
+                                      "distance_km":  3,
+                                      "price_range":  "₹₹₹₹",
+                                      "recommended_for":  [
+                                                              "Luxury travelers"
+                                                          ],
+                                      "amenities":  [
+                                                        "Pool",
+                                                        "Spa",
+                                                        "Rope Activities"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Pookode Nest Resort",
+                                      "type":  "Mid-range",
+                                      "distance_km":  1,
+                                      "price_range":  "₹₹₹",
+                                      "recommended_for":  [
+                                                              "Couples",
+                                                              "Families"
+                                                          ],
+                                      "amenities":  [
+                                                        "Lake View Rooms",
+                                                        "Restaurant"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Vythiri Homestays",
+                                      "type":  "Budget",
+                                      "distance_km":  4,
+                                      "price_range":  "₹",
+                                      "recommended_for":  [
+                                                              "Budget travelers"
+                                                          ],
+                                      "amenities":  [
+                                                        "Homely food",
+                                                        "Parking"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Lakkidi View Point",
+                                   "approx_distance_km":  7
+                               },
+                               {
+                                   "name":  "Chain Tree",
+                                   "approx_distance_km":  8
+                               },
+                               {
+                                   "name":  "Wayanad Flower Garden",
+                                   "approx_distance_km":  1.5
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "lake",
+                                      "boating",
+                                      "family",
+                                      "nature"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Pookode Lake → Lakkidi View Point → Vythiri Resort",
+                                                         "Morning boating → Flower Garden → Lunch at Vythiri Kitchen"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Boating queue is long on weekends.",
+                                                    "Some walking paths become slippery during monsoon.",
+                                                    "Plastic bottles are not allowed."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Boating schedule may change during heavy rains."
+             }
+}

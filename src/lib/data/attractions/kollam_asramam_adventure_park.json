@@ -1,0 +1,182 @@
+{
+    "id": "kollam_asramam_adventure_park",
+    "name": "Asramam Adventure Park",
+    "category": "Urban Park / Recreation / Backwater Park",
+    "city": "Kollam",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Asramam Adventure Park, Asramam, Kollam, Kerala, India",
+        "latitude": 8.889700,
+        "longitude": 76.589900,
+        "landmarks_nearby": [
+            "Ashtamudi Lake",
+            "Kollam Boat Club",
+            "Asramam Mangrove Forest"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fasramam_adventure_park%2F1.jpg",
+            "caption": "Walkway inside Asramam Adventure Park"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fasramam_adventure_park%2F2.jpg",
+            "caption": "Boating area at Asramam along Ashtamudi Lake"
+        }
+    ],
+    "history": {
+        "short_description": "A major recreational park in Kollam located along the banks of Ashtamudi Lake, featuring boat rides, mangroves, walkways, and family-friendly attractions.",
+        "detailed": "Asramam Adventure Park is one of the largest and oldest urban parks in Kollam. Developed along the serene Ashtamudi Lake, the park has historically served as a recreational space. The nearby Asramam Mangrove Forest adds ecological importance. The park is a venue for Kollam’s annual tourism events."
+    },
+    "significance": {
+        "heritage": "Long-standing public park.",
+        "tourism": "Boating, lakeside relaxation, gardens.",
+        "culture": "Gathering spot for festivals."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Open",
+                "start_time": "06:00",
+                "end_time": "20:00",
+                "note": "Open daily"
+            }
+        ],
+        "activities": [
+            "Boating",
+            "Walking",
+            "Children’s play area",
+            "Birdwatching",
+            "Picnic"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free (Boating charges apply)",
+            "warnings": [
+                "Boating restricted in bad weather",
+                "Crowded evenings"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "Evening hours",
+            "November to February"
+        ],
+        "average_crowd_level": "High evenings/weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.3,
+        "highlights": [
+            "Good for boating",
+            "Family-friendly",
+            "Beautiful views"
+        ],
+        "common_complaints": [
+            "Limited parking",
+            "Maintenance issues",
+            "Crowded"
+        ],
+        "tips_from_visitors": [
+            "Visit at sunset.",
+            "Try boating.",
+            "Good for kids."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 70,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kollam Junction Railway Station",
+            "approx_distance_km": 2.2,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kollam",
+            "approx_distance_km": 2,
+            "description": "Easy access.",
+            "parking_info": "Parking available."
+        },
+        "local_transport_tips": [
+            "Autos convenient.",
+            "Park early."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Sree Suprabhatham",
+            "type": "Veg & Meals",
+            "distance_km": 1,
+            "price_range": "₹₹",
+            "special_notes": "Good vegetarian."
+        },
+        {
+            "name": "Central Cafe Kollam",
+            "type": "Snacks & Coffee",
+            "distance_km": 1.5,
+            "price_range": "₹₹",
+            "special_notes": "Popular for snacks."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "The Quilon Beach Hotel",
+            "type": "Luxury",
+            "distance_km": 3.5,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Sea view",
+                "Pool"
+            ]
+        },
+        {
+            "name": "Nani Hotel & Spa",
+            "type": "Mid-range",
+            "distance_km": 2.2,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Spa",
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Ashtamudi Lake",
+            "approx_distance_km": 0.3
+        },
+        {
+            "name": "Thevally Palace",
+            "approx_distance_km": 2.2
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "park",
+            "boating",
+            "lakeside",
+            "family"
+        ],
+        "recommended_itineraries": [
+            "Boating → Walk → Snacks",
+            "Adventure Park → Mangroves → Sunset"
+        ],
+        "alerts_suggestions": [
+            "Boating weather dependent.",
+            "Arrive early."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

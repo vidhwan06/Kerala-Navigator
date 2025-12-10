@@ -1,0 +1,166 @@
+{
+    "id": "idukki_munnar_anamudi_peak",
+    "name": "Anamudi Peak (Viewpoint)",
+    "category": "Mountain / Viewpoint",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Anamudi Peak, Eravikulam National Park, Munnar, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Eravikulam National Park",
+            "Rajamalai"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fanamudi%2F1.jpg",
+            "caption": "View of Anamudi Peak"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fanamudi%2F2.jpg",
+            "caption": "Mist covering Anamudi Peak"
+        }
+    ],
+    "history": {
+        "short_description": "The highest peak in South India, standing at 2695m.",
+        "detailed": "Historically a trekking hotspot but treks are now restricted for conservation. It is located within the Eravikulam National Park and is the pride of Kerala's Western Ghats."
+    },
+    "significance": {
+        "heritage": "Highest peak in South India.",
+        "tourism": "Visible from Rajamalai in Eravikulam National Park.",
+        "culture": "Rich in rare flora and fauna including Nilgiri Marten and mountain goats."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Park Hours",
+                "start_time": "08:00",
+                "end_time": "16:00"
+            }
+        ],
+        "activities": [
+            "Peak viewing",
+            "Photography",
+            "Wildlife spotting"
+        ],
+        "entry_rules": {
+            "entry_fee": "Included with Eravikulam Park entry",
+            "warnings": [
+                "No trekking allowed to summit",
+                "Respect wildlife"
+            ]
+        },
+        "recommended_visit_duration_minutes": 30,
+        "best_time_to_visit": [
+            "Winter mornings",
+            "December to April"
+        ],
+        "average_crowd_level": "High"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Majestic view",
+            "Highest point",
+            "Cool climate"
+        ],
+        "common_complaints": [
+            "Cannot trek to top",
+            "Fog often covers peak"
+        ],
+        "tips_from_visitors": [
+            "Best viewed from Eravikulam viewpoints.",
+            "Bring binoculars.",
+            "Visit early."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 110,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 110,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 15,
+            "description": "Inside Eravikulam National Park.",
+            "parking_info": "Park at Eravikulam base."
+        },
+        "local_transport_tips": [
+            "Access via Eravikulam Park bus.",
+            "No private vehicles."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Tea Tales Café",
+            "type": "Café",
+            "distance_km": 15,
+            "price_range": "₹₹",
+            "special_notes": "In Munnar."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Aranyaka Resorts",
+            "type": "Resort",
+            "distance_km": 12,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Nature"
+            ]
+        },
+        {
+            "name": "Forest Hill Munnar",
+            "type": "Resort",
+            "distance_km": 14,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Eco friendly"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Eravikulam National Park",
+            "approx_distance_km": 0
+        },
+        {
+            "name": "Lakkam Waterfalls",
+            "approx_distance_km": 10
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "mountain",
+            "viewpoint",
+            "nature",
+            "wildlife"
+        ],
+        "recommended_itineraries": [
+            "Eravikulam Park → Anamudi View",
+            "Morning nature trip"
+        ],
+        "alerts_suggestions": [
+            "Trekking prohibited.",
+            "Check park timings."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

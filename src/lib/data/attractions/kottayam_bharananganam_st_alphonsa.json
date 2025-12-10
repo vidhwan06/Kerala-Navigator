@@ -1,0 +1,181 @@
+{
+    "id": "kottayam_bharananganam_st_alphonsa",
+    "name": "St. Alphonsa Pilgrimage Centre, Bharananganam",
+    "category": "Pilgrimage / Catholic Heritage / Spiritual Tourism",
+    "city": "Bharananganam",
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "St. Alphonsa Shrine, Bharananganam, Kottayam District, Kerala",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Pala Town",
+            "Meenachil River"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fbharananganam_st_alphonsa%2F1.jpg",
+            "caption": "St. Alphonsa Shrine and Church"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fbharananganam_st_alphonsa%2F2.jpg",
+            "caption": "Pilgrims at the tomb of St. Alphonsa"
+        }
+    ],
+    "history": {
+        "short_description": "A major Christian pilgrimage centre housing the tomb of St. Alphonsa, India’s first Catholic woman saint.",
+        "detailed": "St. Alphonsa (1910–1946) lived a life of intense spiritual devotion here. Her tomb became a pilgrimage centre after her death, and she was canonized in 2008. The site includes a chapel, tomb, relics, museum, and convent."
+    },
+    "significance": {
+        "spirituality": "Tomb of India’s first woman saint, a place for prayer and healing.",
+        "history": "Important Catholic heritage site in Kerala."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "06:00",
+                "end_time": "20:00",
+                "note": "Open daily"
+            }
+        ],
+        "activities": [
+            "Visit tomb of St. Alphonsa",
+            "Prayer & meditation",
+            "Explore relic museum",
+            "Attend Holy Mass"
+        ],
+        "entry_rules": {
+            "entry_fee": "No entry fee",
+            "warnings": [
+                "Photography restricted inside tomb chapel",
+                "Modest dress required",
+                "Maintain silence"
+            ]
+        },
+        "recommended_visit_duration_minutes": 90,
+        "best_time_to_visit": [
+            "July (St. Alphonsa Feast)",
+            "Christmas / Easter",
+            "Morning hours"
+        ],
+        "average_crowd_level": "High during feast days"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.7,
+        "highlights": [
+            "Calm, prayerful atmosphere",
+            "Well-maintained shrine",
+            "Museum provides context"
+        ],
+        "common_complaints": [
+            "Crowded during feast",
+            "Limited parking near shrine on peak days",
+            "Photography restrictions"
+        ],
+        "tips_from_visitors": [
+            "Visit on weekdays for peace.",
+            "Dress modestly.",
+            "Visit the museum."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport (COK)",
+            "approx_distance_km": 75,
+            "travel_options": [
+                "Taxi",
+                "Cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottayam Railway Station",
+            "approx_distance_km": 30,
+            "travel_options": [
+                "Taxi",
+                "Bus to Pala/Bharananganam"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Pala",
+            "approx_distance_km": 4,
+            "description": "Kottayam → Ettumanoor → Pala → Bharananganam.",
+            "parking_info": "Parking available."
+        },
+        "local_transport_tips": [
+            "Frequent buses from Kottayam/Pala.",
+            "Autos available locally."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Viveka Hotel Pala",
+            "type": "Kerala Meals",
+            "distance_km": 4,
+            "price_range": "₹₹",
+            "special_notes": "Popular lunch spot."
+        },
+        {
+            "name": "Anugraha Family Restaurant",
+            "type": "Multi-cuisine",
+            "distance_km": 0.5,
+            "price_range": "₹₹",
+            "special_notes": "Budget meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Hotel Pulickal Pala",
+            "type": "Mid-range",
+            "distance_km": 4,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Restaurant",
+                "AC Rooms"
+            ]
+        },
+        {
+            "name": "St. Alphonsa Pilgrim Accommodation",
+            "type": "Spiritual Stay",
+            "distance_km": 0.2,
+            "price_range": "₹",
+            "amenities": [
+                "Basic Rooms",
+                "Pilgrim Facilities"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Pala Town",
+            "approx_distance_km": 4
+        },
+        {
+            "name": "Ilaveezhapoonchira",
+            "approx_distance_km": 20
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "AlphonsaShrine",
+            "CatholicPilgrimage",
+            "SpiritualTourism",
+            "MuseumAndRelics"
+        ],
+        "recommended_itineraries": [
+            "Morning prayer at shrine → Visit museum → Lunch at Pala",
+            "Attend Mass → Quiet time in chapel"
+        ],
+        "alerts_suggestions": [
+            "Crowd alert during July feast.",
+            "Silence required."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Feast days have special schedules."
+    }
+}

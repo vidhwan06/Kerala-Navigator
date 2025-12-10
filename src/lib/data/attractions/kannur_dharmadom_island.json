@@ -1,0 +1,209 @@
+{
+    "id": "kannur_dharmadom_island",
+    "name": "Dharmadom Island",
+    "category": "Island / Nature / Scenic Spot",
+    "city": "Dharmadom",
+    "district": "Kannur",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Dharmadom Island, Dharmadom Beach, Kannur District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Dharmadom Beach",
+            "Muzhappilangad Drive-in Beach",
+            "Thalassery Town"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fdharmadom_island%2F1.jpg",
+            "caption": "Dharmadom Island surrounded by shallow waters"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkannur%2Fdharmadom_island%2F2.jpg",
+            "caption": "View of Dharmadom Island from Dharmadom Beach"
+        }
+    ],
+    "history": {
+        "short_description": "A small, lush green island near Dharmadom Beach, accessible on foot during low tide and known for its serene natural beauty.",
+        "detailed": "Dharmadom Island, also known as 'Green Island', is a privately-owned island located 100 meters off Dharmadom Beach. Historically, the region was used as a meditation and retreat area due to its isolation and calm surroundings. Over the years, the island became a popular eco-tourism spot, famous for its rocky shores, dense coconut groves, and shallow waters. During low tide, visitors can walk through the exposed seabed to reach the island — a unique experience that draws tourists and photographers."
+    },
+    "significance": {
+        "scenic": "One of Kerala's most picturesque mini-islands with greenery and sea views.",
+        "tourism": "Popular for walks, photography, and peaceful nature experiences.",
+        "nature": "Rich in coastal vegetation and marine life along the shallow tidal zone.",
+        "uniqueness": "Can be reached by walking during low tide — rare natural phenomenon."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General Visiting Hours",
+                "start_time": "06:00",
+                "end_time": "18:00",
+                "note": "Best visited during low tide — check tide timings."
+            }
+        ],
+        "activities": [
+            "Walking to the island during low tide",
+            "Photography",
+            "Beach exploration",
+            "Picnic",
+            "Watching waves along the rocks"
+        ],
+        "entry_rules": {
+            "entry_fee": "No entry fee",
+            "warnings": [
+                "Do NOT attempt crossing during high tide.",
+                "Slippery rocks — walk carefully.",
+                "Island is privately owned — stick to allowed public areas.",
+                "Avoid staying until tide rises."
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "October to February",
+            "Low tide timings (morning or evening)"
+        ],
+        "average_crowd_level": "Moderate on weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Unique walk-to-island experience",
+            "Peaceful nature spot",
+            "Great place for photos"
+        ],
+        "common_complaints": [
+            "Access depends on tide timing",
+            "No shops on island",
+            "Can be slippery near rocks"
+        ],
+        "tips_from_visitors": [
+            "Check tide schedule before visiting.",
+            "Wear sandals with grip for rock areas.",
+            "Carry water since there are no shops nearby."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Kannur International Airport",
+            "approx_distance_km": 30,
+            "travel_options": [
+                "Taxi",
+                "Cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Thalassery Railway Station",
+            "approx_distance_km": 5,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Dharmadom Bus Stop",
+            "approx_distance_km": 0.8,
+            "description": "Buses available from Thalassery and Kannur.",
+            "parking_info": "Parking available near Dharmadom Beach entrance."
+        },
+        "local_transport_tips": [
+            "Auto-rickshaws available from Thalassery.",
+            "Walkable from Dharmadom Beach."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Coastal Snacks Stalls",
+            "type": "Snacks & Tea",
+            "distance_km": 0.1,
+            "price_range": "₹",
+            "special_notes": "Quick snacks and drinks near the beach."
+        },
+        {
+            "name": "Paris Restaurant (Thalassery)",
+            "type": "Kerala Cuisine",
+            "distance_km": 5,
+            "price_range": "₹₹",
+            "special_notes": "Famous for Thalassery biriyani."
+        },
+        {
+            "name": "Sheen Bakery & Cafe",
+            "type": "Cafe & Bakery",
+            "distance_km": 5.2,
+            "price_range": "₹₹",
+            "special_notes": "Good for snacks and beverages."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Seaside Residency, Thalassery",
+            "type": "Mid-range",
+            "distance_km": 5,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Restaurant",
+                "Parking"
+            ]
+        },
+        {
+            "name": "Local Homestays (Dharmadom Beach area)",
+            "type": "Budget Homestay",
+            "distance_km": 1.5,
+            "price_range": "₹₹",
+            "amenities": [
+                "WiFi",
+                "Home-cooked meals"
+            ]
+        },
+        {
+            "name": "Muzhappilangad Beach Resort",
+            "type": "Beach Resort",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Sea-view cottages",
+                "Restaurant"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Muzhappilangad Drive-in Beach",
+            "approx_distance_km": 3
+        },
+        {
+            "name": "Thalassery Fort",
+            "approx_distance_km": 6
+        },
+        {
+            "name": "Kannur Lighthouse",
+            "approx_distance_km": 14
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "island",
+            "nature",
+            "beach",
+            "scenic",
+            "walkable-island"
+        ],
+        "recommended_itineraries": [
+            "Dharmadom Beach → Walk to Dharmadom Island → Muzhappilangad Beach drive",
+            "Island visit → Thalassery Fort → Lunch → Evening beach time"
+        ],
+        "alerts_suggestions": [
+            "Show tide alerts in app — access depends on low tide.",
+            "Indicate 'slippery zones' and safety warning.",
+            "Advise visitors not to stay until tide rises."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-21",
+        "data_note": "Island access subject to tidal conditions."
+    }
+}

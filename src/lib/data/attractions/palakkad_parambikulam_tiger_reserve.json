@@ -1,0 +1,197 @@
+{
+    "id": "palakkad_parambikulam_tiger_reserve",
+    "name": "Parambikulam Tiger Reserve",
+    "category": "Wildlife Sanctuary / Tiger Reserve",
+    "city": "Anamalai Range (nearest town: Pollachi)",
+    "district": "Palakkad",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Parambikulam Tiger Reserve, Anamalai Range, Palakkad District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Kannimara Teak Tree",
+            "Parambikulam Reservoir",
+            "Topslip Forest Area"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fparambikulam%2F1.jpg",
+            "caption": "Parambikulam Tiger Reserve – Forest landscape"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fpalakkad%2Fparambikulam%2F2.jpg",
+            "caption": "Safari view of wildlife in Parambikulam"
+        }
+    ],
+    "history": {
+        "short_description": "A protected tiger reserve known for pristine forests, tribal eco-tourism, and rich wildlife.",
+        "detailed": "Parambikulam Tiger Reserve, located in the Western Ghats, was originally declared a reserved forest in 1907. It hosts indigenous tribes such as the Kadar, Muduvar, and Malasar. In 1973, it became a wildlife sanctuary, and in 2010 it was included under Project Tiger as an official Tiger Reserve. The area is home to the world-famous 450-year-old Kannimara Teak Tree, one of the tallest teak trees on Earth."
+    },
+    "significance": {
+        "heritage": "Part of the UNESCO-recognized Western Ghats biodiversity hotspot.",
+        "tourism": "Offers wildlife safaris, bamboo rafting, trekking, and the famous Kannimara Teak Tree.",
+        "culture": "Promotes tribal-managed eco-tourism, supporting indigenous communities."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Daily Entry",
+                "start_time": "07:00",
+                "end_time": "16:00"
+            },
+            {
+                "session": "Morning Safari",
+                "start_time": "07:30",
+                "end_time": "11:00"
+            },
+            {
+                "session": "Evening Safari",
+                "start_time": "15:00",
+                "end_time": "17:00"
+            }
+        ],
+        "activities": [
+            "Jeep Safari",
+            "Bamboo Rafting",
+            "Trekking",
+            "Boating",
+            "Tribal Eco-Tourism Camps",
+            "Visit to Kannimara Teak Tree"
+        ],
+        "entry_rules": {
+            "entry_fee": "Paid entry",
+            "safari_fee": "Paid safari",
+            "warnings": [
+                "Wildlife viewing depends on forest conditions",
+                "Entry allowed only with forest permission",
+                "Mobile network coverage is limited"
+            ]
+        },
+        "recommended_visit_duration_minutes": 240,
+        "best_time_to_visit": [
+            "October to March",
+            "Early morning safaris"
+        ],
+        "average_crowd_level": "Low to Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Well-managed eco-tourism",
+            "High chance of spotting elephants and deer",
+            "Beautiful forest landscapes"
+        ],
+        "common_complaints": [
+            "Spotty mobile network",
+            "Some internal roads are rough"
+        ],
+        "tips_from_visitors": [
+            "Book safaris early.",
+            "Carry water and snacks.",
+            "Best to visit early morning."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Coimbatore International Airport",
+            "approx_distance_km": 95,
+            "travel_options": [
+                "Taxi",
+                "Private Vehicle"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Pollachi Railway Station",
+            "approx_distance_km": 39,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_bus_stand": "Anamalai / Sethumadai Bus Stations",
+            "approx_distance_km": 14,
+            "description": "Private vehicles are recommended.",
+            "parking_info": "Parking available at entry gates."
+        },
+        "local_transport_tips": [
+            "Forest department jeeps are mandatory for safaris.",
+            "Private vehicles allowed only up to certain checkpoints."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Eco-Shop Canteen",
+            "type": "Forest Canteen",
+            "distance_km": 0.5,
+            "price_range": "₹",
+            "special_notes": "Simple meals run by tribal communities."
+        },
+        {
+            "name": "Gowri Krishna Restaurant (Pollachi)",
+            "type": "Veg Restaurant",
+            "distance_km": 40,
+            "price_range": "₹₹",
+            "special_notes": "Popular stop for meals."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Honeycomb Complex",
+            "type": "Eco Lodge",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Forest View Rooms",
+                "Eco-Tour Packages"
+            ]
+        },
+        {
+            "name": "Treetop Hut",
+            "type": "Eco Stay (Treehouse)",
+            "distance_km": 2,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Unique Treehouse Stay",
+                "Guided Activities"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Kannimara Teak Tree",
+            "approx_distance_km": 5
+        },
+        {
+            "name": "Parambikulam Reservoir",
+            "approx_distance_km": 3
+        },
+        {
+            "name": "Topslip Forest (Tamil Nadu)",
+            "approx_distance_km": 18
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "wildlife",
+            "forest",
+            "safari",
+            "eco-tourism"
+        ],
+        "recommended_itineraries": [
+            "Morning Safari → Kannimara Teak Tree → Reservoir Boating",
+            "Full-Day Package: Safari + Bamboo Rafting"
+        ],
+        "alerts_suggestions": [
+            "Monsoon months may affect safari timings.",
+            "Book eco-tour packages in advance."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Fees and timings subject to changes."
+    }
+}

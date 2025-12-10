@@ -1,0 +1,182 @@
+{
+    "id": "kollam_kollam_beach",
+    "name": "Kollam Beach",
+    "category": "Beach / Coastal Attraction / Scenic Spot",
+    "city": "Kollam",
+    "district": "Kollam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Kollam Beach, Kollam, Kerala, India",
+        "latitude": 8.881600,
+        "longitude": 76.586500,
+        "landmarks_nearby": [
+            "Mahatma Gandhi Park",
+            "Thangassery Lighthouse",
+            "Kollam Port"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fkollam_beach%2F1.jpg",
+            "caption": "Sunset view at Kollam Beach"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fkollam_beach%2F2.jpg",
+            "caption": "Walkway and coastline at Kollam Beach"
+        }
+    ],
+    "history": {
+        "short_description": "A popular coastal beach in Kollam known for its scenic views, historic significance, and relaxed atmosphere.",
+        "detailed": "Kollam Beach, also known as Mahatma Gandhi Beach, is one of Kerala’s oldest seaside destinations. Historically, Kollam was an ancient port city. The beach area has been developed with walkways, parks, and seating areas, making it a popular urban leisure spot known for vibrant sunsets."
+    },
+    "significance": {
+        "heritage": "Part of Kollam’s ancient maritime history.",
+        "tourism": "Major sunset point and popular beach.",
+        "culture": "Reflects coastal traditions."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Open",
+                "start_time": "05:00",
+                "end_time": "20:00",
+                "note": "Open daily"
+            }
+        ],
+        "activities": [
+            "Sunset viewing",
+            "Beach walks",
+            "Photography",
+            "Children’s park",
+            "Local snacks"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free",
+            "warnings": [
+                "Swimming discouraged due to currents",
+                "Avoid isolated areas at night"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "November to February",
+            "Evening hours"
+        ],
+        "average_crowd_level": "High on weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.3,
+        "highlights": [
+            "Beautiful sunset",
+            "Nice walkway",
+            "Scenic coastline"
+        ],
+        "common_complaints": [
+            "Crowded weekends",
+            "Unsafe waves",
+            "Limited shade"
+        ],
+        "tips_from_visitors": [
+            "Visit around 5 PM.",
+            "Try local snacks.",
+            "Combine with Lighthouse."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 70,
+            "travel_options": [
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kollam Junction Railway Station",
+            "approx_distance_km": 2.8,
+            "travel_options": [
+                "Auto",
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kollam",
+            "approx_distance_km": 2.5,
+            "description": "Easily accessible.",
+            "parking_info": "Parking available."
+        },
+        "local_transport_tips": [
+            "Autos convenient.",
+            "Walkable from central areas."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Fathima Hotel",
+            "type": "Kerala Snacks",
+            "distance_km": 0.4,
+            "price_range": "₹",
+            "special_notes": "Fried snacks and tea."
+        },
+        {
+            "name": "The Riverside Restaurant",
+            "type": "Multi-Cuisine",
+            "distance_km": 3,
+            "price_range": "₹₹₹",
+            "special_notes": "Lake view."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "The Quilon Beach Hotel",
+            "type": "Luxury",
+            "distance_km": 0.6,
+            "price_range": "₹₹₹₹",
+            "amenities": [
+                "Sea-view rooms",
+                "Pool"
+            ]
+        },
+        {
+            "name": "Hotel Sea Palace",
+            "type": "Mid-range",
+            "distance_km": 1,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "AC rooms",
+                "Parking"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Thangassery Lighthouse",
+            "approx_distance_km": 3.2
+        },
+        {
+            "name": "Asramam Adventure Park",
+            "approx_distance_km": 3.5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "beach",
+            "sunset",
+            "coast",
+            "photography"
+        ],
+        "recommended_itineraries": [
+            "Beach Walk → Snacks → Sunset",
+            "Kollam Beach → Lighthouse"
+        ],
+        "alerts_suggestions": [
+            "Avoid swimming.",
+            "Heavy evening crowds."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}

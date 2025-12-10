@@ -1,0 +1,203 @@
+{
+    "id":  "wayanad_karapuzha_dam",
+    "name":  "Karapuzha Dam",
+    "category":  "Dam / Adventure Park / Lakefront",
+    "city":  "Wayanad",
+    "district":  "Wayanad",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Karapuzha, Kalpetta Region, Wayanad, Kerala, India",
+                     "latitude":  null,
+                     "longitude":  null,
+                     "landmarks_nearby":  [
+                                              "Karapuzha Adventure Park",
+                                              "Edakkal Caves",
+                                              "Ambalavayal"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-karapuzha-dam",
+                   "attraction-karapuzha-dam-2",
+                   "attraction-karapuzha-dam-3",
+                   "attraction-karapuzha-dam-4",
+                   "attraction-karapuzha-dam-5"
+               ],
+    "history":  {
+                    "short_description":  "One of the largest earth dams in India, built to support irrigation and now a major tourism hotspot.",
+                    "detailed":  "Karapuzha Dam was constructed as part of an irrigation project on the Karapuzha River, a tributary of the Kabini. Over the years, the surrounding areas were developed into full-scale tourism zones, including a large adventure park, skywalks, water activities, and landscaped gardens. Thanks to its scenic reservoir and activities, Karapuzha is now one of the fastest-growing tourist attractions in Wayanad."
+                },
+    "significance":  {
+                         "tourism":  "Known for scenic views, boating, zipline, skywalk, and family-friendly adventure activities.",
+                         "nature":  "Picturesque lake with surrounding greenery and birdlife.",
+                         "economic":  "Major irrigation project benefiting nearby villages."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Visiting Hours",
+                                             "start_time":  "09:00",
+                                             "end_time":  "18:00",
+                                             "note":  "Adventure activities may close earlier."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Pedal boating",
+                                            "Kayaking",
+                                            "Zipline",
+                                            "Skywalk",
+                                            "Cycling",
+                                            "Photography",
+                                            "Children’s play park",
+                                            "Garden viewpoints"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "₹30–₹50 per person (approx.)",
+                                             "warnings":  [
+                                                              "Activities may be suspended during rain.",
+                                                              "Follow instructions at adventure park."
+                                                          ]
+                                         },
+                         "recommended_visit_duration_minutes":  120,
+                         "best_time_to_visit":  [
+                                                    "October to March",
+                                                    "Evenings for best lake views"
+                                                ],
+                         "average_crowd_level":  "High during weekends and holidays"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.5,
+                            "highlights":  [
+                                               "Great adventure activities",
+                                               "Beautiful lake views",
+                                               "Family-friendly spot"
+                                           ],
+                            "common_complaints":  [
+                                                      "Some activities priced higher on peak days",
+                                                      "Crowded during weekends",
+                                                      "Entry queue at adventure park section"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Try zipline and skywalk for best experience.",
+                                                       "Evening is the best for photos.",
+                                                       "Carry water; area is sunny during daytime."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Kozhikode (Calicut) International Airport",
+                                              "approx_distance_km":  100,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Rental Car"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Kozhikode Railway Station",
+                                                      "approx_distance_km":  95,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus to Kalpetta"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "description":  "Well-connected by buses and taxis; roads in good condition.",
+                                      "parking_info":  "Large parking area available near the entrance."
+                                  }
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Karapuzha Lakeside Cafeteria",
+                                   "type":  "Snacks \u0026 Tea",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks",
+                                                   "Juices"
+                                               ],
+                                   "distance_km":  0.1,
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Snacks",
+                                                       "Juices"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Mint Flower Restaurant",
+                                   "type":  "Multi Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala Meals",
+                                                   "Chicken Curry"
+                                               ],
+                                   "distance_km":  5,
+                                   "specialties":  [
+                                                       "Kerala Meals",
+                                                       "Chicken Curry"
+                                                   ]
+                               },
+                               {
+                                   "name":  "Udupi Hotel Ambalavayal",
+                                   "type":  "Veg",
+                                   "cuisine":  [
+                                                   "Dosa",
+                                                   "Meals"
+                                               ],
+                                   "distance_km":  4,
+                                   "specialties":  [
+                                                       "Dosa",
+                                                       "Meals"
+                                                   ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Karapuzha Village Resort",
+                                      "type":  "Mid-range",
+                                      "distance_km":  2,
+                                      "recommended_for":  [
+                                                              "Lake View",
+                                                              "Restaurant",
+                                                              "Pool"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Edakkal Hermitage",
+                                      "type":  "Eco Resort",
+                                      "distance_km":  14,
+                                      "recommended_for":  [
+                                                              "Nature stay",
+                                                              "Restaurant"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Hotel Great Jubilee",
+                                      "type":  "Mid-range",
+                                      "distance_km":  7,
+                                      "recommended_for":  [
+                                                              "Restaurant",
+                                                              "Parking"
+                                                          ]
+                                  }
+                              ],
+    "app_specific":  {
+                         "tags":  [
+                                      "dam",
+                                      "adventure",
+                                      "boating",
+                                      "family",
+                                      "lake"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Karapuzha Dam → Edakkal Caves → Ambalavayal Museum",
+                                                         "Karapuzha Adventure Park → Lunch at Ambalavayal → Heritage Museum"
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Adventure activities may close during rain.",
+                                                    "Dam area gets hot during noon—carry water.",
+                                                    "Peak crowd during weekends."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Activity charges and timings change by season."
+             }
+}

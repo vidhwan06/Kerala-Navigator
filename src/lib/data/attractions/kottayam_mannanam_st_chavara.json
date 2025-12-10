@@ -1,0 +1,181 @@
+{
+    "id": "kottayam_mannanam_st_chavara",
+    "name": "St. Joseph’s Church & Chavara Centre, Mannanam",
+    "category": "Pilgrimage / History / Museum",
+    "city": "Mannanam",
+    "district": "Kottayam",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "St. Joseph’s Monastery, Mannanam, Kottayam District, Kerala",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Kottayam",
+            "Ettumanoor"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fmannanam_st_chavara%2F1.jpg",
+            "caption": "St. Joseph’s Church and Monastery"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkottayam%2Fmannanam_st_chavara%2F2.jpg",
+            "caption": "First Malayalam Printing Press exhibit"
+        }
+    ],
+    "history": {
+        "short_description": "A landmark Catholic heritage centre housing St. Chavara’s tomb and the first printing press of Kerala.",
+        "detailed": "St. Kuriakose Elias Chavara established the first printing press of Kerala (C.M.I. Press) here in 1846. He was a visionary social reformer and saint. The centre houses his tomb, chapel, relics, and the historic press."
+    },
+    "significance": {
+        "history": "Home to the first Malayalam printing press and newspaper.",
+        "spirituality": "Tomb of St. Chavara, a canonized saint and reformer."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "08:00",
+                "end_time": "18:00",
+                "note": "Open daily"
+            }
+        ],
+        "activities": [
+            "Visit St. Chavara’s tomb",
+            "See the first Malayalam printing press",
+            "Learn about education reforms",
+            "Pray at the altar"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free entry",
+            "warnings": [
+                "Photography restricted inside museum",
+                "Modest attire required",
+                "Silence requested"
+            ]
+        },
+        "recommended_visit_duration_minutes": 90,
+        "best_time_to_visit": [
+            "January (St. Chavara Feast)",
+            "Regular weekdays"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.6,
+        "highlights": [
+            "Peaceful and spiritually uplifting",
+            "Historic printing press",
+            "Well-organized campus"
+        ],
+        "common_complaints": [
+            "Parking crowded during feast",
+            "Photography restrictions",
+            "Limited shops outside"
+        ],
+        "tips_from_visitors": [
+            "Visit the museum.",
+            "Respect the silence.",
+            "Good for history buffs."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport (COK)",
+            "approx_distance_km": 85,
+            "travel_options": [
+                "Taxi",
+                "Cab"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Kottayam Railway Station",
+            "approx_distance_km": 8,
+            "travel_options": [
+                "Auto",
+                "Taxi",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Kottayam",
+            "approx_distance_km": 8,
+            "description": "Kottayam → Ettumanoor Road → Mannanam.",
+            "parking_info": "Parking limited during feast."
+        },
+        "local_transport_tips": [
+            "Campus is pedestrian-friendly.",
+            "Auto from junction."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Hotel Sree Durga",
+            "type": "Kerala Meals",
+            "distance_km": 1,
+            "price_range": "₹",
+            "special_notes": "Rice meals."
+        },
+        {
+            "name": "Saffron Restaurant, Kottayam",
+            "type": "Casual Dining",
+            "distance_km": 7,
+            "price_range": "₹₹₹",
+            "special_notes": "Family restaurant."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Hotel Arcadia Kottayam",
+            "type": "Mid-range",
+            "distance_km": 8,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Parking",
+                "Restaurant"
+            ]
+        },
+        {
+            "name": "CMI Pilgrim Accommodation",
+            "type": "Spiritual Stay",
+            "distance_km": 0,
+            "price_range": "₹",
+            "amenities": [
+                "Dorms",
+                "Basic amenities"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Kottayam Town",
+            "approx_distance_km": 8
+        },
+        {
+            "name": "Ettumanoor Mahadeva Temple",
+            "approx_distance_km": 5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "FirstMalayalamPress",
+            "StChavaraHeritage",
+            "CatholicPilgrimage",
+            "RelicMuseum"
+        ],
+        "recommended_itineraries": [
+            "Visit Mannanam → Lunch at Kottayam → Visit Cheriapally",
+            "Morning prayer → Museum tour"
+        ],
+        "alerts_suggestions": [
+            "Do not touch relics.",
+            "Silence in chapel."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Feast in January."
+    }
+}

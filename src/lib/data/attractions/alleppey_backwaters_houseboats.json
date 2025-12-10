@@ -1,0 +1,224 @@
+{
+    "id":  "alleppey_backwaters_houseboats",
+    "name":  "Alleppey Backwaters \u0026 Houseboat Cruises",
+    "category":  "Backwaters / Houseboat Experience",
+    "city":  "Alappuzha (Alleppey)",
+    "district":  "Alappuzha",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Punnamada Lake \u0026 surrounding backwaters, Alappuzha, Kerala, India",
+                     "latitude":  9.5375,
+                     "longitude":  76.3531,
+                     "landmarks_nearby":  [
+                                              "Punnamada Lake",
+                                              "Nehru Trophy Finishing Point",
+                                              "Alappuzha Boat Jetty",
+                                              "Kuttanad Backwaters"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-alleppey-backwaters",
+                   "attraction-alleppey-backwaters-2",
+                   "attraction-alleppey-backwaters-3",
+                   "attraction-alleppey-backwaters-4",
+                   "attraction-alleppey-backwaters-5"
+               ],
+    "history":  {
+                    "short_description":  "The iconic backwaters of Alleppey, famous for traditional kettuvallam houseboats cruising through canals, lakes, and paddy fields below sea level.",
+                    "detailed":  "Alappuzha, often called the \u0027Venice of the East\u0027, sits at the heart of Kerala\u0027s backwater network. Historically, kettuvallams (houseboats) were used as cargo boats to transport rice and spices from Kuttanad’s paddy fields to coastal ports. With the arrival of modern transport, many of these boats were converted into houseboats for tourism, fitted with bedrooms, kitchens, and lounges. Today, Alleppey’s backwaters and houseboats are one of India’s most famous travel experiences, offering close views of village life, coconut groves, canals, and paddy fields lying below sea level."
+                },
+    "significance":  {
+                         "tourism":  "Primary attraction of Alappuzha, drawing visitors from across India and overseas for day and overnight cruises.",
+                         "cultural":  "Showcases traditional Kerala boat architecture, local cuisine cooked on board, and everyday life along the canals.",
+                         "scenic":  "Calm waters, coconut-lined banks, and expansive views of Kuttanad’s paddy fields and Vembanad Lake."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "Day Cruise",
+                                             "start_time":  "11:00",
+                                             "end_time":  "17:00",
+                                             "note":  "Timings vary by operator; most day trips run 5–6 hours."
+                                         },
+                                         {
+                                             "session":  "Overnight Cruise",
+                                             "start_time":  "12:00",
+                                             "end_time":  "09:00",
+                                             "note":  "Check-in around noon, cruise till evening, anchor overnight, cruise again in the morning, check-out after breakfast."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Day and overnight houseboat cruises",
+                                            "Village and canal sightseeing",
+                                            "Backwater photography",
+                                            "Bird watching",
+                                            "Traditional Kerala meals on board"
+                                        ],
+                         "entry_rules":  {
+                                             "booking_required":  true,
+                                             "booking_notes":  "Houseboats must be pre-booked via operators/travel sites; walk-in last-minute bookings are limited in peak season.",
+                                             "safety_notes":  [
+                                                                  "Life jackets are usually provided on board; ask the crew if not visible.",
+                                                                  "Avoid leaning over railings, especially with children.",
+                                                                  "Power and AC may be turned off late night on some boats."
+                                                              ]
+                                         },
+                         "recommended_visit_duration_minutes":  360,
+                         "best_time_to_visit":  [
+                                                    "October to March for pleasant weather",
+                                                    "Monsoon (June–September) for lush scenery, but with occasional rain disruption"
+                                                ],
+                         "average_crowd_level":  "High during weekends, December–January, and long holidays"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.7,
+                            "highlights":  [
+                                               "Relaxing and scenic experience",
+                                               "Delicious Kerala food cooked fresh on board",
+                                               "Beautiful sunrise and sunset over the backwaters"
+                                           ],
+                            "common_complaints":  [
+                                                      "Quality of boats and service varies between operators",
+                                                      "Mosquitoes in some seasons if windows are open",
+                                                      "Busy/crowded canals in peak season"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Choose a reputed operator and check recent reviews.",
+                                                       "Carry mosquito repellent and a light sweater for night breeze.",
+                                                       "Confirm AC timings and meal plan before boarding.",
+                                                       "For budget trips, consider shared day cruises instead of private overnight boats."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Cochin International Airport",
+                                              "approx_distance_km":  85,
+                                              "travel_options":  [
+                                                                     "Taxi to Alappuzha",
+                                                                     "Bus to Alappuzha via Kochi"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Alappuzha Railway Station",
+                                                      "approx_distance_km":  3,
+                                                      "travel_options":  [
+                                                                             "Auto-rickshaw",
+                                                                             "Taxi"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_bus_stand":  "Alappuzha KSRTC Bus Stand",
+                                      "description":  "Frequent KSRTC and private buses connect Alappuzha with Kochi, Trivandrum, and other Kerala towns.",
+                                      "parking_info":  "Parking available near Nehru Trophy Finishing Point and some private jetties."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Most operators provide directions to their jetty near Finishing Point or Punnamada.",
+                                                   "Autos are the easiest way to reach the boarding point from station or bus stand."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "Lake Palace Resort Restaurant",
+                                   "type":  "Multi Cuisine / Backwater View",
+                                   "distance_km":  2.0,
+                                   "price_range":  "₹₹₹",
+                                   "special_notes":  "Great option for a meal before or after a cruise."
+                               },
+                               {
+                                   "name":  "Uduppi Saravana Bhavan (Boat Jetty Road)",
+                                   "type":  "Pure Vegetarian",
+                                   "distance_km":  1.0,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Good South Indian veg food near jetty."
+                               },
+                               {
+                                   "name":  "Halais Family Restaurant",
+                                   "type":  "Kerala \u0026 Arabian Cuisine",
+                                   "distance_km":  1.5,
+                                   "price_range":  "₹₹",
+                                   "special_notes":  "Popular for biriyani and grilled items."
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "Punnamada Resort",
+                                      "type":  "Premium Backwater Resort",
+                                      "distance_km":  3.0,
+                                      "price_range":  "₹₹₹₹",
+                                      "amenities":  [
+                                                        "Pool",
+                                                        "Spa",
+                                                        "Backwater-facing rooms"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Uday Backwater Resort",
+                                      "type":  "Upscale Resort",
+                                      "distance_km":  4.0,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Backwater views",
+                                                        "Restaurant",
+                                                        "Pool"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Bamboo Lagoon Backwater Front Resort",
+                                      "type":  "Mid-range Waterfront Stay",
+                                      "distance_km":  3.5,
+                                      "price_range":  "₹₹₹",
+                                      "amenities":  [
+                                                        "Rooms on the water",
+                                                        "Restaurant"
+                                                    ]
+                                  },
+                                  {
+                                      "name":  "Nomads Hostel",
+                                      "type":  "Budget / Hostel",
+                                      "distance_km":  2.0,
+                                      "price_range":  "₹",
+                                      "amenities":  [
+                                                        "Dorms",
+                                                        "Common areas",
+                                                        "Backpacker friendly"
+                                                    ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Alappuzha Beach",
+                                   "approx_distance_km":  4
+                               },
+                               {
+                                   "name":  "Alappuzha Lighthouse",
+                                   "approx_distance_km":  4.5
+                               },
+                               {
+                                   "name":  "Kuttanad Paddy Fields",
+                                   "approx_distance_km":  10
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "backwaters",
+                                      "houseboat",
+                                      "scenic-cruise",
+                                      "sunset",
+                                      "village-life"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Overnight houseboat cruise → Morning check-out → Alappuzha Beach \u0026 Lighthouse.",
+                                                         "Day cruise through Kuttanad → Evening backwater resort stay."
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Display monsoon advisories if strong rain affects cruises.",
+                                                    "Highlight verified/recommended operators in your app.",
+                                                    "Show boarding point map and check-in instructions clearly."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Cruise timings, prices, and boarding jetties vary by operator."
+             }
+}

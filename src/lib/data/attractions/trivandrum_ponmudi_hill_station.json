@@ -1,0 +1,228 @@
+{
+    "id":  "trivandrum_ponmudi_hill_station",
+    "name":  "Ponmudi Hill Station",
+    "category":  "Hill Station",
+    "city":  "Thiruvananthapuram",
+    "district":  "Thiruvananthapuram",
+    "state":  "Kerala",
+    "country":  "India",
+    "location":  {
+                     "address":  "Ponmudi, Thiruvananthapuram District, Kerala, India",
+                     "latitude":  8.756,
+                     "longitude":  77.114,
+                     "landmarks_nearby":  [
+                                              "Golden Valley",
+                                              "Kallar River",
+                                              "Peppara Wildlife Sanctuary",
+                                              "Ponmudi Upper Sanatorium"
+                                          ]
+                 },
+    "images":  [
+                   "attraction-ponmudi-hills",
+                   "attraction-ponmudi-hills-2",
+                   "attraction-ponmudi-hills-3",
+                   "attraction-ponmudi-hills-4",
+                   "attraction-ponmudi-hills-5"
+               ],
+    "history":  {
+                    "short_description":  "Ponmudi is a scenic hill station in the Western Ghats known for tea estates, cool climate, and its 22 hairpin bends.",
+                    "detailed":  "Ponmudi, meaning \u0027Golden Peak\u0027, has historically been a retreat spot for the Travancore royalty who used the peak for summer rest and nature exploration. Located in the Western Ghats, it became a tourism hotspot due to its misty hills, tropical forests, and access to trekking routes, particularly Agasthyakoodam. The region is ecologically important because it forms part of the Agasthyamala Biosphere Reserve, a UNESCO site. Over the decades, Ponmudi developed into a popular weekend getaway for visitors from Thiruvananthapuram and other South Indian cities."
+                },
+    "significance":  {
+                         "tourism":  "Famous for scenic viewpoints, trekking routes, and cool climate.",
+                         "nature":  "Biodiversity hotspot with rare species of birds, butterflies, and flora.",
+                         "adventure":  "Gateway to Agasthyakoodam trekking, one of South India\u0027s highest peaks."
+                     },
+    "visitor_info":  {
+                         "timings":  [
+                                         {
+                                             "session":  "General Visiting Hours",
+                                             "start_time":  "06:00",
+                                             "end_time":  "18:30",
+                                             "note":  "Best visited in daylight due to hilly roads."
+                                         }
+                                     ],
+                         "activities":  [
+                                            "Trekking",
+                                            "Nature walks",
+                                            "Photography",
+                                            "Golden Valley river visit",
+                                            "Tea estate visit",
+                                            "Ponmudi viewpoint climb"
+                                        ],
+                         "entry_rules":  {
+                                             "entry_fee":  "Free for hill station area; small fees for certain viewpoints or check-posts may apply",
+                                             "vehicle_restrictions":  "Occasional restrictions during heavy fog or landslides",
+                                             "warnings":  "Drive carefully on the 22 hairpin bends; fog can reduce visibility."
+                                         },
+                         "recommended_visit_duration_minutes":  180,
+                         "best_time_to_visit":  [
+                                                    "September to March (Pleasant \u0026 foggy weather)",
+                                                    "Early morning for sunrise",
+                                                    "Monsoon months offer greenery but can have restricted access"
+                                                ],
+                         "average_crowd_level":  "Moderate on weekdays, high on weekends"
+                     },
+    "reviews_summary":  {
+                            "overall_rating_out_of_5":  4.7,
+                            "highlights":  [
+                                               "Beautiful panoramic views",
+                                               "Cool and soothing climate",
+                                               "Great for trekking and nature lovers"
+                                           ],
+                            "common_complaints":  [
+                                                      "Road can be risky during rain",
+                                                      "Limited food options at the top",
+                                                      "Occasional fog causing zero visibility"
+                                                  ],
+                            "tips_from_visitors":  [
+                                                       "Start early to avoid traffic on hill road.",
+                                                       "Carry snacks and water as food choices are limited.",
+                                                       "Best spots are the Upper Sanatorium and Golden Valley."
+                                                   ]
+                        },
+    "transport":  {
+                      "nearest_airport":  {
+                                              "name":  "Trivandrum International Airport",
+                                              "approx_distance_km":  55,
+                                              "travel_options":  [
+                                                                     "Taxi",
+                                                                     "Rental car"
+                                                                 ]
+                                          },
+                      "nearest_railway_station":  {
+                                                      "name":  "Thiruvananthapuram Central",
+                                                      "approx_distance_km":  60,
+                                                      "travel_options":  [
+                                                                             "Taxi",
+                                                                             "Bus + Taxi from Vithura"
+                                                                         ]
+                                                  },
+                      "by_road":  {
+                                      "nearest_town":  "Vithura",
+                                      "description":  "KSRTC buses run from Thampanoor to Vithura; visitors then use jeeps/taxis to reach Ponmudi.",
+                                      "parking_info":  "Parking available near the hilltop tourism complex."
+                                  },
+                      "local_transport_tips":  [
+                                                   "Private cars, jeeps, or taxis are the best way to reach.",
+                                                   "Do not attempt late-night drives on the hill road."
+                                               ]
+                  },
+    "nearby_food_places":  [
+                               {
+                                   "name":  "KTDC Golden Peak Restaurant",
+                                   "type":  "Multi-Cuisine",
+                                   "cuisine":  [
+                                                   "Kerala",
+                                                   "Snacks"
+                                               ],
+                                   "specialties":  [
+                                                       "Kerala Meals",
+                                                       "Snacks"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Families",
+                                                           "Budget travellers"
+                                                       ]
+                               },
+                               {
+                                   "name":  "Local Tea Shops near Viewpoint",
+                                   "type":  "Tea \u0026 Snacks",
+                                   "cuisine":  [
+                                                   "Tea",
+                                                   "Snacks"
+                                               ],
+                                   "specialties":  [
+                                                       "Tea",
+                                                       "Banana Fry",
+                                                       "Snacks"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Quick bites"
+                                                       ]
+                               },
+                               {
+                                   "name":  "Vithura Local Restaurants",
+                                   "type":  "Veg \u0026 Non-Veg",
+                                   "cuisine":  [
+                                                   "Kerala",
+                                                   "Biriyani"
+                                               ],
+                                   "specialties":  [
+                                                       "Meals",
+                                                       "Biriyani"
+                                                   ],
+                                   "recommended_for":  [
+                                                           "Budget travellers"
+                                                       ]
+                               }
+                           ],
+    "nearby_accommodations":  [
+                                  {
+                                      "name":  "KTDC Golden Peak Resort",
+                                      "type":  "Mid-range",
+                                      "distance_km":  0.3,
+                                      "recommended_for":  [
+                                                              "Families",
+                                                              "Couples"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Ponmudi Heritage Bungalow",
+                                      "type":  "Colonial-style Stay",
+                                      "distance_km":  0.5,
+                                      "recommended_for":  [
+                                                              "Nature lovers",
+                                                              "Photography enthusiasts"
+                                                          ]
+                                  },
+                                  {
+                                      "name":  "Forest Guest House (Govt.)",
+                                      "type":  "Budget",
+                                      "distance_km":  0.6,
+                                      "recommended_for":  [
+                                                              "Backpackers"
+                                                          ]
+                                  }
+                              ],
+    "nearby_attractions":  [
+                               {
+                                   "name":  "Golden Valley",
+                                   "approx_distance_km":  3.0
+                               },
+                               {
+                                   "name":  "Kallar River",
+                                   "approx_distance_km":  15
+                               },
+                               {
+                                   "name":  "Peppara Wildlife Sanctuary",
+                                   "approx_distance_km":  25
+                               },
+                               {
+                                   "name":  "Agasthyakoodam Basecamp",
+                                   "approx_distance_km":  14
+                               }
+                           ],
+    "app_specific":  {
+                         "tags":  [
+                                      "hill-station",
+                                      "trekking",
+                                      "nature",
+                                      "mist",
+                                      "viewpoint"
+                                  ],
+                         "recommended_itineraries":  [
+                                                         "Drive to Ponmudi → Golden Valley → Upper Viewpoint → Tea shop refreshments.",
+                                                         "Early morning sunrise → Trekking trails → Visit Kallar River."
+                                                     ],
+                         "alerts_suggestions":  [
+                                                    "Road closures may occur during monsoon—provide live alerts.",
+                                                    "Highlight fog warnings and low-visibility conditions.",
+                                                    "Show parking availability if you add real-time integration."
+                                                ]
+                     },
+    "meta":  {
+                 "last_updated":  "2025-11-21",
+                 "data_note":  "Road conditions vary during monsoon months."
+             }
+}

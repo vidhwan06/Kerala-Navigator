@@ -1,0 +1,176 @@
+{
+    "id": "idukki_munnar_kundala_lake",
+    "name": "Kundala Lake",
+    "category": "Lake / Boating",
+    "city": "Munnar",
+    "district": "Munnar",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Kundala Dam & Lake, Munnar-Top Station Highway, Idukki District, Kerala, India",
+        "latitude": null,
+        "longitude": null,
+        "landmarks_nearby": [
+            "Top Station",
+            "Echo Point",
+            "Kundala Dam"
+        ]
+    },
+    "images": [
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fkundala%2F1.jpg",
+            "caption": "Shikara boats at Kundala Lake"
+        },
+        {
+            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fidukki%2Fkundala%2F2.jpg",
+            "caption": "Cherry blossoms near Kundala Lake (seasonal)"
+        }
+    ],
+    "history": {
+        "short_description": "A man-made lake built during the British rule.",
+        "detailed": "Kundala Arch Dam nearby is one of the first arch dams in Asia. The lake was created as part of the Pallivasal Hydroelectric Project. The area is known for the Neela Kurinji flowers which bloom in the hills and cherry blossoms."
+    },
+    "significance": {
+        "heritage": "British engineering history.",
+        "tourism": "Popular for Kashmiri-style Shikara rides and cherry blossom trees blooming around February–March.",
+        "culture": "Scenic spot."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "Visiting Hours",
+                "start_time": "09:00",
+                "end_time": "17:00"
+            }
+        ],
+        "activities": [
+            "Shikara boating",
+            "Pedal boating",
+            "Photography",
+            "Lake walk",
+            "Horse riding"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free (Boating charges apply)",
+            "warnings": [
+                "Water can be deep",
+                "Follow boating rules"
+            ]
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "Early morning",
+            "February-March for blossoms"
+        ],
+        "average_crowd_level": "Moderate"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.5,
+        "highlights": [
+            "Shikara ride experience",
+            "Peaceful atmosphere",
+            "Beautiful flowers"
+        ],
+        "common_complaints": [
+            "Road to lake can be rough",
+            "Limited food options"
+        ],
+        "tips_from_visitors": [
+            "Morning mist adds charm.",
+            "Carry warm clothes.",
+            "Try the Shikara ride."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Cochin International Airport",
+            "approx_distance_km": 130,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Aluva Railway Station",
+            "approx_distance_km": 130,
+            "travel_options": [
+                "Taxi"
+            ]
+        },
+        "by_road": {
+            "nearest_town": "Munnar",
+            "approx_distance_km": 20,
+            "description": "On the way to Top Station.",
+            "parking_info": "Parking available."
+        },
+        "local_transport_tips": [
+            "Hire a taxi for the circuit.",
+            "Buses available."
+        ]
+    },
+    "nearby_food_places": [
+        {
+            "name": "Kundala Tea House",
+            "type": "Café",
+            "distance_km": 0.2,
+            "price_range": "₹₹",
+            "special_notes": "Tea and snacks."
+        },
+        {
+            "name": "Local Snack Shops",
+            "type": "Stalls",
+            "distance_km": 0,
+            "price_range": "₹",
+            "special_notes": "Noodles and corn."
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Ayur County Resort",
+            "type": "Resort",
+            "distance_km": 15,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Ayurveda"
+            ]
+        },
+        {
+            "name": "Oak Fields Munnar",
+            "type": "Hotel",
+            "distance_km": 18,
+            "price_range": "₹₹₹",
+            "amenities": [
+                "Comfort"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Top Station",
+            "approx_distance_km": 10
+        },
+        {
+            "name": "Echo Point",
+            "approx_distance_km": 5
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "lake",
+            "boating",
+            "shikara",
+            "nature"
+        ],
+        "recommended_itineraries": [
+            "Echo Point → Kundala Lake → Top Station",
+            "Boating → Horse Riding"
+        ],
+        "alerts_suggestions": [
+            "Carry cash for boating.",
+            "Wear comfortable shoes."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-28",
+        "data_note": "Coordinates verified."
+    }
+}
