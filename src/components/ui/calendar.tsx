@@ -54,8 +54,12 @@ function Calendar({
         ...classNames,
       }}
       components={{
-        Chevron: ({ className, ...props }) => {
-          const isNext = props.dir === "next";
+        Chevron: ({ className, ...props }: any) => {
+          // react-day-picker v9 may send either `dir` or `orientation`
+          const dir = props.dir ?? props.orientation ?? "";
+
+          const isNext = dir === "next" || dir === "right";
+
           return isNext ? (
             <ChevronRight className={cn("h-4 w-4", className)} {...props} />
           ) : (
@@ -63,11 +67,11 @@ function Calendar({
           );
         },
       }}
-
       {...props}
     />
   )
 }
+
 Calendar.displayName = "Calendar"
 
 export { Calendar }
