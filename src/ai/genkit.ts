@@ -10,7 +10,7 @@ const ai = genkit({
     }),
   ],
   // Optional default model
-  model: googleAI.model("gemini-2.5-flash"),
+  model: googleAI.model("gemini-1.5-flash"),
 });
 
 // 🚀 2. Define the itinerary flow
@@ -35,7 +35,7 @@ export const personalisedTravelItinerary = ai.defineFlow(
   // 3. Flow logic – actually calls Gemini
   async ({ place, days }) => {
     const { text } = await ai.generate({
-      model: googleAI.model("gemini-2.5-flash"),
+      model: googleAI.model("gemini-1.5-flash"),
       prompt: `
 You are a helpful Kerala tourism travel planner.
 
