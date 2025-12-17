@@ -6,9 +6,9 @@ const ai = genkit({
   plugins: [
     googleAI({
 
-      apiKey: process.env.GOOGLE_GENAI_API_KEY || "",
+      apiKey: process.env.GOOGLE_GENAI_API_KEY ?? false,
 
-     
+
     }),
   ],
   // Optional default model
