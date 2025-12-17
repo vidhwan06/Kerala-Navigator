@@ -9,7 +9,7 @@ const ai = genkit({
     }),
   ],
   // Optional default model
-  model: googleAI.model("gemini-1.5-flash"),
+  model: googleAI.model("gemini-2.5-flash"),
 });
 
 // 🚀 2. Define the itinerary flow
@@ -43,25 +43,35 @@ export const personalisedTravelItinerary = ai.defineFlow(
   // 3. Flow logic – actually calls Gemini
   async ({ place, days }) => {
     const { output } = await ai.generate({
-      model: googleAI.model("gemini-1.5-flash"),
+      model: googleAI.model("gemini-2.5-flash"),
+      output: {
+        schema: z.object({
+          itinerary: z.array(z.object({
+            day: z.number(),
+            title: z.string(),
+            morning: z.string(),
+            afternoon: z.string(),
+            evening: z.string(),
+            travelTime: z.string(),
+            food: z.array(z.string()),
+            tips: z.array(z.string()),
+          })),
+        }),
+      },
       prompt: `
 You are a helpful Kerala tourism travel planner.
 Create a detailed ${days}-day travel itinerary for ${place} in Kerala.
-Return ONLY a valid JSON object with the following structure:
-{
-  "itinerary": [
-    {
-      "day": number,
-      "title": "string",
-      "morning": "string",
-      "afternoon": "string",
-      "evening": "string",
-      "travelTime": "string",
-      "food": ["string"],
-      "tips": ["string"]
-    }
-  ]
-}
+
+For each day, provide:
+- A descriptive title
+- Morning activities and attractions
+- Afternoon plans
+- Evening experiences
+- Estimated travel time for the day
+- Local food recommendations (as an array)
+- Helpful tips for travelers (as an array)
+
+Make the itinerary engaging, practical, and focused on Kerala's unique culture, nature, and cuisine.
       `,
     });
 
