@@ -5,7 +5,12 @@ import { googleAI } from "@genkit-ai/google-genai";
 const ai = genkit({
   plugins: [
     googleAI({
+
       apiKey: process.env.GOOGLE_GENAI_API_KEY || "",
+
+      // 👉 Replace this with your real Gemini API key from Google AI Studio
+      apiKey: "AIzaSyBkRycL1BfY554n4gDlf5uB8GfKZqMBEI4",
+
     }),
   ],
   // Optional default model
@@ -34,7 +39,11 @@ export const personalisedTravelItinerary = ai.defineFlow(
   // 3. Flow logic – actually calls Gemini
   async ({ place, days }) => {
     const { text } = await ai.generate({
+
       // model: googleAI.model("gemini-1.5-flash"),
+
+      model: googleAI.model("gemini-1.5-flash"),
+
       prompt: `
 You are a helpful Kerala tourism travel planner.
 
