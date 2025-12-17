@@ -26,9 +26,20 @@ const formSchema = z.object({
   accommodationType: z.string().optional(),
 });
 
+type DayItinerary = {
+  day: number;
+  title: string;
+  morning: string;
+  afternoon: string;
+  evening: string;
+  travelTime: string;
+  food: string[];
+  tips: string[];
+};
+
 type ItineraryResult = {
   success: boolean;
-  itinerary?: string | null;
+  itinerary?: DayItinerary[] | null;
   error?: string | null;
 };
 
