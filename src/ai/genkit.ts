@@ -6,7 +6,7 @@ const ai = genkit({
   plugins: [
     googleAI({
       // 👉 Replace this with your real Gemini API key from Google AI Studio
-      apiKey: "AIzaSyD1TrTjfRrUMmM8-oa0DtH_Cc4cdrRo2BU",
+      apiKey: "AIzaSyBkRycL1BfY554n4gDlf5uB8GfKZqMBEI4",
     }),
   ],
   // Optional default model
