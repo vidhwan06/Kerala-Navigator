@@ -26,24 +26,25 @@ async function main() {
         const ai = genkit({
             plugins: [
                 googleAI({
-                    apiKey: process.env.GOOGLE_GENAI_API_KEY,
+                    apiKey: process.env.GOOGLE_GENAI_API_KEY ?? false,
+,
                 }),
             ],
-            model: googleAI.model("gemini-2.5-flash"),
+        model: googleAI.model("gemini-1.5-flash"),
         });
 
-        console.log("Generating with gemini-2.5-flash...");
-        const { output } = await ai.generate({
-            model: googleAI.model("gemini-2.5-flash"),
-            prompt: "Hello, tell me a joke about programming.",
-        });
+    console.log("Generating with gemini-1.5-flash...");
+    const { output } = await ai.generate({
+        model: googleAI.model("gemini-1.5-flash"),
+        prompt: "Hello, tell me a joke about programming.",
+    });
 
-        console.log("Success!");
-        console.log(output);
-    } catch (error: any) {
-        console.error("Genkit Error:", error);
-        if (error.details) console.error("Details:", error.details);
-    }
+    console.log("Success!");
+    console.log(output);
+} catch (error: any) {
+    console.error("Genkit Error:", error);
+    if (error.details) console.error("Details:", error.details);
+}
 }
 
 main();
