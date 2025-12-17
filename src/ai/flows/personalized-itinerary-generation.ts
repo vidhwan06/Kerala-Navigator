@@ -1,3 +1,4 @@
+export const runtime = "nodejs";
 import { genkit, z } from "genkit";
 import { googleAI } from "@genkit-ai/google-genai";
 
