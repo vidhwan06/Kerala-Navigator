@@ -8,9 +8,7 @@ const ai = genkit({
 
       apiKey: process.env.GOOGLE_GENAI_API_KEY || "",
 
-      // 👉 Replace this with your real Gemini API key from Google AI Studio
-      apiKey: "AIzaSyBkRycL1BfY554n4gDlf5uB8GfKZqMBEI4",
-
+     
     }),
   ],
   // Optional default model
