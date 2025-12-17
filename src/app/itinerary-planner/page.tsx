@@ -48,134 +48,35 @@ import {
 import ReactMarkdown from 'react-markdown';
 
 // Compact Vertical Timeline Itinerary Display
-function ItineraryDisplay({ content }: { content: string }) {
-  // Parse the itinerary content into structured data
-  const parseItinerary = (text: string) => {
-    const lines = text.split('\n');
-    const days: Array<{
-      day: number;
-      title: string;
-      activities: Array<{ time?: string; description: string; icon: any; type: string }>;
-    }> = [];
-
-    let currentDay: any = null;
-    let inOverview = true;
-    let overview = '';
-
-    for (const line of lines) {
-      const trimmed = line.trim();
-
-      // Improved regex to handle various "Day X" formats (e.g., "## Day 1", "**Day 1**", "Day 1 - Title")
-      const dayMatch = trimmed.match(/^(?:##\s*)?(?:\*\*)?Day (\d+)[:\s]*(?:-)?\s*(.*?)(?:\*\*)?$/i);
-
-      if (dayMatch) {
-        if (currentDay) days.push(currentDay);
-        inOverview = false;
-        currentDay = {
-          day: parseInt(dayMatch[1] || '1'),
-          title: (dayMatch[2] || '').trim() || `Day ${dayMatch[1] || '1'}`,
-          activities: []
-        };
-      } else if (currentDay && trimmed) {
-        const timeMatch = trimmed.match(/^(\d{1,2}:\d{2}\s*(?:AM|PM|am|pm)?)\s*[-:]\s*(.+)$/);
-
-        let icon = Info;
-        let description = trimmed;
-        let time = undefined;
-        let type = 'general';
-
-        if (timeMatch) {
-          time = timeMatch[1] || undefined;
-          description = timeMatch[2] || trimmed;
-        }
-
-        if (description.toLowerCase().includes('breakfast') ||
-          description.toLowerCase().includes('lunch') ||
-          description.toLowerCase().includes('dinner') ||
-          description.toLowerCase().includes('meal')) {
-          icon = Utensils;
-          type = 'meal';
-        } else if (description.toLowerCase().includes('hotel') ||
-          description.toLowerCase().includes('check-in') ||
-          description.toLowerCase().includes('accommodation') ||
-          description.toLowerCase().includes('resort')) {
-          icon = Hotel;
-          type = 'accommodation';
-        } else if (description.toLowerCase().includes('visit') ||
-          description.toLowerCase().includes('explore') ||
-          description.toLowerCase().includes('tour') ||
-          description.toLowerCase().includes('see') ||
-          description.toLowerCase().includes('view')) {
-          icon = Camera;
-          type = 'sightseeing';
-        } else if (description.toLowerCase().includes('drive') ||
-          description.toLowerCase().includes('travel') ||
-          description.toLowerCase().includes('depart') ||
-          description.toLowerCase().includes('arrive')) {
-          icon = MapPin;
-          type = 'travel';
-        }
-
-        description = description.replace(/\*\*/g, '').replace(/\*/g, '');
-        currentDay.activities.push({ time, description, icon, type });
-      } else if (inOverview && trimmed) {
-        overview += line + '\n';
-      }
-    }
-
-    if (currentDay) days.push(currentDay);
-    return { overview: overview.trim(), days };
-  };
-
-  const { overview, days } = parseItinerary(content);
+function ItineraryDisplay({ itinerary }: { itinerary: any[] }) {
+  if (!itinerary || !Array.isArray(itinerary)) return null;
 
   const getActivityBadge = (type: string) => {
-    const badges = {
-      meal: { icon: Utensils, className: 'bg-orange-500/10 text-orange-600 border-orange-500/20' },
-      accommodation: { icon: Hotel, className: 'bg-purple-500/10 text-purple-600 border-purple-500/20' },
-      sightseeing: { icon: Camera, className: 'bg-blue-500/10 text-blue-600 border-blue-500/20' },
-      travel: { icon: MapPin, className: 'bg-green-500/10 text-green-600 border-green-500/20' },
-      general: { icon: Info, className: 'bg-gray-500/10 text-gray-600 border-gray-500/20' }
-    };
-    return badges[type as keyof typeof badges] || badges.general;
+    // Basic mapping based on keywords if we wanted to infer type, but for now we'll just check descriptions or use generic info
+    return { icon: Info, className: 'bg-gray-500/10 text-gray-600 border-gray-500/20' };
+  };
+
+  const getBadgesForDay = (day: any) => {
+    // Helper to create activity items from the structured fields
+    const items = [];
+    if (day.morning) items.push({ time: 'Morning', description: day.morning, icon: 'sun' });
+    if (day.afternoon) items.push({ time: 'Afternoon', description: day.afternoon, icon: 'sun' });
+    if (day.evening) items.push({ time: 'Evening', description: day.evening, icon: 'moon' });
+    return items;
   };
 
   return (
     <div className="space-y-4 animate-in fade-in duration-500">
-      {/* Compact Overview */}
-      {overview && (
-        <div className="bg-gradient-to-r from-primary/5 to-transparent border-l-4 border-primary rounded-lg p-4">
-          <div className="flex items-start gap-3">
-            <div className="p-2 bg-primary/10 rounded-lg shrink-0">
-              <Info className="h-4 w-4 text-primary" />
-            </div>
-            <div className="w-full">
-              <h3 className="font-semibold text-sm mb-1">Overview</h3>
-              <div className="prose prose-sm max-w-none text-xs text-muted-foreground leading-relaxed">
-                <ReactMarkdown>
-                  {overview}
-                </ReactMarkdown>
-              </div>
-            </div>
-          </div>
+      <div className="flex items-center gap-2 pb-2">
+        <div className="p-1.5 bg-primary rounded-md">
+          <Calendar className="h-4 w-4 text-primary-foreground" />
         </div>
-      )}
+        <h3 className="font-bold text-lg">{itinerary.length}-Day Itinerary</h3>
+      </div>
 
-      {/* Compact Header */}
-      {days.length > 0 && (
-        <div className="flex items-center gap-2 pb-2">
-          <div className="p-1.5 bg-primary rounded-md">
-            <Calendar className="h-4 w-4 text-primary-foreground" />
-          </div>
-          <h3 className="font-bold text-lg">{days.length}-Day Itinerary</h3>
-        </div>
-      )}
-
-      {/* Vertical Timeline Grid - All Days Visible */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {days.map((day, dayIndex) => (
-          <Card key={dayIndex} className="relative overflow-hidden border-2 hover:border-primary/50 transition-all hover:shadow-lg">
-            {/* Day Header - Compact */}
+        {itinerary.map((day, index) => (
+          <Card key={index} className="relative overflow-hidden border-2 hover:border-primary/50 transition-all hover:shadow-lg">
             <div className="sticky top-0 z-10 bg-gradient-to-r from-primary to-primary/80 text-primary-foreground px-4 py-2">
               <div className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
@@ -184,52 +85,65 @@ function ItineraryDisplay({ content }: { content: string }) {
                   </div>
                   <div>
                     <div className="font-bold text-sm leading-tight">{day.title}</div>
-                    <div className="text-xs opacity-80">{day.activities.length} activities</div>
+                    <div className="text-xs opacity-80">{day.travelTime}</div>
                   </div>
                 </div>
               </div>
             </div>
 
-            {/* Activities Timeline - Compact */}
-            <CardContent className="p-3 space-y-2">
-              {day.activities.map((activity, actIndex) => {
-                const badge = getActivityBadge(activity.type);
-                const BadgeIcon = badge.icon;
-                return (
-                  <div key={actIndex} className="flex gap-2 group/item hover:bg-accent/50 -mx-1 px-1 py-1.5 rounded transition-colors">
-                    {/* Icon */}
-                    <div className="shrink-0 pt-0.5">
-                      <div className={`w-7 h-7 rounded-full border flex items-center justify-center ${badge.className}`}>
-                        <BadgeIcon className="h-3.5 w-3.5" />
-                      </div>
-                    </div>
+            <CardContent className="p-3 space-y-3">
+              <div className="space-y-2">
+                {/* Morning */}
+                <div className="flex gap-2">
+                  <div className="shrink-0 pt-0.5"><div className="w-6 h-6 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center"><Clock className="h-3 w-3" /></div></div>
+                  <div><span className="text-xs font-bold text-primary block uppercase tracking-wide">Morning</span><p className="text-xs text-foreground/90">{day.morning}</p></div>
+                </div>
+                {/* Afternoon */}
+                <div className="flex gap-2">
+                  <div className="shrink-0 pt-0.5"><div className="w-6 h-6 rounded-full bg-orange-100 text-orange-600 flex items-center justify-center"><Clock className="h-3 w-3" /></div></div>
+                  <div><span className="text-xs font-bold text-primary block uppercase tracking-wide">Afternoon</span><p className="text-xs text-foreground/90">{day.afternoon}</p></div>
+                </div>
+                {/* Evening */}
+                <div className="flex gap-2">
+                  <div className="shrink-0 pt-0.5"><div className="w-6 h-6 rounded-full bg-indigo-100 text-indigo-600 flex items-center justify-center"><Clock className="h-3 w-3" /></div></div>
+                  <div><span className="text-xs font-bold text-primary block uppercase tracking-wide">Evening</span><p className="text-xs text-foreground/90">{day.evening}</p></div>
+                </div>
+              </div>
 
-                    {/* Content */}
-                    <div className="flex-1 min-w-0">
-                      {activity.time && (
-                        <div className="flex items-center gap-1 text-xs font-medium text-primary mb-0.5">
-                          <Clock className="h-3 w-3" />
-                          {activity.time}
-                        </div>
-                      )}
-                      <p className="text-xs leading-relaxed text-foreground/90 line-clamp-2">
-                        {activity.description}
-                      </p>
-                    </div>
+              {/* Food */}
+              {day.food && day.food.length > 0 && (
+                <div className="bg-orange-50/50 p-2 rounded border border-orange-100">
+                  <div className="flex items-center gap-1.5 mb-1 text-orange-700">
+                    <Utensils className="h-3 w-3" />
+                    <span className="text-xs font-bold uppercase">Food & Dining</span>
                   </div>
-                );
-              })}
+                  <div className="flex flex-wrap gap-1">
+                    {day.food.map((f: string, i: number) => (
+                      <span key={i} className="text-[10px] bg-white border border-orange-200 px-1.5 py-0.5 rounded text-orange-800">{f}</span>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {/* Tips */}
+              {day.tips && day.tips.length > 0 && (
+                <div className="bg-blue-50/50 p-2 rounded border border-blue-100">
+                  <div className="flex items-center gap-1.5 mb-1 text-blue-700">
+                    <Info className="h-3 w-3" />
+                    <span className="text-xs font-bold uppercase">Tips</span>
+                  </div>
+                  <ul className="list-disc list-inside text-[10px] text-blue-800/90">
+                    {day.tips.map((t: string, i: number) => (
+                      <li key={i}>{t}</li>
+                    ))}
+                  </ul>
+                </div>
+              )}
+
             </CardContent>
           </Card>
         ))}
       </div>
-
-      {/* Fallback */}
-      {days.length === 0 && !overview && (
-        <div className="text-sm whitespace-pre-wrap bg-card border rounded-lg p-4">
-          {content}
-        </div>
-      )}
     </div>
   );
 }
@@ -281,7 +195,7 @@ function SavedPlacesList({ userId }: { userId: string }) {
 }
 
 export default function ItineraryPlannerPage() {
-  const [itinerary, setItinerary] = useState<string | null>(null);
+  const [itinerary, setItinerary] = useState<any[] | null>(null);
   const [itineraryTitle, setItineraryTitle] = useState('');
   const [isLoading, setIsLoading] = useState(false);
   const [error, setError] = useState<string | null>(null);
@@ -315,14 +229,27 @@ export default function ItineraryPlannerPage() {
     setError(null);
     setItinerary(null);
 
-    const result = await createItinerary(values);
+    try {
+      const response = await fetch('/api/itinerary', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(values),
+      });
 
-    if (result.success && result.itinerary) {
-      setItinerary(result.itinerary);
-      setItineraryTitle(`${values.locations} - ${values.duration} days`);
-    } else {
-      setError(result.error || 'An unknown error occurred.');
+      const result = await response.json();
+
+      if (!response.ok) {
+        throw new Error(result.error || 'Failed to generate itinerary');
+      }
+
+      if (result.itinerary) {
+        setItinerary(result.itinerary);
+        setItineraryTitle(`${values.locations} - ${values.duration} days`);
+      }
+    } catch (err: any) {
+      setError(err.message || 'An unknown error occurred.');
     }
+
     setIsLoading(false);
   }
 
@@ -339,8 +266,9 @@ export default function ItineraryPlannerPage() {
     try {
       const itineraryData = {
         name: itineraryTitle,
-        content: itinerary,
+        content: JSON.stringify(itinerary), // Save structured JSON as string for now, or update Firestore schema
         createdAt: new Date().toISOString(),
+        isStructured: true
       };
 
       await addDoc(collection(firestore, 'users', user.uid, 'itineraries'), itineraryData);
@@ -558,7 +486,7 @@ export default function ItineraryPlannerPage() {
                       </div>
                     )}
                     {itinerary && (
-                      <ItineraryDisplay content={itinerary} />
+                      <ItineraryDisplay itinerary={itinerary} />
                     )}
                     {!isLoading && !itinerary && !error && (
                       <div className="flex flex-col items-center justify-center h-full min-h-[300px] text-center">

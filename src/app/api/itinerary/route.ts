@@ -33,7 +33,7 @@ export async function POST(request: NextRequest) {
       days: parsed.data.duration
     });
 
-    if (result.itinerary) {
+    if (result && result.itinerary) {
       return NextResponse.json({ itinerary: result.itinerary });
     } else {
       return NextResponse.json(
@@ -43,6 +43,8 @@ export async function POST(request: NextRequest) {
     }
   } catch (e: any) {
     console.error('API Error:', e);
+    if (e.message) console.error('Error Message:', e.message);
+    if (e.stack) console.error('Error Stack:', e.stack);
     return NextResponse.json(
       { error: 'An internal server error occurred.', details: e.message },
       { status: 500 }

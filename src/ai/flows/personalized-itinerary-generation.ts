@@ -5,12 +5,11 @@ import { googleAI } from "@genkit-ai/google-genai";
 const ai = genkit({
   plugins: [
     googleAI({
-      // 👉 Replace this with your real Gemini API key from Google AI Studio
-      apiKey: "AIzaSyBWXZewKj5kG6XQIg79-TzHmzD0xHw4Vs4"
+      apiKey: process.env.GOOGLE_GENAI_API_KEY || "",
     }),
   ],
   // Optional default model
-  model: googleAI.model("gemini-2.0-flash"),
+  model: googleAI.model("gemini-2.5-flash"),
 });
 
 // 🚀 2. Define the itinerary flow
@@ -28,32 +27,48 @@ export const personalisedTravelItinerary = ai.defineFlow(
         .describe("Number of days for the trip"),
     }),
     outputSchema: z.object({
-      itinerary: z.string(),
+      itinerary: z.array(z.object({
+        day: z.number(),
+        title: z.string(),
+        morning: z.string(),
+        afternoon: z.string(),
+        evening: z.string(),
+        travelTime: z.string(),
+        food: z.array(z.string()),
+        tips: z.array(z.string()),
+      })),
     }),
   },
 
   // 3. Flow logic – actually calls Gemini
   async ({ place, days }) => {
-    const { text } = await ai.generate({
-      model: googleAI.model("gemini-2.0-flash"),
+    const { output } = await ai.generate({
+      model: googleAI.model("gemini-2.5-flash"),
       prompt: `
 You are a helpful Kerala tourism travel planner.
-
 Create a detailed ${days}-day travel itinerary for ${place} in Kerala.
-
-For EACH day include:
-- Day title (e.g. "Day 1 – Arrival & Beach Time")
-- Morning plan
-- Afternoon plan
-- Evening plan
-- Approx travel times between places
-- 2–3 food / restaurant suggestions
-- 2–3 short tips or cautions
-
-Format it neatly with headings and bullet points.
+Return ONLY a valid JSON object with the following structure:
+{
+  "itinerary": [
+    {
+      "day": number,
+      "title": "string",
+      "morning": "string",
+      "afternoon": "string",
+      "evening": "string",
+      "travelTime": "string",
+      "food": ["string"],
+      "tips": ["string"]
+    }
+  ]
+}
       `,
     });
 
-    return { itinerary: text ?? "Sorry, could not generate itinerary." };
+    if (!output) {
+      throw new Error("Failed to generate itinerary");
+    }
+
+    return output;
   }
 );
