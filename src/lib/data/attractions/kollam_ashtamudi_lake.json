@@ -17,14 +17,7 @@
         ]
     },
     "images": [
-        {
-            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fashtamudi_lake%2F1.jpg",
-            "caption": "Houseboats on Ashtamudi Lake"
-        },
-        {
-            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fashtamudi_lake%2F2.jpg",
-            "caption": "Scenic view of Ashtamudi backwaters"
-        }
+        "attraction-ashtamudi-lake"
     ],
     "history": {
         "short_description": "A major backwater lake in Kerala known as the gateway to the state’s extensive backwater network.",

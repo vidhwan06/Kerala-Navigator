@@ -9,7 +9,7 @@
     {
       "id": "attraction-padmanabhaswamy-temple",
       "description": "The iconic Sree Padmanabhaswamy Temple in Trivandrum over the temple tank.",
-      "imageUrl": "https://images.unsplash.com/photo-1628362243501-4d3753b2d18b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxrZXJhbGElMjB0ZW1wbGUlMjBleHRlcmlvcnxlbnwwfHx8fDE3NjUwMzUxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/trivandrum_sree_padmanabhaswamy_temple.jpg",
       "imageHint": "hindu temple"
     },
     {
@@ -57,8 +57,38 @@
     {
       "id": "attraction-shanghumugham-beach",
       "description": "The giant 'Matsya Kanyaka' (Mermaid) sculpture at Shanghumugham beach.",
-      "imageUrl": "https://images.unsplash.com/photo-1629935899458-7096c64c38a3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtZXJtYWlkJTIwc2N1bHB0dXJlfGVufDB8fHx8MTc2NDg1NjUxM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/trivandrum_shanghumugham_beach.png",
       "imageHint": "mermaid sculpture"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-6",
+      "description": "Gallery image 1 for Shanghumugham Beach",
+      "imageUrl": "/images/shanghumugham_gallery_1.jpg",
+      "imageHint": "shanghumugham gallery"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-7",
+      "description": "Gallery image 2 for Shanghumugham Beach",
+      "imageUrl": "/images/shanghumugham_gallery_2.jpg",
+      "imageHint": "shanghumugham gallery"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-8",
+      "description": "Gallery image 3 for Shanghumugham Beach",
+      "imageUrl": "/images/shanghumugham_gallery_3.jpg",
+      "imageHint": "shanghumugham gallery"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-9",
+      "description": "Gallery image 4 for Shanghumugham Beach",
+      "imageUrl": "/images/shanghumugham_gallery_4.jpg",
+      "imageHint": "shanghumugham gallery"
+    },
+    {
+      "id": "attraction-shanghumugham-beach-10",
+      "description": "Gallery image 5 for Shanghumugham Beach",
+      "imageUrl": "/images/shanghumugham_gallery_5.jpg",
+      "imageHint": "shanghumugham gallery"
     },
     {
       "id": "attraction-shanghumugham-beach-2",
@@ -81,8 +111,14 @@
     {
       "id": "attraction-trivandrum-zoo",
       "description": "A tiger in a zoo enclosure.",
-      "imageUrl": "https://images.unsplash.com/photo-1589883983833-2a45d07f3c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx6b28lMjBlbmNsb3N1cmV8ZW58MHx8fHwxNzYzNjI1MjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/trivandrum_zoo.jpg",
       "imageHint": "zoo animal"
+    },
+    {
+      "id": "attraction-kanakakunnu-palace",
+      "description": "The majestic Kanakakkunnu Palace in Trivandrum.",
+      "imageUrl": "/images/trivandrum_kanakakunnu_palace.jpg",
+      "imageHint": "palace exterior"
     },
     {
       "id": "attraction-trivandrum-zoo-2",
@@ -93,7 +129,7 @@
     {
       "id": "attraction-poovar-island",
       "description": "Floating cottages at a resort in Poovar.",
-      "imageUrl": "https://images.unsplash.com/photo-1627063467140-520f18398455?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxrZXJhbGElMjByZXNvcnR8ZW58MHx8fHwxNzYzNzEyOTU1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/trivandrum_poovar_island.jpg",
       "imageHint": "kerala resort"
     },
     {
@@ -101,12 +137,6 @@
       "description": "A boat cruising through a dense mangrove forest.",
       "imageUrl": "https://images.unsplash.com/photo-1596700147983-5a914593883a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxtYW5ncm92ZSUyMGZvcmVzdCUyMGJvYXR8ZW58MHx8fHwxNzY0ODU2NzQ5fDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "mangrove boat"
-    },
-    {
-      "id": "attraction-kanakakunnu-palace",
-      "description": "The exterior of a grand, historic Indian palace.",
-      "imageUrl": "https://images.unsplash.com/photo-1599901868516-042c14101e43?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxyb3lhbCUyMHBhbGFjZXxlbnwwfHx8fDE3NjM4ODgyMzR8MA&ixlib=rb-4.1.0&q=80&w=1080",
-      "imageHint": "royal palace"
     },
     {
       "id": "attraction-kanakakunnu-palace-2",
@@ -117,7 +147,7 @@
     {
       "id": "attraction-banasura-dam",
       "description": "The scenic view of Banasura Sagar Dam in Wayanad.",
-      "imageUrl": "https://images.unsplash.com/photo-1603513409193-2731c3905510?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYW0lMjBpbmRpYXxlbnwwfHx8fDE3NjM4ODg3NDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/wayanad_banasura_dam.png",
       "imageHint": "dam india"
     },
     {
@@ -129,7 +159,7 @@
     {
       "id": "attraction-edakkal-caves",
       "description": "Prehistoric rock carvings inside Edakkal Caves.",
-      "imageUrl": "https://images.unsplash.com/photo-1519008249694-c7a36b890a03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhbmNpZW50JTIwcm9jayUyMGNhcnZpbmdzfGVufDB8fHx8MTc2Mzg5MjQ5OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/wayanad_edakkal_caves.png",
       "imageHint": "rock carvings"
     },
     {
@@ -141,7 +171,7 @@
     {
       "id": "attraction-chembra-peak",
       "description": "A view of the heart-shaped lake on the way to Chembra Peak.",
-      "imageUrl": "https://images.unsplash.com/photo-1628182189422-70f90710b7d8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFydCUyMGxha2V8ZW58MHx8fHwxNzY0MjQyNDExfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/wayanad_chembra_peak.jpg",
       "imageHint": "heart lake"
     },
     {
@@ -153,7 +183,7 @@
     {
       "id": "attraction-soochipara-falls",
       "description": "The three-tiered Soochipara Waterfalls in Wayanad.",
-      "imageUrl": "https://images.unsplash.com/photo-1593006845380-1a52c38a3915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3YXRlcmZhbGwlMjBrZXJhbGF8ZW58MHx8fHwxNzY0MjQyNzU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/wayanad_soochipara_falls.jpg",
       "imageHint": "kerala waterfall"
     },
     {
@@ -177,7 +207,7 @@
     {
       "id": "attraction-kuruvadweep-island",
       "description": "Bamboo rafting on the Kabini River at Kuruvadweep.",
-      "imageUrl": "https://images.unsplash.com/photo-1620800366479-79a427003460?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxiYW1ib28lMjByYWZ0aW5nJTIwa2VyYWxhfGVufDB8fHx8MTc2NDM0NjI0N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/wayanad_kuruvadweep.jpg",
       "imageHint": "bamboo rafting"
     },
     {
@@ -189,7 +219,7 @@
     {
       "id": "attraction-karapuzha-dam",
       "description": "A view of the Karapuzha Dam and surrounding adventure park.",
-      "imageUrl": "https://images.unsplash.com/photo-1628182189339-b17c76895318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhZHZlbnR1cmUlMjBwYXJrfGVufDB8fHx8MTc2NDYwMjc5N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/wayanad_karapuzha_dam.png",
       "imageHint": "adventure park"
     },
     {
@@ -201,7 +231,7 @@
     {
       "id": "attraction-meenmutty-falls",
       "description": "The powerful Meenmutty Waterfalls in Wayanad, Kerala.",
-      "imageUrl": "https://images.unsplash.com/photo-1603203093382-0294c7a5f782?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxrZXJhbGElMjB3YXRlcmZhbGx8ZW58MHx8fHwxNzY0NzYwODQyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/wayanad_meenmutty_falls.png",
       "imageHint": "kerala waterfall"
     },
     {
@@ -213,7 +243,7 @@
     {
       "id": "attraction-kanthanpara-falls",
       "description": "The gentle Kanthanpara Waterfalls, ideal for families.",
-      "imageUrl": "https://images.unsplash.com/photo-1593006845380-1a52c38a3915?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx3YXRlcmZhbGwlMjBrZXJhbGF8ZW58MHx8fHwxNzY0MjQyNzU5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/wayanad_kanthanpara_falls.jpg",
       "imageHint": "kerala waterfall"
     },
     {
@@ -225,7 +255,7 @@
     {
       "id": "attraction-tholpetty-safari",
       "description": "A jeep safari in a lush green wildlife sanctuary.",
-      "imageUrl": "https://images.unsplash.com/photo-1589883983833-2a45d07f3c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx3aWxkbGlmZSUyMHNhZmFyaXxlbnwwfHx8fDE3NjQ4NDcyNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1589883983833-2a45d07f3c1f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmRpYW4lMjB3aWxkbGlmZSUyMHNhZmFyaXxlbnwwfHx8fDE3NjQ4NDcyNDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "wildlife safari"
     },
     {
@@ -249,7 +279,7 @@
     {
       "id": "attraction-alleppey-backwaters",
       "description": "A traditional houseboat cruising through the serene backwaters of Alleppey, lined with coconut trees.",
-      "imageUrl": "https://images.unsplash.com/photo-1603787723954-d178a014902a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhbGxlcHBleSUyMGhvdXNlYm9hdHxlbnwwfHx8fDE3NjQ4NjMxNDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "/images/alleppey_backwaters_houseboat.jpg",
       "imageHint": "houseboat backwaters"
     },
     {
@@ -267,7 +297,7 @@
     {
       "id": "attraction-alappuzha-beach-2",
       "description": "The historic, rustic remains of the old sea bridge pier at Alappuzha Beach.",
-      "imageUrl": "https://images.unsplash.com/photo-1628177522396-9966620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGxlcHBleSUyMHNlYSUyMGJyaWRnZXxlbnwwfHx8fDE3NjUwMzExMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1628177522396-9966620?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhbGxlcHBleSUyMHNlYyUyMGJyaWRnZXxlbnwwfHx8fDE3NjUwMzExMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "sea bridge"
     },
     {
@@ -363,7 +393,7 @@
     {
       "id": "attraction-pathiramanal-island-2",
       "description": "A nature trail path through a forest, ideal for birdwatching.",
-      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmb3Jlc3QlMjB0cmFpbCUyMHBhdGh8ZW58MHx8fHwxNzY1MjIwMDAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1448375240586-882707db888b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmbyJlc3QlMjB0cmFpbCUyMHBhdGh8ZW58MHx8fHwxNzY1MjIwMDAxfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "forest trail"
     },
     {
@@ -459,7 +489,7 @@
     {
       "id": "attraction-veli-village-5",
       "description": "Sunset view where the lake meets the Arabian Sea.",
-      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8bGFrZSUyMHN1bnNldHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageUrl": "https://images.unsplash.com/photo-1506260408121-e353d10b87c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxNHx8bGakZSUyMHN1bnNldHxlbnwwfHx8fDE3NjUzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "lake sunset"
     },
     {
@@ -1571,6 +1601,36 @@
       "description": "Reservoir reflections at Anchuruli",
       "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMTJ8fHJlc2Vydm9pciUyMHJlZmxlY3Rpb25zfGVufDB8fHx8MTc2NTMyMDAwMHww&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "reservoir reflections"
+    },
+    {
+      "id": "attraction-ashtamudi-lake",
+      "description": "Houseboats on Ashtamudi Lake",
+      "imageUrl": "/images/kollam_ashtamudi_lake.png",
+      "imageHint": "backwaters"
+    },
+    {
+      "id": "attraction-jatayu-earths-center",
+      "description": "Jatayu Earth's Center sculpture",
+      "imageUrl": "/images/kollam_jatayu_earths_center.png",
+      "imageHint": "sculpture"
+    },
+    {
+      "id": "attraction-palaruvi-waterfalls",
+      "description": "Palaruvi Waterfalls cascade",
+      "imageUrl": "/images/kollam_palaruvi_waterfalls.jpg",
+      "imageHint": "waterfall"
+    },
+    {
+      "id": "attraction-thenmala-ecotourism",
+      "description": "Thenmala Eco-Tourism park",
+      "imageUrl": "/images/kollam_thenmala_ecotourism.png",
+      "imageHint": "ecotourism"
+    },
+    {
+      "id": "attraction-sasthamkotta-lake",
+      "description": "Sasthamkotta Lake view",
+      "imageUrl": "/images/kollam_sasthamkotta_lake.png",
+      "imageHint": "lake"
     }
   ]
 }

@@ -17,14 +17,7 @@
         ]
     },
     "images": [
-        {
-            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fthenmala_ecotourism%2F1.jpg",
-            "caption": "Thenmala eco-tourism zone and forest walkway"
-        },
-        {
-            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fthenmala_ecotourism%2F2.jpg",
-            "caption": "View of Thenmala dam and surrounding forest"
-        }
+        "attraction-thenmala-ecotourism"
     ],
     "history": {
         "short_description": "India’s first planned eco-tourism destination offering forest experiences, adventure activities, and nature conservation zones.",

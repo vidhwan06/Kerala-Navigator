@@ -17,14 +17,7 @@
         ]
     },
     "images": [
-        {
-            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fjatayu_earths_center%2F1.jpg",
-            "caption": "World’s largest bird sculpture at Jatayu Earth’s Center"
-        },
-        {
-            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fjatayu_earths_center%2F2.jpg",
-            "caption": "Cable car ride to the top of Jatayupara"
-        }
+        "attraction-jatayu-earths-center"
     ],
     "history": {
         "short_description": "A giant sculpture and adventure park themed around the mythical bird Jatayu from the Ramayana.",

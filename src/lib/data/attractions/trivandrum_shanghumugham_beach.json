@@ -1,181 +1,186 @@
 {
-    "id":  "trivandrum_shanghumugham_beach",
-    "name":  "Shanghumugham Beach",
-    "category":  "Beach",
-    "city":  "Thiruvananthapuram",
-    "district":  "Trivandrum",
-    "state":  "Kerala",
-    "country":  "India",
-    "location":  {
-                     "address":  "Shanghumugham, Trivandrum, Kerala",
-                     "latitude":  8.481,
-                     "longitude":  76.909,
-                     "landmarks_nearby":  [
-                                              "Trivandrum International Airport",
-                                              "Matsya Kanyaka Sculpture"
-                                          ]
-                 },
-    "images":  [
-                   "attraction-shanghumugham-beach",
-                   "attraction-shanghumugham-beach-2",
-                   "attraction-shanghumugham-beach-3",
-                   "attraction-shanghumugham-beach-4",
-                   "attraction-shanghumugham-beach-5"
-               ],
-    "history":  {
-                    "short_description":  "A popular city beach known for its wide sandy shore and proximity to Trivandrum Airport.",
-                    "detailed":  "Shanghumugham Beach has long been a favorite evening spot for the residents of Thiruvananthapuram. Its popularity grew with its proximity to the airport and the installation of the iconic \u0027Matsya Kanyaka\u0027 (Mermaid) sculpture by the renowned artist Kanayi Kunhiraman in 1990. The beach is a venue for various cultural events and religious rituals, including the \u0027Bali Tharpanam\u0027 ceremony. It offers a spacious promenade, a children\u0027s park, and food stalls, making it a complete family destination."
-                },
-    "significance":  {
-                         "tourism":  "Famous for its spectacular sunsets, the giant mermaid sculpture, and being a recreational hub for locals and tourists.",
-                         "cultural":  "An important site for local festivals and the \u0027Arattu\u0027 procession from the Sree Padmanabhaswamy Temple. It is a common gathering place for city dwellers."
-                     },
-    "visitor_info":  {
-                         "timings":  [
-                                         {
-                                             "session":  "General",
-                                             "start_time":  "05:00",
-                                             "end_time":  "19:30",
-                                             "note":  "Best visited during sunrise or sunset."
-                                         }
-                                     ],
-                         "activities":  [
-                                            "Sunset watching",
-                                            "Beach walks",
-                                            "Photography",
-                                            "Trying local street food"
-                                        ],
-                         "entry_rules":  {
-                                             "entry_fee":  "Free",
-                                             "warning":  "Swimming is often not recommended due to strong currents."
-                                         },
-                         "recommended_visit_duration_minutes":  60,
-                         "best_time_to_visit":  [
-                                                    "Evenings for sunset",
-                                                    "September to March"
-                                                ],
-                         "average_crowd_level":  "High during evenings and weekends"
-                     },
-    "reviews_summary":  {
-                            "overall_rating_out_of_5":  4.1,
-                            "highlights":  [
-                                               "Beautiful sunset views",
-                                               "Close proximity to the airport",
-                                               "Iconic mermaid sculpture"
-                                           ],
-                            "common_complaints":  [
-                                                      "Can be crowded",
-                                                      "Maintenance of the area could be improved"
-                                                  ],
-                            "tips_from_visitors":  [
-                                                       "Visit in the evening to enjoy the cool sea breeze and sunset.",
-                                                       "Check out the local food stalls."
-                                                   ]
-                        },
-    "transport":  {
-                      "nearest_airport":  {
-                                              "name":  "Trivandrum International Airport",
-                                              "approx_distance_km":  2,
-                                              "travel_options":  [
-                                                                     "Taxi",
-                                                                     "Auto-rickshaw"
-                                                                 ]
-                                          },
-                      "nearest_railway_station":  {
-                                                      "name":  "Thiruvananthapuram Central",
-                                                      "approx_distance_km":  8,
-                                                      "travel_options":  [
-                                                                             "Taxi",
-                                                                             "Auto-rickshaw",
-                                                                             "Bus"
-                                                                         ]
-                                                  },
-                      "by_road":  {
-                                      "description":  "Easily accessible by city buses, taxis, and auto-rickshaws from anywhere in Trivandrum.",
-                                      "parking_info":  "Parking space is available along the beach road."
-                                  }
-                  },
-    "nearby_food_places":  [
-                               {
-                                   "name":  "Shanghumugham Food Court",
-                                   "type":  "Snacks \u0026 Street Food",
-                                   "cuisine":  [
-                                                   "Local Snacks",
-                                                   "Juices"
-                                               ],
-                                   "distance_km":  0.1,
-                                   "price_range":  "₹",
-                                   "specialties":  [
-                                                       "Bajjis",
-                                                       "Ice cream"
-                                                   ],
-                                   "recommended_for":  [
-                                                           "Quick bites"
-                                                       ]
-                               },
-                               {
-                                   "name":  "Old Coffee House",
-                                   "type":  "Restaurant",
-                                   "cuisine":  [
-                                                   "Indian",
-                                                   "Chinese"
-                                               ],
-                                   "distance_km":  1.5,
-                                   "price_range":  "₹₹",
-                                   "specialties":  [
-                                                       "Biryani",
-                                                       "Meals"
-                                                   ],
-                                   "recommended_for":  [
-                                                           "Families"
-                                                       ]
-                               }
-                           ],
-    "nearby_accommodations":  [
-                                  {
-                                      "name":  "Classic Sarovar Portico",
-                                      "type":  "4-Star Hotel",
-                                      "distance_km":  6,
-                                      "price_range":  "₹₹₹",
-                                      "recommended_for":  [
-                                                              "Business travelers",
-                                                              "Tourists"
-                                                          ]
-                                  },
-                                  {
-                                      "name":  "Uday Suites",
-                                      "type":  "4-Star Hotel",
-                                      "distance_km":  4,
-                                      "price_range":  "₹₹₹",
-                                      "recommended_for":  [
-                                                              "Tourists",
-                                                              "Families"
-                                                          ]
-                                  }
-                              ],
-    "nearby_attractions":  [
-                               {
-                                   "name":  "Veli Tourist Village",
-                                   "approx_distance_km":  3
-                               },
-                               {
-                                   "name":  "Trivandrum International Airport View",
-                                   "approx_distance_km":  1
-                               }
-                           ],
-    "app_specific":  {
-                         "tags":  [
-                                      "sunset",
-                                      "beach",
-                                      "sculpture",
-                                      "city-life"
-                                  ],
-                         "alerts_suggestions":  [
-                                                    "Provide high-tide warnings."
-                                                ]
-                     },
-    "meta":  {
-                 "last_updated":  "2025-11-22",
-                 "data_note":  "Information is subject to change."
-             }
+    "id": "trivandrum_shanghumugham_beach",
+    "name": "Shanghumugham Beach",
+    "category": "Beach",
+    "city": "Thiruvananthapuram",
+    "district": "Trivandrum",
+    "state": "Kerala",
+    "country": "India",
+    "location": {
+        "address": "Shanghumugham, Trivandrum, Kerala",
+        "latitude": 8.481,
+        "longitude": 76.909,
+        "landmarks_nearby": [
+            "Trivandrum International Airport",
+            "Matsya Kanyaka Sculpture"
+        ]
+    },
+    "images": [
+        "attraction-shanghumugham-beach",
+        "attraction-shanghumugham-beach-2",
+        "attraction-shanghumugham-beach-3",
+        "attraction-shanghumugham-beach-4",
+        "attraction-shanghumugham-beach-5",
+        "attraction-shanghumugham-beach-6",
+        "attraction-shanghumugham-beach-7",
+        "attraction-shanghumugham-beach-8",
+        "attraction-shanghumugham-beach-9",
+        "attraction-shanghumugham-beach-10"
+    ],
+    "history": {
+        "short_description": "A popular city beach known for its wide sandy shore and proximity to Trivandrum Airport.",
+        "detailed": "Shanghumugham Beach has long been a favorite evening spot for the residents of Thiruvananthapuram. Its popularity grew with its proximity to the airport and the installation of the iconic \u0027Matsya Kanyaka\u0027 (Mermaid) sculpture by the renowned artist Kanayi Kunhiraman in 1990. The beach is a venue for various cultural events and religious rituals, including the \u0027Bali Tharpanam\u0027 ceremony. It offers a spacious promenade, a children\u0027s park, and food stalls, making it a complete family destination."
+    },
+    "significance": {
+        "tourism": "Famous for its spectacular sunsets, the giant mermaid sculpture, and being a recreational hub for locals and tourists.",
+        "cultural": "An important site for local festivals and the \u0027Arattu\u0027 procession from the Sree Padmanabhaswamy Temple. It is a common gathering place for city dwellers."
+    },
+    "visitor_info": {
+        "timings": [
+            {
+                "session": "General",
+                "start_time": "05:00",
+                "end_time": "19:30",
+                "note": "Best visited during sunrise or sunset."
+            }
+        ],
+        "activities": [
+            "Sunset watching",
+            "Beach walks",
+            "Photography",
+            "Trying local street food"
+        ],
+        "entry_rules": {
+            "entry_fee": "Free",
+            "warning": "Swimming is often not recommended due to strong currents."
+        },
+        "recommended_visit_duration_minutes": 60,
+        "best_time_to_visit": [
+            "Evenings for sunset",
+            "September to March"
+        ],
+        "average_crowd_level": "High during evenings and weekends"
+    },
+    "reviews_summary": {
+        "overall_rating_out_of_5": 4.1,
+        "highlights": [
+            "Beautiful sunset views",
+            "Close proximity to the airport",
+            "Iconic mermaid sculpture"
+        ],
+        "common_complaints": [
+            "Can be crowded",
+            "Maintenance of the area could be improved"
+        ],
+        "tips_from_visitors": [
+            "Visit in the evening to enjoy the cool sea breeze and sunset.",
+            "Check out the local food stalls."
+        ]
+    },
+    "transport": {
+        "nearest_airport": {
+            "name": "Trivandrum International Airport",
+            "approx_distance_km": 2,
+            "travel_options": [
+                "Taxi",
+                "Auto-rickshaw"
+            ]
+        },
+        "nearest_railway_station": {
+            "name": "Thiruvananthapuram Central",
+            "approx_distance_km": 8,
+            "travel_options": [
+                "Taxi",
+                "Auto-rickshaw",
+                "Bus"
+            ]
+        },
+        "by_road": {
+            "description": "Easily accessible by city buses, taxis, and auto-rickshaws from anywhere in Trivandrum.",
+            "parking_info": "Parking space is available along the beach road."
+        }
+    },
+    "nearby_food_places": [
+        {
+            "name": "Shanghumugham Food Court",
+            "type": "Snacks \u0026 Street Food",
+            "cuisine": [
+                "Local Snacks",
+                "Juices"
+            ],
+            "distance_km": 0.1,
+            "price_range": "₹",
+            "specialties": [
+                "Bajjis",
+                "Ice cream"
+            ],
+            "recommended_for": [
+                "Quick bites"
+            ]
+        },
+        {
+            "name": "Old Coffee House",
+            "type": "Restaurant",
+            "cuisine": [
+                "Indian",
+                "Chinese"
+            ],
+            "distance_km": 1.5,
+            "price_range": "₹₹",
+            "specialties": [
+                "Biryani",
+                "Meals"
+            ],
+            "recommended_for": [
+                "Families"
+            ]
+        }
+    ],
+    "nearby_accommodations": [
+        {
+            "name": "Classic Sarovar Portico",
+            "type": "4-Star Hotel",
+            "distance_km": 6,
+            "price_range": "₹₹₹",
+            "recommended_for": [
+                "Business travelers",
+                "Tourists"
+            ]
+        },
+        {
+            "name": "Uday Suites",
+            "type": "4-Star Hotel",
+            "distance_km": 4,
+            "price_range": "₹₹₹",
+            "recommended_for": [
+                "Tourists",
+                "Families"
+            ]
+        }
+    ],
+    "nearby_attractions": [
+        {
+            "name": "Veli Tourist Village",
+            "approx_distance_km": 3
+        },
+        {
+            "name": "Trivandrum International Airport View",
+            "approx_distance_km": 1
+        }
+    ],
+    "app_specific": {
+        "tags": [
+            "sunset",
+            "beach",
+            "sculpture",
+            "city-life"
+        ],
+        "alerts_suggestions": [
+            "Provide high-tide warnings."
+        ]
+    },
+    "meta": {
+        "last_updated": "2025-11-22",
+        "data_note": "Information is subject to change."
+    }
 }

@@ -17,14 +17,7 @@
         ]
     },
     "images": [
-        {
-            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fpalaruvi_waterfalls%2F1.jpg",
-            "caption": "View of cascading Palaruvi Waterfalls"
-        },
-        {
-            "url": "https://firebasestorage.googleapis.com/YOUR_FIREBASE_URL/places%2Fkollam%2Fpalaruvi_waterfalls%2F2.jpg",
-            "caption": "Visitor area and natural pools at Palaruvi"
-        }
+        "attraction-palaruvi-waterfalls"
     ],
     "history": {
         "short_description": "A 300-foot tall waterfall nestled in dense forest, known for its milky-white cascade and serene natural surroundings.",
